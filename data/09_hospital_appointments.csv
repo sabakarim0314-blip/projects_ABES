@@ -1,0 +1,2421 @@
+Appointment_ID,Patient_ID,Appointment_Date,Department,Doctor_ID,Appointment_Type,SMS_Reminder,Attendance_Status,Waiting_Time_Min,Consultation_Fee
+APT20004,PAT0342,2025-04-01,General Medicine,GM-D4,Follow-up,No,Attended,42.0,450
+APT20128,PAT0957,2025-04-01,Orthopedics,OR-D1,Follow-up,Yes,Attended,41.0,850
+APT20152,PAT1175,2025-04-01,General Medicine,GM-D2,Follow-up,Yes,Attended,43.0,450
+APT20256,PAT1247,2025-04-01,Orthopedics,OR-D2,New,No,Attended,44.0,1105
+APT20334,PAT1318,2025-04-01,Urology,UR-D1,Follow-up,No,Attended,16.0,800
+APT20493,PAT1350,2025-04-01,Pediatrics,PD-D3,Follow-up,No,No-Show,,550
+APT20503,PAT1180,2025-04-01,Dermatology,DM-D3,New,No,Attended,27.0,845
+APT20504,PAT0231,2025-04-01,Neurology,NE-D4,Follow-up,Yes,Attended,46.0,1300
+APT20579,PAT1295,2025-04-01,Orthopedics,OR-D1,New,No,Attended,74.0,1105
+APT20652,PAT0408,2025-04-01,Urology,UR-D4,New,Yes,Attended,42.0,990
+APT20657,PAT0975,2025-04-01,Pediatrics,PD-D4,New,Yes,Attended,32.0,765
+APT20681,PAT0687,2025-04-01,Orthopedics,OR-D4,New,No,Attended,45.0,1105
+APT20708,PAT0434,2025-04-01,Orthopedics,OR-D3,Follow-up,No,Attended,42.0,850
+APT20718,PAT0649,2025-04-01,Pediatrics,PD-D3,Follow-up,Yes,Attended,13.0,550
+APT20729,PAT1102,2025-04-01,Urology,UR-D4,New,Yes,Attended,34.0,1040
+APT20759,PAT0115,2025-04-01,Gastroenterology,GA-D3,Follow-up,No,Attended,156.0,950
+APT20779,PAT0608,2025-04-01,Pediatrics,PD-D3,New,No,Attended,32.0,765
+APT21258,PAT1025,2025-04-01,Orthopedics,OR-D3,New,Yes,Attended,59.0,1105
+APT21585,PAT0843,2025-04-01,Neurology,NE-D2,New,Yes,Attended,61.0,1640
+APT21590,PAT0965,2025-04-01,Urology,UR-D1,New,Yes,Attended,46.0,1040
+APT21686,PAT1249,2025-04-01,General Medicine,GM-D4,Follow-up,Yes,Attended,17.0,500
+APT21773,PAT1236,2025-04-01,Urology,UR-D2,Follow-up,Yes,Attended,35.0,750
+APT21800,PAT1370,2025-04-01,Cardiology,CD-D1,Follow-up,Yes,Attended,57.0,1050
+APT21929,PAT0640,2025-04-01,Dermatology,DM-D2,Follow-up,No,Attended,20.0,650
+APT21985,PAT1098,2025-04-01,Dermatology,DM-D1,Follow-up,Yes,Attended,22.0,700
+APT22052,PAT0586,2025-04-01,Orthopedics,OR-D2,Follow-up,Yes,Attended,49.0,850
+APT22058,PAT0211,2025-04-01,Urology,UR-D4,Follow-up,No,No-Show,,850
+APT22073,PAT1182,2025-04-01,Dermatology,DM-D4,Follow-up,No,Attended,14.0,650
+APT22192,PAT0459,2025-04-01,Dermatology,DM-D1,New,Yes,Attended,32.0,895
+APT22194,PAT1234,2025-04-01,Neurology,NE-D1,Follow-up,No,Attended,60.0,1250
+APT22204,PAT1004,2025-04-01,Urology,UR-D4,New,No,Attended,39.0,1040
+APT22257,PAT0786,2025-04-01,Dermatology,DM-D1,Follow-up,Yes,Attended,114.0,600
+APT22323,PAT1001,2025-04-01,Cardiology,CD-D1,Follow-up,No,Attended,42.0,1100
+APT20038,PAT0544,2025-04-02,Cardiology,CD-D3,Follow-up,No,Attended,26.0,1150
+APT20051,PAT1070,2025-04-02,General Medicine,GM-D4,Follow-up,Yes,Attended,39.0,450
+APT20141,PAT0914,2025-04-02,Dermatology,DM-D2,New,Yes,No-Show,,895
+APT20451,PAT0633,2025-04-02,General Medicine,GM-D2,Follow-up,Yes,Attended,34.0,500
+APT20489,PAT0385,2025-04-02,Urology,UR-D4,Follow-up,No,Attended,33.0,850
+APT20515,PAT0901,2025-04-02,Pediatrics,PD-D1,Follow-up,No,No-Show,,550
+APT20543,PAT1354,2025-04-02,Gastroenterology,GA-D3,Follow-up,Yes,Attended,29.0,950
+APT20562,PAT1129,2025-04-02,Gastroenterology,GA-D2,New,No,Cancelled,,1285
+APT20825,PAT0786,2025-04-02,Gastroenterology,GA-D3,New,No,No-Show,,1235
+APT20861,PAT0122,2025-04-02,Neurology,NE-D2,Follow-up,Yes,Attended,138.0,1300
+APT20894,PAT0254,2025-04-02,Neurology,NE-D4,Follow-up,Yes,Attended,17.0,1300
+APT21004,PAT0189,2025-04-02,Gastroenterology,GA-D2,Follow-up,Yes,No-Show,,1000
+APT21023,PAT1302,2025-04-02,Orthopedics,OR-D3,New,Yes,Attended,46.0,1105
+APT21051,PAT0109,2025-04-02,General Medicine,GM-D1,Follow-up,No,No-Show,,450
+APT21150,PAT0062,2025-04-02,Urology,UR-D2,Follow-up,No,Attended,,800
+APT21158,PAT0629,2025-04-02,Urology,UR-D1,Follow-up,Yes,No-Show,,850
+APT21413,PAT0359,2025-04-02,Neurology,NE-D4,Follow-up,No,Attended,78.0,1300
+APT21440,PAT0857,2025-04-02,Gastroenterology,GA-D2,New,No,No-Show,,1235
+APT21670,PAT1332,2025-04-02,General Medicine,GM-D3,Follow-up,Yes,Attended,42.0,450
+APT21678,PAT0713,2025-04-02,Dermatology,DM-D1,New,Yes,No-Show,,895
+APT21693,PAT0210,2025-04-02,Urology,UR-D1,New,Yes,Attended,21.0,1090
+APT21697,PAT0922,2025-04-02,Cardiology,CD-D2,Follow-up,Yes,Attended,124.0,1100
+APT21715,PAT0102,2025-04-02,Orthopedics,OR-D2,Follow-up,Yes,Attended,43.0,900
+APT21930,PAT1071,2025-04-02,Dermatology,DM-D4,Follow-up,No,Attended,22.0,650
+APT21948,PAT0671,2025-04-02,General Medicine,GM-D2,Follow-up,Yes,Attended,49.0,500
+APT22072,PAT0347,2025-04-02,Orthopedics,OR-D3,Follow-up,Yes,Attended,44.0,850
+APT22110,PAT1232,2025-04-02,General Medicine,GM-D1,Follow-up,Yes,Attended,31.0,450
+APT22165,PAT0737,2025-04-02,Cardiology,CD-D4,Follow-up,No,Attended,41.0,1050
+APT22168,PAT0559,2025-04-02,Dermatology,DM-D1,New,No,Attended,98.0,795
+APT22219,PAT1296,2025-04-02,Pediatrics,PD-D2,Follow-up,Yes,Attended,11.0,550
+APT22253,PAT0949,2025-04-02,General Medicine,GM-D4,Follow-up,Yes,Attended,34.0,450
+APT22360,PAT0144,2025-04-02,Orthopedics,OR-D2,Follow-up,No,Cancelled,,800
+APT20129,PAT0078,2025-04-03,Pediatrics,PD-D3,Follow-up,Yes,Attended,32.0,550
+APT20160,PAT0365,2025-04-03,General Medicine,GM-D2,Follow-up,Yes,Attended,,450
+APT20211,PAT0792,2025-04-03,Cardiology,CD-D3,New,Yes,Cancelled,,1480
+APT20234,PAT0942,2025-04-03,Dermatology,DM-D3,Follow-up,No,Attended,17.0,700
+APT20331,PAT0528,2025-04-03,Dermatology,DM-D3,Follow-up,No,Attended,21.0,650
+APT20373,PAT0351,2025-04-03,Orthopedics,OR-D1,Follow-up,Yes,Attended,47.0,850
+APT20444,PAT0644,2025-04-03,Cardiology,CD-D4,New,Yes,Attended,60.0,1430
+APT20570,PAT0180,2025-04-03,General Medicine,GM-D4,New,Yes,Attended,59.0,585
+APT20735,PAT0182,2025-04-03,Dermatology,DM-D3,Follow-up,No,Attended,18.0,650
+APT20737,PAT0830,2025-04-03,Cardiology,CD-D2,New,Yes,No-Show,,1430
+APT20740,PAT0239,2025-04-03,General Medicine,GM-D4,Follow-up,No,No-Show,,450
+APT20898,PAT0189,2025-04-03,Cardiology,CD-D3,Follow-up,No,No-Show,,1100
+APT20980,PAT0649,2025-04-03,Gastroenterology,GA-D1,Follow-up,Yes,Attended,42.0,1000
+APT20994,PAT0889,2025-04-03,General Medicine,GM-D3,Follow-up,No,Attended,68.0,500
+APT20998,PAT0128,2025-04-03,Pediatrics,PD-D3,New,Yes,Attended,27.0,665
+APT21028,PAT0539,2025-04-03,Pediatrics,PD-D2,New,Yes,No-Show,,765
+APT21042,PAT0972,2025-04-03,Gastroenterology,GA-D2,New,No,Attended,44.0,1235
+APT21064,PAT0627,2025-04-03,General Medicine,GM-D1,Follow-up,Yes,Attended,,400
+APT21091,PAT0127,2025-04-03,Pediatrics,PD-D1,Follow-up,Yes,No-Show,,550
+APT21230,PAT0749,2025-04-03,Cardiology,CD-D3,New,No,Attended,59.0,1430
+APT21344,PAT0641,2025-04-03,General Medicine,GM-D3,New,Yes,Attended,46.0,585
+APT21391,PAT0663,2025-04-03,General Medicine,GM-D1,Follow-up,Yes,Attended,28.0,450
+APT21421,PAT1126,2025-04-03,General Medicine,GM-D4,New,Yes,Attended,12.0,635
+APT21464,PAT0489,2025-04-03,Orthopedics,OR-D1,Follow-up,Yes,Attended,,800
+APT21473,PAT0631,2025-04-03,General Medicine,GM-D2,New,No,Attended,43.0,535
+APT21506,PAT0232,2025-04-03,Gastroenterology,GA-D4,New,No,No-Show,,1235
+APT21513,PAT0087,2025-04-03,General Medicine,GM-D4,New,No,Attended,51.0,585
+APT21660,PAT0053,2025-04-03,Orthopedics,OR-D4,Follow-up,Yes,Attended,,850
+APT22009,PAT0184,2025-04-03,Urology,UR-D4,Follow-up,Yes,Attended,16.0,750
+APT22115,PAT0591,2025-04-03,Neurology,NE-D3,New,No,Attended,71.0,1640
+APT22124,PAT0264,2025-04-03,Cardiology,CD-D2,New,Yes,Attended,40.0,1430
+APT22154,PAT0163,2025-04-03,General Medicine,GM-D1,New,No,Attended,51.0,585
+APT22189,PAT0965,2025-04-03,Orthopedics,OR-D1,Follow-up,Yes,Attended,35.0,900
+APT22199,PAT1002,2025-04-03,Cardiology,CD-D1,Follow-up,No,Attended,55.0,1050
+APT22270,PAT1228,2025-04-03,Gastroenterology,GA-D4,Follow-up,Yes,No-Show,,1000
+APT22337,PAT0796,2025-04-03,General Medicine,GM-D3,Follow-up,No,Attended,20.0,450
+APT22361,PAT0551,2025-04-03,Neurology,NE-D2,New,No,Attended,67.0,1690
+APT20003,PAT0536,2025-04-04,Gastroenterology,GA-D1,New,Yes,Attended,34.0,1285
+APT20095,PAT0078,2025-04-04,Cardiology,CD-D4,Follow-up,Yes,Attended,33.0,1150
+APT20518,PAT0408,2025-04-04,Pediatrics,PD-D4,New,Yes,No-Show,,715
+APT20634,PAT0415,2025-04-04,Pediatrics,PD-D1,New,No,Attended,28.0,665
+APT20785,PAT0734,2025-04-04,Urology,UR-D1,Follow-up,Yes,Attended,21.0,800
+APT20795,PAT0719,2025-04-04,Cardiology,CD-D3,New,Yes,Attended,63.0,1430
+APT21059,PAT0822,2025-04-04,Neurology,NE-D1,Follow-up,No,Attended,,1300
+APT21099,PAT1007,2025-04-04,Cardiology,CD-D3,Follow-up,No,Attended,45.0,1150
+APT21213,PAT0266,2025-04-04,General Medicine,GM-D3,Follow-up,No,Attended,42.0,400
+APT21405,PAT0111,2025-04-04,General Medicine,GM-D2,Follow-up,Yes,Cancelled,,500
+APT21465,PAT0095,2025-04-04,Neurology,NE-D3,Follow-up,No,No-Show,,1300
+APT21562,PAT1092,2025-04-04,Dermatology,DM-D3,Follow-up,Yes,Attended,12.0,600
+APT21639,PAT0184,2025-04-04,Neurology,NE-D1,Follow-up,Yes,Attended,62.0,1300
+APT21733,PAT0559,2025-04-04,Urology,UR-D3,New,No,No-Show,,1040
+APT21743,PAT0802,2025-04-04,General Medicine,GM-D1,New,Yes,Attended,45.0,585
+APT21775,PAT0485,2025-04-04,Gastroenterology,GA-D4,Follow-up,Yes,Attended,32.0,1000
+APT21905,PAT0052,2025-04-04,Gastroenterology,GA-D3,New,No,Attended,38.0,1285
+APT21959,PAT0390,2025-04-04,Gastroenterology,GA-D2,Follow-up,Yes,Attended,48.0,950
+APT21973,PAT1267,2025-04-04,General Medicine,GM-D4,Follow-up,No,Attended,36.0,450
+APT22339,PAT0976,2025-04-04,Cardiology,CD-D4,New,Yes,Attended,43.0,1430
+APT22341,PAT0511,2025-04-04,Cardiology,CD-D2,Follow-up,Yes,Attended,42.0,1100
+APT22376,PAT0056,2025-04-04,Orthopedics,OR-D3,Follow-up,Yes,Attended,37.0,800
+APT22389,PAT1192,2025-04-04,Dermatology,DM-D3,Follow-up,No,Attended,23.0,700
+APT22398,PAT0553,2025-04-04,Cardiology,CD-D2,Follow-up,Yes,Cancelled,,1100
+APT20040,PAT1151,2025-04-05,Pediatrics,PD-D2,New,Yes,Attended,148.0,665
+APT20098,PAT1109,2025-04-05,Dermatology,DM-D3,Follow-up,Yes,Attended,13.0,650
+APT20150,PAT0201,2025-04-05,Dermatology,DM-D3,New,No,Attended,32.0,845
+APT20274,PAT0618,2025-04-05,Cardiology,CD-D3,Follow-up,No,Attended,41.0,1100
+APT20302,PAT0506,2025-04-05,Neurology,NE-D3,Follow-up,No,Attended,154.0,1300
+APT20561,PAT0681,2025-04-05,General Medicine,GM-D1,New,Yes,Attended,,585
+APT20673,PAT0124,2025-04-05,Urology,UR-D3,Follow-up,No,Attended,16.0,850
+APT20918,PAT0148,2025-04-05,Cardiology,CD-D2,Follow-up,Yes,Attended,36.0,1100
+APT20954,PAT0939,2025-04-05,Gastroenterology,GA-D3,New,No,Attended,58.0,1235
+APT21090,PAT0023,2025-04-05,Neurology,NE-D4,New,No,Attended,,1690
+APT21093,PAT0297,2025-04-05,Neurology,NE-D3,Follow-up,No,Attended,58.0,1300
+APT21251,PAT1003,2025-04-05,General Medicine,GM-D4,Follow-up,Yes,No-Show,,500
+APT21355,PAT0568,2025-04-05,General Medicine,GM-D2,Follow-up,No,Attended,20.0,500
+APT21522,PAT0786,2025-04-05,Gastroenterology,GA-D2,New,No,Attended,36.0,1185
+APT21722,PAT0377,2025-04-05,Gastroenterology,GA-D3,Follow-up,No,No-Show,,950
+APT21849,PAT1226,2025-04-05,Pediatrics,PD-D2,New,Yes,Attended,21.0,665
+APT21921,PAT1067,2025-04-05,General Medicine,GM-D3,Follow-up,Yes,Attended,19.0,400
+APT21987,PAT1317,2025-04-05,Neurology,NE-D1,New,No,Attended,30.0,1640
+APT22055,PAT0771,2025-04-05,Gastroenterology,GA-D3,Follow-up,No,Attended,12.0,950
+APT22205,PAT1284,2025-04-05,General Medicine,GM-D4,New,Yes,Cancelled,,635
+APT22227,PAT0683,2025-04-05,General Medicine,GM-D1,Follow-up,Yes,Attended,36.0,500
+APT22294,PAT1175,2025-04-05,Dermatology,DM-D4,New,Yes,Attended,19.0,845
+APT20074,PAT1068,2025-04-07,Pediatrics,PD-D2,New,Yes,Attended,28.0,765
+APT20074,PAT1068,2025-04-07,Pediatrics,PD-D2,New,Yes,Attended,28.0,765
+APT20301,PAT0643,2025-04-07,Dermatology,DM-D4,New,No,No-Show,,795
+APT20315,PAT0282,2025-04-07,General Medicine,GM-D4,New,Yes,Attended,37.0,535
+APT20409,PAT0660,2025-04-07,Orthopedics,OR-D4,Follow-up,No,Attended,162.0,850
+APT20445,PAT0342,2025-04-07,Orthopedics,OR-D3,New,Yes,No-Show,,1105
+APT20821,PAT1203,2025-04-07,General Medicine,GM-D4,New,No,Attended,68.0,585
+APT20973,PAT0293,2025-04-07,General Medicine,GM-D1,Follow-up,Yes,Attended,59.0,450
+APT21032,PAT1223,2025-04-07,Gastroenterology,GA-D4,New,Yes,Attended,44.0,1235
+APT21157,PAT1227,2025-04-07,Cardiology,CD-D2,Follow-up,Yes,Attended,36.0,1050
+APT21185,PAT0306,2025-04-07,General Medicine,GM-D4,Follow-up,Yes,Attended,34.0,500
+APT21193,PAT0636,2025-04-07,General Medicine,GM-D3,New,Yes,Attended,37.0,585
+APT21243,PAT0486,2025-04-07,Orthopedics,OR-D2,Follow-up,Yes,Attended,106.0,900
+APT21370,PAT1198,2025-04-07,Orthopedics,OR-D1,Follow-up,Yes,Attended,47.0,900
+APT21569,PAT0476,2025-04-07,Pediatrics,PD-D4,New,No,No-Show,,715
+APT21721,PAT0923,2025-04-07,General Medicine,GM-D4,Follow-up,Yes,Attended,30.0,500
+APT21756,PAT0975,2025-04-07,General Medicine,GM-D1,Follow-up,No,Attended,36.0,500
+APT21842,PAT0213,2025-04-07,General Medicine,GM-D1,New,Yes,Attended,55.0,535
+APT22003,PAT0084,2025-04-07,Cardiology,CD-D4,Follow-up,Yes,Attended,145.0,1150
+APT22226,PAT1315,2025-04-07,General Medicine,GM-D1,Follow-up,Yes,Attended,38.0,400
+APT20019,PAT0522,2025-04-08,Dermatology,DM-D1,New,No,Attended,27.0,895
+APT20020,PAT0557,2025-04-08,Gastroenterology,GA-D3,Follow-up,Yes,Attended,20.0,900
+APT20043,PAT0287,2025-04-08,General Medicine,GM-D2,New,Yes,Attended,35.0,585
+APT20046,PAT0867,2025-04-08,Orthopedics,OR-D2,New,No,No-Show,,1105
+APT20056,PAT1143,2025-04-08,Dermatology,DM-D3,Follow-up,Yes,Attended,18.0,650
+APT20057,PAT0279,2025-04-08,Gastroenterology,GA-D3,Follow-up,Yes,Cancelled,,950
+APT20064,PAT0028,2025-04-08,General Medicine,GM-D2,Follow-up,No,Attended,35.0,500
+APT20114,PAT0910,2025-04-08,Dermatology,DM-D4,New,Yes,No-Show,,895
+APT20138,PAT0372,2025-04-08,Orthopedics,OR-D3,Follow-up,Yes,No-Show,,850
+APT20177,PAT1047,2025-04-08,Urology,UR-D3,New,Yes,Attended,41.0,1040
+APT20191,PAT1314,2025-04-08,Urology,UR-D2,Follow-up,Yes,No-Show,,750
+APT20364,PAT1055,2025-04-08,Pediatrics,PD-D3,Follow-up,No,Attended,31.0,550
+APT20412,PAT1052,2025-04-08,Cardiology,CD-D1,New,No,Cancelled,,1430
+APT20430,PAT0318,2025-04-08,Pediatrics,PD-D4,Follow-up,Yes,Attended,24.0,550
+APT20578,PAT1338,2025-04-08,Pediatrics,PD-D1,Follow-up,Yes,Attended,9.0,500
+APT20792,PAT0415,2025-04-08,Neurology,NE-D1,Follow-up,No,Attended,55.0,1350
+APT20831,PAT1120,2025-04-08,General Medicine,GM-D3,Follow-up,Yes,Attended,40.0,400
+APT20833,PAT1064,2025-04-08,Cardiology,CD-D4,Follow-up,No,No-Show,,1100
+APT20840,PAT0259,2025-04-08,General Medicine,GM-D4,New,No,No-Show,,535
+APT20875,PAT0069,2025-04-08,General Medicine,GM-D2,New,Yes,Attended,44.0,585
+APT20887,PAT0287,2025-04-08,General Medicine,GM-D1,New,No,Attended,35.0,585
+APT20930,PAT0728,2025-04-08,Pediatrics,PD-D4,Follow-up,Yes,Attended,30.0,600
+APT21033,PAT1299,2025-04-08,Dermatology,DM-D1,Follow-up,No,Attended,23.0,650
+APT21034,PAT0228,2025-04-08,Dermatology,DM-D4,Follow-up,Yes,Attended,19.0,650
+APT21036,PAT0595,2025-04-08,Gastroenterology,GA-D2,New,No,Attended,34.0,1235
+APT21036,PAT0595,2025-04-08,Gastroenterology,GA-D2,New,No,Attended,34.0,1235
+APT21095,PAT0129,2025-04-08,Gastroenterology,GA-D3,New,No,No-Show,,1235
+APT21227,PAT0948,2025-04-08,Pediatrics,PD-D4,New,No,Attended,,715
+APT21233,PAT0445,2025-04-08,Urology,UR-D4,Follow-up,No,Attended,98.0,800
+APT21235,PAT0300,2025-04-08,General Medicine,GM-D3,Follow-up,Yes,Attended,42.0,450
+APT21361,PAT0858,2025-04-08,Pediatrics,PD-D3,Follow-up,Yes,Attended,27.0,600
+APT21409,PAT0608,2025-04-08,Gastroenterology,GA-D1,Follow-up,No,Attended,21.0,950
+APT21476,PAT0589,2025-04-08,General Medicine,GM-D2,Follow-up,Yes,Attended,17.0,450
+APT21507,PAT1344,2025-04-08,General Medicine,GM-D1,New,Yes,Attended,47.0,535
+APT21532,PAT0636,2025-04-08,Urology,UR-D2,Follow-up,Yes,Attended,25.0,850
+APT21556,PAT0682,2025-04-08,Dermatology,DM-D3,Follow-up,No,Attended,13.0,700
+APT21638,PAT0707,2025-04-08,Gastroenterology,GA-D3,New,Yes,Attended,47.0,1285
+APT21643,PAT1296,2025-04-08,General Medicine,GM-D3,Follow-up,Yes,Attended,25.0,500
+APT21750,PAT1189,2025-04-08,General Medicine,GM-D1,Follow-up,No,Attended,48.0,450
+APT21759,PAT0648,2025-04-08,Cardiology,CD-D4,Follow-up,No,No-Show,,1100
+APT21794,PAT0419,2025-04-08,Cardiology,CD-D1,New,Yes,Attended,,1430
+APT21807,PAT0720,2025-04-08,Pediatrics,PD-D2,Follow-up,Yes,Attended,32.0,550
+APT21811,PAT1226,2025-04-08,Pediatrics,PD-D3,New,Yes,Cancelled,,765
+APT21841,PAT1211,2025-04-08,Gastroenterology,GA-D1,Follow-up,Yes,Attended,49.0,900
+APT21853,PAT0680,2025-04-08,Dermatology,DM-D2,New,No,Attended,27.0,845
+APT21890,PAT0252,2025-04-08,Dermatology,DM-D3,Follow-up,Yes,No-Show,,650
+APT21922,PAT0291,2025-04-08,General Medicine,GM-D4,Follow-up,No,Attended,28.0,450
+APT21979,PAT0169,2025-04-08,General Medicine,GM-D4,Follow-up,Yes,Attended,45.0,450
+APT22008,PAT1081,2025-04-08,Orthopedics,OR-D2,New,Yes,No-Show,,1105
+APT22026,PAT0686,2025-04-08,Neurology,NE-D4,New,Yes,Attended,67.0,1690
+APT22032,PAT1372,2025-04-08,Orthopedics,OR-D1,Follow-up,No,No-Show,,900
+APT22119,PAT1197,2025-04-08,Gastroenterology,GA-D4,Follow-up,Yes,Attended,19.0,950
+APT22162,PAT0632,2025-04-08,Dermatology,DM-D2,Follow-up,No,No-Show,,650
+APT22245,PAT0471,2025-04-08,Orthopedics,OR-D4,Follow-up,Yes,Attended,37.0,800
+APT22274,PAT0006,2025-04-08,Orthopedics,OR-D3,Follow-up,No,Attended,24.0,900
+APT22330,PAT0682,2025-04-08,Orthopedics,OR-D1,New,Yes,Attended,61.0,1105
+APT20023,PAT1002,2025-04-09,Orthopedics,OR-D2,New,Yes,Cancelled,,1105
+APT20049,PAT0390,2025-04-09,Urology,UR-D2,Follow-up,No,No-Show,,800
+APT20055,PAT0746,2025-04-09,General Medicine,GM-D1,Follow-up,Yes,No-Show,,450
+APT20229,PAT0069,2025-04-09,Cardiology,CD-D4,Follow-up,No,Attended,,1100
+APT20239,PAT0487,2025-04-09,Cardiology,CD-D3,Follow-up,Yes,Attended,28.0,1050
+APT20265,PAT1099,2025-04-09,Orthopedics,OR-D1,Follow-up,Yes,Attended,40.0,800
+APT20280,PAT0845,2025-04-09,Gastroenterology,GA-D4,Follow-up,Yes,Attended,40.0,950
+APT20291,PAT1055,2025-04-09,General Medicine,GM-D4,Follow-up,Yes,No-Show,,400
+APT20341,PAT1088,2025-04-09,General Medicine,GM-D4,Follow-up,Yes,No-Show,,450
+APT20536,PAT1098,2025-04-09,Orthopedics,OR-D2,New,No,Attended,52.0,1105
+APT20625,PAT0948,2025-04-09,Dermatology,DM-D3,Follow-up,Yes,Attended,28.0,600
+APT20662,PAT0063,2025-04-09,Urology,UR-D1,New,No,Cancelled,,1040
+APT20879,PAT0853,2025-04-09,Dermatology,DM-D1,Follow-up,Yes,Attended,14.0,650
+APT21122,PAT0191,2025-04-09,Cardiology,CD-D3,Follow-up,Yes,Cancelled,,1100
+APT21133,PAT0820,2025-04-09,Urology,UR-D1,Follow-up,No,Attended,,800
+APT21194,PAT1223,2025-04-09,General Medicine,GM-D1,New,Yes,Attended,56.0,585
+APT21366,PAT0006,2025-04-09,General Medicine,GM-D4,Follow-up,Yes,No-Show,,500
+APT21417,PAT0748,2025-04-09,Cardiology,CD-D4,Follow-up,Yes,Attended,24.0,1100
+APT21484,PAT1116,2025-04-09,Orthopedics,OR-D3,Follow-up,No,Attended,114.0,850
+APT21574,PAT0321,2025-04-09,Dermatology,DM-D4,Follow-up,No,Attended,23.0,650
+APT21771,PAT1030,2025-04-09,Urology,UR-D4,Follow-up,No,Attended,39.0,800
+APT21837,PAT1376,2025-04-09,Urology,UR-D3,Follow-up,Yes,Attended,28.0,800
+APT21932,PAT1369,2025-04-09,Urology,UR-D2,New,Yes,Attended,36.0,1040
+APT22005,PAT0711,2025-04-09,General Medicine,GM-D3,Follow-up,No,Attended,42.0,500
+APT22017,PAT0586,2025-04-09,Pediatrics,PD-D1,Follow-up,Yes,Attended,17.0,550
+APT22018,PAT0038,2025-04-09,Urology,UR-D4,Follow-up,No,No-Show,,750
+APT22047,PAT0120,2025-04-09,Cardiology,CD-D1,New,No,No-Show,,1430
+APT22049,PAT0033,2025-04-09,General Medicine,GM-D3,Follow-up,Yes,Attended,60.0,450
+APT22063,PAT0126,2025-04-09,Gastroenterology,GA-D2,New,Yes,Attended,28.0,1235
+APT22210,PAT0734,2025-04-09,Orthopedics,OR-D3,Follow-up,No,Attended,34.0,850
+APT22262,PAT1256,2025-04-09,Dermatology,DM-D3,Follow-up,No,Attended,19.0,650
+APT20059,PAT1180,2025-04-10,Pediatrics,PD-D1,New,Yes,Attended,39.0,715
+APT20107,PAT0015,2025-04-10,Dermatology,DM-D3,Follow-up,No,Attended,19.0,600
+APT20140,PAT0071,2025-04-10,Orthopedics,OR-D2,Follow-up,Yes,Attended,18.0,850
+APT20209,PAT0351,2025-04-10,Neurology,NE-D3,New,No,Attended,47.0,1640
+APT20251,PAT0568,2025-04-10,Orthopedics,OR-D3,New,No,Attended,52.0,1155
+APT20386,PAT1090,2025-04-10,Orthopedics,OR-D4,Follow-up,Yes,Attended,52.0,850
+APT20745,PAT1296,2025-04-10,Pediatrics,PD-D1,Follow-up,Yes,Attended,12.0,500
+APT20771,PAT1191,2025-04-10,Pediatrics,PD-D3,New,Yes,Attended,38.0,715
+APT20771,PAT1191,2025-04-10,Pediatrics,PD-D3,New,Yes,Attended,38.0,715
+APT20773,PAT0841,2025-04-10,Orthopedics,OR-D2,Follow-up,Yes,Attended,46.0,850
+APT20811,PAT0524,2025-04-10,Neurology,NE-D4,Follow-up,No,Attended,52.0,1300
+APT21016,PAT0457,2025-04-10,Orthopedics,OR-D3,Follow-up,No,Attended,37.0,800
+APT21100,PAT0265,2025-04-10,Orthopedics,OR-D2,Follow-up,Yes,Cancelled,,800
+APT21195,PAT0086,2025-04-10,Neurology,NE-D2,Follow-up,No,No-Show,,1300
+APT21199,PAT0451,2025-04-10,Orthopedics,OR-D4,New,Yes,Attended,33.0,1105
+APT21552,PAT1055,2025-04-10,Cardiology,CD-D3,Follow-up,Yes,Attended,38.0,1150
+APT21604,PAT1216,2025-04-10,General Medicine,GM-D4,Follow-up,Yes,Attended,37.0,450
+APT21696,PAT0470,2025-04-10,Cardiology,CD-D2,Follow-up,Yes,Attended,37.0,1050
+APT21708,PAT0951,2025-04-10,Urology,UR-D3,Follow-up,No,Attended,23.0,850
+APT21753,PAT0308,2025-04-10,Orthopedics,OR-D4,Follow-up,No,Attended,39.0,850
+APT21796,PAT0302,2025-04-10,Cardiology,CD-D1,New,Yes,Attended,61.0,1430
+APT21828,PAT0274,2025-04-10,Orthopedics,OR-D3,New,Yes,Attended,62.0,1105
+APT21889,PAT1339,2025-04-10,Cardiology,CD-D2,Follow-up,Yes,Attended,26.0,1150
+APT21913,PAT0403,2025-04-10,Urology,UR-D4,New,Yes,Attended,40.0,1040
+APT21933,PAT0319,2025-04-10,Pediatrics,PD-D2,Follow-up,Yes,Attended,28.0,600
+APT21966,PAT0883,2025-04-10,General Medicine,GM-D4,Follow-up,Yes,Attended,41.0,400
+APT22041,PAT1159,2025-04-10,Pediatrics,PD-D4,Follow-up,No,Attended,23.0,600
+APT22241,PAT0114,2025-04-10,Orthopedics,OR-D1,New,Yes,Attended,57.0,1155
+APT22348,PAT0152,2025-04-10,Gastroenterology,GA-D4,Follow-up,Yes,No-Show,,950
+APT20080,PAT0772,2025-04-11,Neurology,NE-D1,Follow-up,Yes,Attended,20.0,1300
+APT20269,PAT0026,2025-04-11,Pediatrics,PD-D3,New,Yes,Attended,164.0,715
+APT20374,PAT0719,2025-04-11,Cardiology,CD-D4,Follow-up,No,No-Show,,1100
+APT20527,PAT0278,2025-04-11,Cardiology,CD-D4,Follow-up,No,Attended,8.0,1100
+APT20621,PAT0060,2025-04-11,Gastroenterology,GA-D2,Follow-up,No,Attended,59.0,1000
+APT20928,PAT0371,2025-04-11,Urology,UR-D4,New,Yes,No-Show,,1040
+APT20975,PAT0197,2025-04-11,Pediatrics,PD-D1,New,Yes,Attended,35.0,665
+APT21084,PAT0605,2025-04-11,General Medicine,GM-D2,Follow-up,No,No-Show,,500
+APT21241,PAT0678,2025-04-11,Cardiology,CD-D3,Follow-up,No,Attended,65.0,1100
+APT21384,PAT0229,2025-04-11,Orthopedics,OR-D1,New,No,Attended,,1055
+APT21412,PAT0308,2025-04-11,General Medicine,GM-D3,New,Yes,Attended,55.0,585
+APT21422,PAT0801,2025-04-11,General Medicine,GM-D3,Follow-up,Yes,Attended,28.0,400
+APT21450,PAT0016,2025-04-11,Urology,UR-D1,New,Yes,Attended,,1040
+APT21474,PAT0013,2025-04-11,General Medicine,GM-D1,New,No,Attended,28.0,585
+APT21626,PAT0839,2025-04-11,Dermatology,DM-D4,New,Yes,Attended,32.0,845
+APT21754,PAT0101,2025-04-11,Cardiology,CD-D3,Follow-up,Yes,Attended,63.0,1100
+APT21757,PAT0053,2025-04-11,General Medicine,GM-D2,Follow-up,No,No-Show,,400
+APT21802,PAT0161,2025-04-11,Gastroenterology,GA-D2,New,Yes,Attended,30.0,1235
+APT21861,PAT1248,2025-04-11,Gastroenterology,GA-D1,Follow-up,No,Attended,11.0,1000
+APT21902,PAT0763,2025-04-11,General Medicine,GM-D2,Follow-up,Yes,Attended,35.0,500
+APT21939,PAT0488,2025-04-11,Urology,UR-D4,Follow-up,No,Attended,36.0,750
+APT22030,PAT1183,2025-04-11,Dermatology,DM-D4,Follow-up,No,Attended,18.0,650
+APT22188,PAT0714,2025-04-11,Orthopedics,OR-D2,Follow-up,Yes,No-Show,,850
+APT22312,PAT0685,2025-04-11,Cardiology,CD-D2,Follow-up,Yes,Attended,24.0,1150
+APT22387,PAT0808,2025-04-11,Pediatrics,PD-D3,Follow-up,No,Attended,22.0,550
+APT22390,PAT0067,2025-04-11,Orthopedics,OR-D4,Follow-up,Yes,Attended,49.0,850
+APT20189,PAT0230,2025-04-12,Gastroenterology,GA-D2,New,No,Attended,42.0,1235
+APT20556,PAT1290,2025-04-12,Urology,UR-D1,New,Yes,Attended,144.0,1040
+APT20617,PAT0701,2025-04-12,General Medicine,GM-D2,New,Yes,Attended,45.0,535
+APT20710,PAT0214,2025-04-12,Cardiology,CD-D3,Follow-up,Yes,Attended,70.0,1150
+APT20832,PAT0598,2025-04-12,General Medicine,GM-D1,New,Yes,Attended,52.0,535
+APT21278,PAT0618,2025-04-12,Pediatrics,PD-D2,Follow-up,No,Attended,28.0,500
+APT21380,PAT0361,2025-04-12,Pediatrics,PD-D3,New,Yes,Attended,34.0,765
+APT21514,PAT0713,2025-04-12,Dermatology,DM-D2,New,Yes,Attended,31.0,845
+APT21521,PAT1015,2025-04-12,Neurology,NE-D3,Follow-up,Yes,Attended,42.0,1250
+APT21542,PAT1277,2025-04-12,Gastroenterology,GA-D4,Follow-up,Yes,Attended,32.0,950
+APT21848,PAT0843,2025-04-12,Pediatrics,PD-D2,New,No,Attended,34.0,665
+APT21891,PAT0036,2025-04-12,Neurology,NE-D2,Follow-up,Yes,Attended,34.0,1300
+APT21951,PAT0062,2025-04-12,Neurology,NE-D1,Follow-up,No,Attended,38.0,1350
+APT22222,PAT1058,2025-04-12,General Medicine,GM-D2,Follow-up,Yes,No-Show,,500
+APT22295,PAT0395,2025-04-12,Neurology,NE-D2,Follow-up,No,No-Show,,1250
+APT20007,PAT0620,2025-04-14,General Medicine,GM-D4,New,Yes,Attended,54.0,635
+APT20042,PAT0209,2025-04-14,Orthopedics,OR-D4,Follow-up,No,Attended,47.0,900
+APT20053,PAT1239,2025-04-14,General Medicine,GM-D1,New,No,Attended,93.0,635
+APT20054,PAT1089,2025-04-14,Pediatrics,PD-D4,Follow-up,Yes,Attended,17.0,550
+APT20247,PAT0875,2025-04-14,Orthopedics,OR-D3,Follow-up,No,No-Show,,850
+APT20369,PAT0325,2025-04-14,Pediatrics,PD-D3,New,No,No-Show,,715
+APT20431,PAT1295,2025-04-14,Dermatology,DM-D4,New,Yes,Attended,30.0,795
+APT20475,PAT0978,2025-04-14,Dermatology,DM-D4,New,Yes,Attended,28.0,795
+APT20481,PAT0188,2025-04-14,General Medicine,GM-D1,New,No,Attended,48.0,635
+APT20659,PAT0538,2025-04-14,Pediatrics,PD-D1,New,No,Attended,36.0,715
+APT20667,PAT0944,2025-04-14,General Medicine,GM-D4,Follow-up,No,Attended,22.0,400
+APT20688,PAT0950,2025-04-14,Pediatrics,PD-D4,Follow-up,No,Attended,22.0,550
+APT20703,PAT0012,2025-04-14,General Medicine,GM-D3,New,No,Attended,61.0,635
+APT20755,PAT0429,2025-04-14,General Medicine,GM-D4,New,Yes,Attended,,585
+APT20912,PAT0802,2025-04-14,Pediatrics,PD-D1,New,Yes,Attended,40.0,715
+APT20974,PAT0556,2025-04-14,Urology,UR-D3,Follow-up,No,Attended,27.0,800
+APT21073,PAT0820,2025-04-14,Pediatrics,PD-D1,Follow-up,Yes,Attended,18.0,550
+APT21179,PAT0054,2025-04-14,Neurology,NE-D4,Follow-up,No,Cancelled,,1250
+APT21373,PAT0074,2025-04-14,General Medicine,GM-D2,New,Yes,Attended,35.0,585
+APT21443,PAT0544,2025-04-14,Gastroenterology,GA-D1,Follow-up,Yes,No-Show,,1000
+APT21449,PAT0483,2025-04-14,Neurology,NE-D3,New,Yes,Attended,40.0,1740
+APT21677,PAT0881,2025-04-14,Pediatrics,PD-D1,Follow-up,No,Attended,26.0,550
+APT21695,PAT0524,2025-04-14,Cardiology,CD-D4,New,Yes,Attended,30.0,1480
+APT21784,PAT0772,2025-04-14,General Medicine,GM-D4,Follow-up,Yes,Attended,34.0,450
+APT21880,PAT0468,2025-04-14,Dermatology,DM-D4,Follow-up,No,No-Show,,600
+APT21899,PAT1165,2025-04-14,Urology,UR-D1,Follow-up,No,No-Show,,750
+APT21900,PAT0818,2025-04-14,Dermatology,DM-D1,New,Yes,Attended,,845
+APT21936,PAT1109,2025-04-14,Orthopedics,OR-D4,Follow-up,Yes,Attended,44.0,850
+APT21944,PAT0912,2025-04-14,Orthopedics,OR-D4,New,Yes,Attended,39.0,1055
+APT22036,PAT1313,2025-04-14,Cardiology,CD-D2,Follow-up,No,Attended,46.0,1150
+APT22096,PAT0341,2025-04-14,Pediatrics,PD-D4,Follow-up,No,Attended,24.0,500
+APT22236,PAT0349,2025-04-14,General Medicine,GM-D3,Follow-up,Yes,Attended,21.0,400
+APT20073,PAT0106,2025-04-15,Cardiology,CD-D1,New,Yes,Attended,41.0,1380
+APT20173,PAT0160,2025-04-15,Gastroenterology,GA-D2,New,Yes,Attended,50.0,1235
+APT20213,PAT0329,2025-04-15,Cardiology,CD-D3,Follow-up,Yes,No-Show,,1050
+APT20224,PAT0718,2025-04-15,Dermatology,DM-D1,New,Yes,Attended,27.0,795
+APT20237,PAT0354,2025-04-15,General Medicine,GM-D4,Follow-up,No,Attended,36.0,400
+APT20244,PAT0507,2025-04-15,Cardiology,CD-D1,Follow-up,No,Attended,42.0,1100
+APT20459,PAT0066,2025-04-15,Gastroenterology,GA-D2,Follow-up,No,Attended,43.0,950
+APT20531,PAT1196,2025-04-15,Pediatrics,PD-D3,Follow-up,Yes,No-Show,,550
+APT20560,PAT0674,2025-04-15,Dermatology,DM-D4,Follow-up,No,No-Show,,600
+APT20595,PAT0860,2025-04-15,Urology,UR-D3,Follow-up,Yes,No-Show,,800
+APT20632,PAT1023,2025-04-15,General Medicine,GM-D3,Follow-up,No,Attended,51.0,450
+APT20670,PAT0785,2025-04-15,General Medicine,GM-D2,Follow-up,No,No-Show,,450
+APT20695,PAT0756,2025-04-15,Dermatology,DM-D1,Follow-up,No,Attended,23.0,650
+APT20751,PAT1134,2025-04-15,General Medicine,GM-D2,New,Yes,Attended,40.0,585
+APT20826,PAT1141,2025-04-15,Cardiology,CD-D3,New,No,Cancelled,,1430
+APT20905,PAT0619,2025-04-15,Urology,UR-D4,Follow-up,Yes,Attended,102.0,800
+APT20915,PAT0679,2025-04-15,Neurology,NE-D4,New,No,Attended,62.0,1690
+APT20929,PAT0172,2025-04-15,Orthopedics,OR-D2,Follow-up,Yes,Attended,33.0,900
+APT20963,PAT0526,2025-04-15,Neurology,NE-D1,Follow-up,No,Attended,32.0,1300
+APT21002,PAT0132,2025-04-15,Pediatrics,PD-D3,New,No,Attended,31.0,715
+APT21002,PAT0132,2025-04-15,Pediatrics,PD-D3,New,No,Attended,31.0,715
+APT21098,PAT0873,2025-04-15,Dermatology,DM-D2,Follow-up,No,No-Show,,650
+APT21101,PAT1220,2025-04-15,Orthopedics,OR-D3,Follow-up,Yes,Attended,64.0,800
+APT21183,PAT1291,2025-04-15,General Medicine,GM-D2,Follow-up,Yes,Cancelled,,500
+APT21307,PAT0709,2025-04-15,Cardiology,CD-D1,Follow-up,Yes,Attended,52.0,1150
+APT21406,PAT0995,2025-04-15,General Medicine,GM-D3,Follow-up,No,Attended,151.0,400
+APT21419,PAT0647,2025-04-15,Pediatrics,PD-D4,Follow-up,Yes,No-Show,,550
+APT21462,PAT0345,2025-04-15,Gastroenterology,GA-D3,Follow-up,Yes,Attended,20.0,950
+APT21524,PAT1094,2025-04-15,Cardiology,CD-D4,Follow-up,Yes,No-Show,,1100
+APT21534,PAT0979,2025-04-15,General Medicine,GM-D2,Follow-up,No,Cancelled,,450
+APT21682,PAT0504,2025-04-15,General Medicine,GM-D2,Follow-up,No,Attended,28.0,500
+APT21799,PAT1001,2025-04-15,General Medicine,GM-D2,Follow-up,Yes,Attended,25.0,500
+APT21805,PAT0131,2025-04-15,Orthopedics,OR-D1,New,Yes,Attended,56.0,1155
+APT21989,PAT0394,2025-04-15,General Medicine,GM-D2,Follow-up,No,Attended,46.0,450
+APT21998,PAT0986,2025-04-15,Pediatrics,PD-D2,New,Yes,Attended,40.0,715
+APT22084,PAT1175,2025-04-15,Neurology,NE-D2,Follow-up,No,Attended,48.0,1350
+APT22120,PAT0544,2025-04-15,Dermatology,DM-D2,Follow-up,No,Attended,22.0,600
+APT22127,PAT0325,2025-04-15,Pediatrics,PD-D2,Follow-up,No,No-Show,,500
+APT22135,PAT1025,2025-04-15,Dermatology,DM-D1,Follow-up,No,No-Show,,650
+APT22166,PAT0104,2025-04-15,Pediatrics,PD-D4,New,Yes,No-Show,,715
+APT22228,PAT0248,2025-04-15,General Medicine,GM-D1,Follow-up,Yes,Attended,32.0,450
+APT22267,PAT1387,2025-04-15,General Medicine,GM-D2,Follow-up,No,Attended,39.0,500
+APT20149,PAT0752,2025-04-16,Dermatology,DM-D4,Follow-up,No,No-Show,,650
+APT20270,PAT1129,2025-04-16,Pediatrics,PD-D4,Follow-up,Yes,Attended,31.0,550
+APT20344,PAT0300,2025-04-16,Gastroenterology,GA-D3,Follow-up,Yes,Attended,35.0,950
+APT20546,PAT0935,2025-04-16,Gastroenterology,GA-D4,Follow-up,Yes,No-Show,,1000
+APT20623,PAT1276,2025-04-16,Pediatrics,PD-D4,Follow-up,Yes,Attended,21.0,600
+APT20758,PAT0954,2025-04-16,Orthopedics,OR-D4,New,Yes,Attended,68.0,1055
+APT20781,PAT0227,2025-04-16,Dermatology,DM-D2,Follow-up,Yes,Attended,23.0,700
+APT20827,PAT0923,2025-04-16,Cardiology,CD-D1,Follow-up,Yes,Attended,31.0,1100
+APT21110,PAT0549,2025-04-16,Dermatology,DM-D2,New,No,Attended,25.0,845
+APT21172,PAT1065,2025-04-16,Gastroenterology,GA-D1,Follow-up,Yes,Attended,36.0,1000
+APT21203,PAT1167,2025-04-16,Pediatrics,PD-D1,Follow-up,No,Attended,18.0,500
+APT21559,PAT0354,2025-04-16,Gastroenterology,GA-D2,Follow-up,No,Attended,36.0,950
+APT21676,PAT0564,2025-04-16,Pediatrics,PD-D2,New,Yes,Attended,29.0,715
+APT21711,PAT0606,2025-04-16,Gastroenterology,GA-D1,Follow-up,No,No-Show,,950
+APT21720,PAT1348,2025-04-16,Gastroenterology,GA-D2,Follow-up,Yes,Attended,20.0,900
+APT22085,PAT0442,2025-04-16,Pediatrics,PD-D3,Follow-up,No,Attended,27.0,550
+APT22172,PAT1380,2025-04-16,Gastroenterology,GA-D3,Follow-up,Yes,Attended,48.0,1000
+APT22179,PAT0776,2025-04-16,Cardiology,CD-D3,Follow-up,Yes,No-Show,,1050
+APT22352,PAT0095,2025-04-16,Neurology,NE-D4,New,No,Attended,53.0,1740
+APT20110,PAT0697,2025-04-17,Pediatrics,PD-D1,Follow-up,Yes,No-Show,,550
+APT20286,PAT1075,2025-04-17,General Medicine,GM-D2,Follow-up,Yes,Attended,27.0,450
+APT20397,PAT0912,2025-04-17,Cardiology,CD-D1,New,No,Attended,,1480
+APT20446,PAT0891,2025-04-17,General Medicine,GM-D2,Follow-up,No,Attended,66.0,500
+APT20552,PAT1321,2025-04-17,Pediatrics,PD-D1,Follow-up,Yes,No-Show,,600
+APT20589,PAT1343,2025-04-17,Cardiology,CD-D2,Follow-up,Yes,Attended,64.0,1150
+APT20605,PAT0756,2025-04-17,Cardiology,CD-D3,Follow-up,Yes,Attended,50.0,1100
+APT20615,PAT0402,2025-04-17,Dermatology,DM-D2,Follow-up,No,Attended,20.0,600
+APT20713,PAT0407,2025-04-17,Gastroenterology,GA-D4,Follow-up,No,No-Show,,950
+APT20834,PAT0532,2025-04-17,Cardiology,CD-D4,Follow-up,No,Cancelled,,1150
+APT20891,PAT0356,2025-04-17,General Medicine,GM-D2,Follow-up,Yes,Attended,27.0,500
+APT21085,PAT0148,2025-04-17,Urology,UR-D4,New,No,No-Show,,990
+APT21156,PAT1369,2025-04-17,Pediatrics,PD-D3,New,No,No-Show,,765
+APT21192,PAT0543,2025-04-17,Neurology,NE-D1,New,Yes,Attended,149.0,1640
+APT21346,PAT0171,2025-04-17,Pediatrics,PD-D1,New,Yes,Attended,31.0,715
+APT21661,PAT0490,2025-04-17,Orthopedics,OR-D3,Follow-up,No,Attended,48.0,850
+APT21673,PAT0555,2025-04-17,Pediatrics,PD-D2,Follow-up,No,Attended,17.0,550
+APT22004,PAT1248,2025-04-17,Orthopedics,OR-D2,Follow-up,Yes,Attended,40.0,850
+APT22051,PAT0147,2025-04-17,Gastroenterology,GA-D3,Follow-up,Yes,No-Show,,1000
+APT22108,PAT0143,2025-04-17,Urology,UR-D4,Follow-up,Yes,Attended,35.0,750
+APT22111,PAT0839,2025-04-17,Cardiology,CD-D2,New,No,Attended,51.0,1380
+APT22118,PAT1030,2025-04-17,Gastroenterology,GA-D3,Follow-up,No,Attended,40.0,1000
+APT22246,PAT0980,2025-04-17,Orthopedics,OR-D2,New,Yes,Cancelled,,1105
+APT22273,PAT0724,2025-04-17,General Medicine,GM-D1,New,No,Attended,43.0,585
+APT22282,PAT0732,2025-04-17,Pediatrics,PD-D3,Follow-up,No,Attended,19.0,550
+APT22293,PAT0054,2025-04-17,Orthopedics,OR-D1,New,Yes,Attended,48.0,1105
+APT22338,PAT1091,2025-04-17,Urology,UR-D1,New,Yes,No-Show,,1090
+APT22379,PAT0730,2025-04-17,General Medicine,GM-D1,New,No,Attended,57.0,535
+APT20081,PAT0258,2025-04-18,Orthopedics,OR-D1,Follow-up,Yes,No-Show,,850
+APT20167,PAT0616,2025-04-18,Urology,UR-D4,New,No,Attended,47.0,1040
+APT20225,PAT1078,2025-04-18,Orthopedics,OR-D1,Follow-up,No,No-Show,,850
+APT20242,PAT0377,2025-04-18,Orthopedics,OR-D2,Follow-up,Yes,Attended,56.0,900
+APT20293,PAT0151,2025-04-18,Urology,UR-D1,Follow-up,Yes,Attended,22.0,850
+APT20354,PAT0695,2025-04-18,Pediatrics,PD-D4,Follow-up,Yes,Attended,30.0,500
+APT20420,PAT1325,2025-04-18,General Medicine,GM-D4,Follow-up,No,Attended,32.0,450
+APT20594,PAT0804,2025-04-18,General Medicine,GM-D1,Follow-up,No,Attended,50.0,450
+APT20606,PAT0499,2025-04-18,Urology,UR-D4,New,Yes,No-Show,,1090
+APT20613,PAT0376,2025-04-18,General Medicine,GM-D2,Follow-up,No,Attended,41.0,450
+APT20613,PAT0376,2025-04-18,General Medicine,GM-D2,Follow-up,No,Attended,41.0,450
+APT20676,PAT0294,2025-04-18,Pediatrics,PD-D4,Follow-up,Yes,Attended,24.0,550
+APT20705,PAT0228,2025-04-18,Pediatrics,PD-D2,Follow-up,Yes,Attended,22.0,600
+APT20706,PAT1375,2025-04-18,Pediatrics,PD-D2,Follow-up,Yes,Attended,20.0,500
+APT20978,PAT0980,2025-04-18,Pediatrics,PD-D1,Follow-up,Yes,Attended,25.0,550
+APT21054,PAT0769,2025-04-18,Dermatology,DM-D1,Follow-up,No,No-Show,,650
+APT21103,PAT0137,2025-04-18,Orthopedics,OR-D4,Follow-up,Yes,Attended,34.0,850
+APT21198,PAT0083,2025-04-18,Neurology,NE-D4,Follow-up,Yes,No-Show,,1300
+APT21263,PAT0817,2025-04-18,General Medicine,GM-D2,Follow-up,Yes,Attended,33.0,450
+APT21367,PAT0707,2025-04-18,General Medicine,GM-D3,Follow-up,No,Attended,32.0,450
+APT21548,PAT0058,2025-04-18,Neurology,NE-D4,Follow-up,No,Attended,,1300
+APT21698,PAT1018,2025-04-18,General Medicine,GM-D2,Follow-up,Yes,Attended,43.0,450
+APT21699,PAT0168,2025-04-18,Dermatology,DM-D3,Follow-up,No,No-Show,,600
+APT21724,PAT0121,2025-04-18,Neurology,NE-D4,New,Yes,Attended,55.0,1690
+APT21803,PAT1271,2025-04-18,Neurology,NE-D1,New,No,Attended,78.0,1690
+APT21863,PAT1356,2025-04-18,Urology,UR-D1,Follow-up,Yes,No-Show,,850
+APT21887,PAT1264,2025-04-18,Orthopedics,OR-D1,Follow-up,Yes,Cancelled,,850
+APT21946,PAT0166,2025-04-18,Gastroenterology,GA-D3,Follow-up,No,Attended,28.0,1000
+APT22068,PAT1278,2025-04-18,Pediatrics,PD-D2,Follow-up,No,Attended,30.0,500
+APT22089,PAT1041,2025-04-18,Dermatology,DM-D4,New,No,Attended,29.0,895
+APT22157,PAT0589,2025-04-18,General Medicine,GM-D2,New,Yes,Attended,38.0,535
+APT22266,PAT1349,2025-04-18,General Medicine,GM-D1,Follow-up,No,No-Show,,500
+APT20006,PAT0187,2025-04-19,Gastroenterology,GA-D4,New,Yes,Attended,32.0,1285
+APT20089,PAT0505,2025-04-19,Urology,UR-D1,Follow-up,No,Attended,19.0,850
+APT20203,PAT0012,2025-04-19,General Medicine,GM-D2,Follow-up,Yes,Attended,42.0,500
+APT20333,PAT1022,2025-04-19,Dermatology,DM-D1,Follow-up,Yes,Attended,19.0,600
+APT20483,PAT0846,2025-04-19,Pediatrics,PD-D3,New,Yes,Attended,26.0,665
+APT20627,PAT0557,2025-04-19,Urology,UR-D2,Follow-up,Yes,Attended,21.0,800
+APT20791,PAT1149,2025-04-19,Pediatrics,PD-D2,New,Yes,Attended,123.0,715
+APT20901,PAT0220,2025-04-19,Orthopedics,OR-D1,Follow-up,No,Attended,45.0,900
+APT20955,PAT1394,2025-04-19,Orthopedics,OR-D4,Follow-up,No,Attended,45.0,850
+APT21092,PAT0080,2025-04-19,Urology,UR-D3,New,No,Attended,24.0,1040
+APT21280,PAT1066,2025-04-19,General Medicine,GM-D3,Follow-up,Yes,No-Show,,500
+APT21293,PAT0170,2025-04-19,Gastroenterology,GA-D1,New,No,Attended,56.0,1185
+APT21426,PAT0956,2025-04-19,Gastroenterology,GA-D3,New,Yes,Attended,160.0,1285
+APT21526,PAT1028,2025-04-19,Pediatrics,PD-D4,New,No,Attended,39.0,715
+APT21589,PAT0965,2025-04-19,Gastroenterology,GA-D2,Follow-up,Yes,Attended,33.0,950
+APT21640,PAT1188,2025-04-19,General Medicine,GM-D1,Follow-up,Yes,Cancelled,,400
+APT21838,PAT0792,2025-04-19,Neurology,NE-D2,Follow-up,No,Attended,43.0,1350
+APT21903,PAT1135,2025-04-19,Cardiology,CD-D2,Follow-up,No,Attended,34.0,1100
+APT22191,PAT0480,2025-04-19,Gastroenterology,GA-D3,Follow-up,No,Attended,33.0,900
+APT22201,PAT1360,2025-04-19,Orthopedics,OR-D3,Follow-up,Yes,Attended,46.0,850
+APT20076,PAT1070,2025-04-21,Dermatology,DM-D1,Follow-up,Yes,Attended,15.0,650
+APT20090,PAT0153,2025-04-21,General Medicine,GM-D1,New,No,Attended,61.0,535
+APT20091,PAT0753,2025-04-21,Cardiology,CD-D1,Follow-up,No,Attended,33.0,1100
+APT20144,PAT0073,2025-04-21,General Medicine,GM-D1,Follow-up,Yes,Attended,39.0,400
+APT20194,PAT0524,2025-04-21,General Medicine,GM-D2,Follow-up,No,Attended,22.0,450
+APT20221,PAT1151,2025-04-21,Orthopedics,OR-D1,Follow-up,No,Attended,48.0,850
+APT20240,PAT1179,2025-04-21,Dermatology,DM-D3,Follow-up,Yes,Attended,21.0,600
+APT20399,PAT0111,2025-04-21,Urology,UR-D2,New,Yes,Attended,31.0,1040
+APT20666,PAT0710,2025-04-21,General Medicine,GM-D1,Follow-up,Yes,Attended,29.0,500
+APT20722,PAT0997,2025-04-21,Urology,UR-D4,Follow-up,No,Attended,40.0,800
+APT20845,PAT0188,2025-04-21,Dermatology,DM-D2,Follow-up,No,Attended,11.0,600
+APT20851,PAT0357,2025-04-21,Pediatrics,PD-D4,Follow-up,Yes,Attended,24.0,550
+APT20899,PAT0803,2025-04-21,Cardiology,CD-D3,Follow-up,No,Attended,35.0,1100
+APT21035,PAT0798,2025-04-21,Pediatrics,PD-D1,Follow-up,No,No-Show,,550
+APT21178,PAT1304,2025-04-21,Dermatology,DM-D2,New,No,No-Show,,895
+APT21205,PAT0384,2025-04-21,General Medicine,GM-D1,Follow-up,Yes,Attended,44.0,450
+APT21225,PAT0042,2025-04-21,Orthopedics,OR-D2,New,No,Attended,38.0,1105
+APT21253,PAT0414,2025-04-21,Dermatology,DM-D4,Follow-up,No,Attended,15.0,650
+APT21311,PAT0255,2025-04-21,Urology,UR-D4,Follow-up,No,Attended,30.0,800
+APT21340,PAT1215,2025-04-21,Cardiology,CD-D1,New,Yes,Attended,41.0,1380
+APT21404,PAT1041,2025-04-21,Cardiology,CD-D2,Follow-up,No,No-Show,,1050
+APT21595,PAT0442,2025-04-21,Orthopedics,OR-D3,Follow-up,Yes,Cancelled,,850
+APT21836,PAT1350,2025-04-21,General Medicine,GM-D4,Follow-up,Yes,Attended,21.0,450
+APT21872,PAT1309,2025-04-21,Pediatrics,PD-D3,New,Yes,No-Show,,715
+APT21884,PAT0953,2025-04-21,Dermatology,DM-D1,Follow-up,Yes,Attended,22.0,700
+APT21977,PAT1399,2025-04-21,General Medicine,GM-D4,New,No,Attended,46.0,585
+APT22152,PAT1096,2025-04-21,General Medicine,GM-D4,Follow-up,Yes,Attended,47.0,500
+APT22325,PAT0705,2025-04-21,Urology,UR-D2,Follow-up,Yes,Attended,21.0,800
+APT22332,PAT0193,2025-04-21,Urology,UR-D3,Follow-up,No,Attended,21.0,800
+APT22362,PAT1337,2025-04-21,Dermatology,DM-D4,New,No,No-Show,,845
+APT20082,PAT0587,2025-04-22,Urology,UR-D1,Follow-up,No,Attended,20.0,850
+APT20145,PAT0347,2025-04-22,Urology,UR-D1,New,Yes,Attended,47.0,990
+APT20338,PAT1335,2025-04-22,Gastroenterology,GA-D4,New,Yes,Attended,26.0,1235
+APT20428,PAT1057,2025-04-22,Pediatrics,PD-D1,New,No,No-Show,,715
+APT20432,PAT1373,2025-04-22,Cardiology,CD-D3,Follow-up,No,Attended,32.0,1100
+APT20586,PAT0873,2025-04-22,Cardiology,CD-D2,Follow-up,Yes,Attended,37.0,1100
+APT20608,PAT0951,2025-04-22,Pediatrics,PD-D4,Follow-up,Yes,Attended,30.0,600
+APT20612,PAT1321,2025-04-22,General Medicine,GM-D2,Follow-up,Yes,No-Show,,450
+APT20739,PAT0699,2025-04-22,Dermatology,DM-D1,Follow-up,Yes,Attended,11.0,700
+APT20804,PAT1322,2025-04-22,Cardiology,CD-D2,Follow-up,No,Attended,40.0,1050
+APT20916,PAT1055,2025-04-22,Gastroenterology,GA-D2,New,Yes,No-Show,,1235
+APT20922,PAT0781,2025-04-22,Urology,UR-D2,Follow-up,Yes,No-Show,,800
+APT20939,PAT0277,2025-04-22,Orthopedics,OR-D4,New,No,Attended,141.0,1105
+APT20944,PAT0986,2025-04-22,Gastroenterology,GA-D3,Follow-up,No,Attended,55.0,950
+APT20984,PAT0302,2025-04-22,Gastroenterology,GA-D4,New,No,No-Show,,1285
+APT21068,PAT0642,2025-04-22,Neurology,NE-D3,New,No,Attended,65.0,1690
+APT21140,PAT1260,2025-04-22,Gastroenterology,GA-D3,New,No,Attended,35.0,1285
+APT21208,PAT0259,2025-04-22,Neurology,NE-D3,Follow-up,No,Attended,32.0,1300
+APT21218,PAT0053,2025-04-22,Dermatology,DM-D4,Follow-up,No,Attended,23.0,650
+APT21271,PAT0144,2025-04-22,General Medicine,GM-D3,Follow-up,Yes,Attended,140.0,450
+APT21285,PAT0137,2025-04-22,Pediatrics,PD-D1,New,Yes,Attended,,765
+APT21337,PAT0407,2025-04-22,Orthopedics,OR-D3,New,Yes,Attended,53.0,1155
+APT21363,PAT0697,2025-04-22,Orthopedics,OR-D3,Follow-up,No,Attended,53.0,850
+APT21442,PAT0777,2025-04-22,Urology,UR-D2,New,Yes,Attended,48.0,1090
+APT21487,PAT0028,2025-04-22,Urology,UR-D1,Follow-up,No,Attended,32.0,850
+APT21492,PAT0937,2025-04-22,Orthopedics,OR-D4,Follow-up,No,Attended,109.0,800
+APT21509,PAT1091,2025-04-22,Dermatology,DM-D4,Follow-up,No,Attended,18.0,650
+APT21516,PAT0661,2025-04-22,Neurology,NE-D4,Follow-up,Yes,No-Show,,1250
+APT21572,PAT1182,2025-04-22,Cardiology,CD-D4,New,No,Attended,108.0,1430
+APT21633,PAT0226,2025-04-22,Gastroenterology,GA-D3,New,Yes,No-Show,,1235
+APT21851,PAT0527,2025-04-22,Cardiology,CD-D1,Follow-up,No,Attended,47.0,1100
+APT21896,PAT0323,2025-04-22,Cardiology,CD-D1,New,Yes,Attended,42.0,1430
+APT21984,PAT0328,2025-04-22,Cardiology,CD-D4,New,Yes,Attended,31.0,1430
+APT22020,PAT0638,2025-04-22,Neurology,NE-D3,New,Yes,Attended,39.0,1740
+APT22042,PAT1168,2025-04-22,Neurology,NE-D3,New,Yes,Attended,70.0,1640
+APT22114,PAT0365,2025-04-22,Pediatrics,PD-D1,New,No,Attended,20.0,765
+APT22212,PAT0190,2025-04-22,General Medicine,GM-D2,Follow-up,No,No-Show,,450
+APT22279,PAT0195,2025-04-22,Neurology,NE-D4,New,No,No-Show,,1640
+APT22296,PAT0459,2025-04-22,Orthopedics,OR-D4,Follow-up,Yes,Attended,51.0,800
+APT22363,PAT1389,2025-04-22,Cardiology,CD-D4,Follow-up,No,Attended,27.0,1050
+APT20034,PAT0223,2025-04-23,Pediatrics,PD-D2,Follow-up,No,Attended,16.0,550
+APT20087,PAT0144,2025-04-23,Orthopedics,OR-D3,New,No,Attended,69.0,1155
+APT20122,PAT0485,2025-04-23,Cardiology,CD-D4,New,Yes,Cancelled,,1430
+APT20195,PAT1343,2025-04-23,Gastroenterology,GA-D4,Follow-up,Yes,Attended,32.0,950
+APT20231,PAT1321,2025-04-23,Neurology,NE-D3,New,No,Attended,56.0,1740
+APT20314,PAT1245,2025-04-23,Dermatology,DM-D4,New,No,Cancelled,,795
+APT20335,PAT1213,2025-04-23,Pediatrics,PD-D4,New,Yes,Attended,40.0,765
+APT20469,PAT0471,2025-04-23,General Medicine,GM-D4,New,Yes,No-Show,,585
+APT20576,PAT1000,2025-04-23,Pediatrics,PD-D2,Follow-up,No,Attended,16.0,550
+APT20675,PAT0346,2025-04-23,Cardiology,CD-D1,Follow-up,Yes,Attended,50.0,1100
+APT20782,PAT1050,2025-04-23,Cardiology,CD-D2,Follow-up,Yes,Attended,45.0,1050
+APT20813,PAT1297,2025-04-23,Orthopedics,OR-D4,New,Yes,Attended,,1155
+APT20858,PAT1296,2025-04-23,General Medicine,GM-D3,New,Yes,Attended,43.0,635
+APT20995,PAT0579,2025-04-23,Orthopedics,OR-D3,New,Yes,Attended,28.0,1105
+APT21108,PAT0009,2025-04-23,Neurology,NE-D2,Follow-up,No,Attended,48.0,1250
+APT21120,PAT0007,2025-04-23,Cardiology,CD-D3,Follow-up,Yes,Attended,64.0,1100
+APT21174,PAT0208,2025-04-23,Pediatrics,PD-D3,Follow-up,No,Attended,23.0,500
+APT21246,PAT0275,2025-04-23,Neurology,NE-D2,Follow-up,No,No-Show,,1350
+APT21299,PAT1126,2025-04-23,Orthopedics,OR-D4,New,No,No-Show,,1105
+APT21336,PAT1374,2025-04-23,Orthopedics,OR-D2,Follow-up,Yes,Attended,80.0,850
+APT21425,PAT0874,2025-04-23,Gastroenterology,GA-D2,Follow-up,No,Attended,,900
+APT21430,PAT0060,2025-04-23,General Medicine,GM-D4,New,Yes,Attended,60.0,535
+APT21488,PAT0164,2025-04-23,Gastroenterology,GA-D3,Follow-up,Yes,Attended,40.0,900
+APT21523,PAT0670,2025-04-23,Urology,UR-D3,Follow-up,Yes,Attended,9.0,800
+APT21647,PAT0866,2025-04-23,Urology,UR-D2,Follow-up,No,No-Show,,750
+APT22071,PAT0035,2025-04-23,Neurology,NE-D3,New,Yes,Cancelled,,1640
+APT22074,PAT0751,2025-04-23,Cardiology,CD-D3,Follow-up,No,Attended,29.0,1150
+APT22082,PAT0685,2025-04-23,Neurology,NE-D1,Follow-up,No,No-Show,,1300
+APT22090,PAT1129,2025-04-23,Pediatrics,PD-D3,Follow-up,Yes,Attended,33.0,550
+APT22184,PAT0307,2025-04-23,Pediatrics,PD-D2,Follow-up,No,No-Show,,550
+APT22244,PAT1216,2025-04-23,Orthopedics,OR-D2,New,Yes,No-Show,,1105
+APT22373,PAT0572,2025-04-23,General Medicine,GM-D1,Follow-up,Yes,Attended,30.0,450
+APT20047,PAT0415,2025-04-24,Dermatology,DM-D4,New,Yes,Attended,22.0,795
+APT20062,PAT1035,2025-04-24,Cardiology,CD-D2,New,No,No-Show,,1480
+APT20088,PAT1222,2025-04-24,Urology,UR-D4,Follow-up,Yes,Attended,21.0,750
+APT20172,PAT0600,2025-04-24,Dermatology,DM-D1,Follow-up,No,No-Show,,650
+APT20172,PAT0600,2025-04-24,Dermatology,DM-D1,Follow-up,No,No-Show,,650
+APT20183,PAT0086,2025-04-24,General Medicine,GM-D3,New,Yes,No-Show,,535
+APT20184,PAT0821,2025-04-24,Neurology,NE-D4,Follow-up,No,Attended,49.0,1350
+APT20276,PAT1046,2025-04-24,Cardiology,CD-D2,New,No,Attended,54.0,1430
+APT20294,PAT0427,2025-04-24,Urology,UR-D4,Follow-up,Yes,Attended,22.0,800
+APT20398,PAT0074,2025-04-24,Orthopedics,OR-D1,Follow-up,No,Attended,43.0,900
+APT20449,PAT1312,2025-04-24,Urology,UR-D2,New,Yes,Attended,46.0,1040
+APT20789,PAT0444,2025-04-24,General Medicine,GM-D1,Follow-up,No,No-Show,,400
+APT20800,PAT0601,2025-04-24,Dermatology,DM-D1,Follow-up,Yes,Attended,13.0,650
+APT20987,PAT0756,2025-04-24,General Medicine,GM-D4,Follow-up,Yes,Attended,40.0,450
+APT20990,PAT0832,2025-04-24,Pediatrics,PD-D4,New,No,No-Show,,715
+APT21261,PAT1116,2025-04-24,Dermatology,DM-D3,New,No,No-Show,,895
+APT21287,PAT0541,2025-04-24,General Medicine,GM-D4,Follow-up,Yes,Attended,30.0,450
+APT21448,PAT0284,2025-04-24,Urology,UR-D2,New,No,Attended,29.0,1040
+APT21452,PAT1200,2025-04-24,Cardiology,CD-D3,Follow-up,No,Attended,51.0,1100
+APT21458,PAT0962,2025-04-24,Cardiology,CD-D2,New,No,Attended,47.0,1380
+APT21537,PAT1034,2025-04-24,Cardiology,CD-D4,Follow-up,No,Attended,26.0,1050
+APT21596,PAT1067,2025-04-24,Urology,UR-D1,New,Yes,Attended,,1040
+APT21602,PAT1256,2025-04-24,General Medicine,GM-D4,Follow-up,Yes,Attended,39.0,400
+APT21669,PAT0516,2025-04-24,Orthopedics,OR-D4,Follow-up,Yes,Attended,46.0,850
+APT22028,PAT0193,2025-04-24,General Medicine,GM-D4,Follow-up,Yes,Attended,,450
+APT22046,PAT0385,2025-04-24,Pediatrics,PD-D1,Follow-up,Yes,Attended,24.0,550
+APT22180,PAT1101,2025-04-24,Orthopedics,OR-D2,New,Yes,Attended,45.0,1155
+APT22218,PAT0287,2025-04-24,Dermatology,DM-D2,Follow-up,No,Attended,16.0,600
+APT22290,PAT0001,2025-04-24,General Medicine,GM-D4,Follow-up,Yes,Attended,47.0,500
+APT22292,PAT1347,2025-04-24,Pediatrics,PD-D4,New,No,Attended,28.0,715
+APT22317,PAT0050,2025-04-24,Neurology,NE-D4,Follow-up,No,Attended,56.0,1250
+APT20119,PAT0256,2025-04-25,Gastroenterology,GA-D1,Follow-up,No,No-Show,,950
+APT20180,PAT0081,2025-04-25,General Medicine,GM-D1,Follow-up,Yes,No-Show,,450
+APT20282,PAT0367,2025-04-25,Orthopedics,OR-D3,New,Yes,Attended,47.0,1105
+APT20322,PAT0852,2025-04-25,Pediatrics,PD-D1,Follow-up,No,Attended,21.0,550
+APT20359,PAT0225,2025-04-25,Pediatrics,PD-D3,Follow-up,Yes,Attended,24.0,500
+APT20393,PAT0509,2025-04-25,General Medicine,GM-D3,New,Yes,Attended,,635
+APT20441,PAT0946,2025-04-25,Neurology,NE-D1,New,Yes,Attended,51.0,1640
+APT20631,PAT0034,2025-04-25,General Medicine,GM-D3,Follow-up,Yes,Attended,25.0,450
+APT20661,PAT0099,2025-04-25,Cardiology,CD-D2,Follow-up,No,Attended,37.0,1150
+APT20763,PAT0053,2025-04-25,Neurology,NE-D2,New,No,Attended,83.0,1690
+APT20921,PAT0216,2025-04-25,Dermatology,DM-D2,Follow-up,Yes,No-Show,,700
+APT20933,PAT1368,2025-04-25,Urology,UR-D3,Follow-up,Yes,Attended,23.0,850
+APT20940,PAT0731,2025-04-25,Cardiology,CD-D3,New,Yes,Attended,58.0,1430
+APT20960,PAT0145,2025-04-25,Orthopedics,OR-D1,Follow-up,Yes,Attended,41.0,850
+APT20970,PAT0966,2025-04-25,Cardiology,CD-D1,New,No,No-Show,,1430
+APT21082,PAT0397,2025-04-25,General Medicine,GM-D3,Follow-up,Yes,Attended,31.0,450
+APT21163,PAT0544,2025-04-25,Orthopedics,OR-D2,New,Yes,Attended,44.0,1155
+APT21319,PAT0811,2025-04-25,Gastroenterology,GA-D3,New,No,Attended,53.0,1235
+APT21329,PAT1280,2025-04-25,Orthopedics,OR-D2,New,No,Attended,35.0,1055
+APT21365,PAT0083,2025-04-25,Pediatrics,PD-D2,Follow-up,No,Cancelled,,500
+APT21468,PAT0180,2025-04-25,Cardiology,CD-D3,Follow-up,No,No-Show,,1100
+APT21654,PAT0945,2025-04-25,Orthopedics,OR-D4,Follow-up,Yes,Attended,,800
+APT21954,PAT1256,2025-04-25,Gastroenterology,GA-D3,Follow-up,Yes,Attended,26.0,950
+APT22045,PAT1244,2025-04-25,Neurology,NE-D2,New,No,Attended,91.0,1690
+APT22077,PAT1355,2025-04-25,Orthopedics,OR-D1,Follow-up,Yes,Attended,60.0,850
+APT22182,PAT0252,2025-04-25,General Medicine,GM-D1,Follow-up,No,Cancelled,,450
+APT22193,PAT0500,2025-04-25,Cardiology,CD-D1,Follow-up,No,Attended,47.0,1050
+APT22254,PAT0153,2025-04-25,General Medicine,GM-D3,Follow-up,No,Cancelled,,450
+APT22300,PAT1301,2025-04-25,Gastroenterology,GA-D4,Follow-up,No,No-Show,,950
+APT22388,PAT1299,2025-04-25,Orthopedics,OR-D2,Follow-up,Yes,Attended,14.0,850
+APT20008,PAT0970,2025-04-26,Gastroenterology,GA-D3,Follow-up,Yes,No-Show,,950
+APT20196,PAT1042,2025-04-26,Pediatrics,PD-D2,Follow-up,Yes,Attended,12.0,550
+APT20230,PAT0770,2025-04-26,Cardiology,CD-D3,Follow-up,Yes,Attended,38.0,1100
+APT20284,PAT0127,2025-04-26,Pediatrics,PD-D2,Follow-up,No,Attended,8.0,500
+APT20394,PAT0371,2025-04-26,Cardiology,CD-D2,Follow-up,No,Attended,36.0,1100
+APT20426,PAT0062,2025-04-26,Orthopedics,OR-D4,Follow-up,No,Attended,15.0,900
+APT20470,PAT0085,2025-04-26,Orthopedics,OR-D1,New,Yes,Attended,55.0,1105
+APT20476,PAT1187,2025-04-26,Gastroenterology,GA-D3,Follow-up,No,No-Show,,950
+APT20499,PAT0565,2025-04-26,Orthopedics,OR-D3,New,No,Attended,60.0,1105
+APT20553,PAT0264,2025-04-26,Neurology,NE-D3,Follow-up,Yes,Attended,46.0,1250
+APT20607,PAT1117,2025-04-26,Orthopedics,OR-D4,New,Yes,Attended,51.0,1155
+APT20664,PAT0748,2025-04-26,Orthopedics,OR-D4,New,Yes,No-Show,,1055
+APT20696,PAT0573,2025-04-26,General Medicine,GM-D4,New,No,No-Show,,585
+APT20796,PAT1133,2025-04-26,Cardiology,CD-D2,New,Yes,Attended,45.0,1430
+APT21117,PAT1134,2025-04-26,Cardiology,CD-D2,New,No,Attended,,1430
+APT21170,PAT1209,2025-04-26,Gastroenterology,GA-D2,New,Yes,Attended,39.0,1235
+APT21382,PAT0512,2025-04-26,Urology,UR-D3,Follow-up,No,Attended,28.0,800
+APT21600,PAT1312,2025-04-26,General Medicine,GM-D3,Follow-up,No,No-Show,,450
+APT21791,PAT0171,2025-04-26,Pediatrics,PD-D2,Follow-up,No,Attended,21.0,550
+APT21912,PAT1069,2025-04-26,Cardiology,CD-D3,Follow-up,Yes,Attended,,1100
+APT22131,PAT0987,2025-04-26,Orthopedics,OR-D1,Follow-up,Yes,Attended,32.0,850
+APT22221,PAT0746,2025-04-26,Orthopedics,OR-D2,New,No,Attended,35.0,1105
+APT22240,PAT1011,2025-04-26,Orthopedics,OR-D4,New,No,No-Show,,1055
+APT22286,PAT0862,2025-04-26,Dermatology,DM-D2,New,Yes,No-Show,,845
+APT22392,PAT1344,2025-04-26,Orthopedics,OR-D3,New,No,Attended,42.0,1155
+APT20025,PAT0328,2025-04-28,Orthopedics,OR-D2,Follow-up,No,Attended,31.0,900
+APT20202,PAT0478,2025-04-28,Urology,UR-D1,New,Yes,Attended,34.0,1040
+APT20202,PAT0478,2025-04-28,Urology,UR-D1,New,Yes,Attended,34.0,1040
+APT20533,PAT0241,2025-04-28,General Medicine,GM-D2,Follow-up,Yes,Attended,24.0,450
+APT20583,PAT0554,2025-04-28,Neurology,NE-D4,New,No,Attended,47.0,1690
+APT20686,PAT0692,2025-04-28,Pediatrics,PD-D4,New,No,No-Show,,765
+APT20774,PAT1021,2025-04-28,Orthopedics,OR-D4,New,No,Attended,37.0,1055
+APT20843,PAT1128,2025-04-28,Urology,UR-D4,Follow-up,No,Cancelled,,800
+APT20844,PAT0531,2025-04-28,Pediatrics,PD-D4,New,Yes,Attended,29.0,765
+APT20884,PAT0153,2025-04-28,Gastroenterology,GA-D4,Follow-up,No,Attended,95.0,1000
+APT20981,PAT0518,2025-04-28,General Medicine,GM-D3,Follow-up,No,Attended,32.0,450
+APT21061,PAT1070,2025-04-28,Cardiology,CD-D1,Follow-up,Yes,Attended,30.0,1100
+APT21121,PAT0491,2025-04-28,General Medicine,GM-D4,New,Yes,Cancelled,,635
+APT21134,PAT0409,2025-04-28,Cardiology,CD-D2,New,No,Attended,49.0,1380
+APT21135,PAT0005,2025-04-28,Urology,UR-D4,Follow-up,Yes,Attended,39.0,800
+APT21266,PAT0238,2025-04-28,Orthopedics,OR-D4,Follow-up,No,No-Show,,900
+APT21386,PAT0092,2025-04-28,Dermatology,DM-D3,Follow-up,Yes,No-Show,,650
+APT21397,PAT1139,2025-04-28,Neurology,NE-D3,Follow-up,Yes,Attended,46.0,1350
+APT21414,PAT0493,2025-04-28,Neurology,NE-D4,New,No,Attended,43.0,1690
+APT21480,PAT0470,2025-04-28,General Medicine,GM-D2,Follow-up,Yes,Cancelled,,450
+APT21493,PAT0980,2025-04-28,Pediatrics,PD-D1,Follow-up,No,Attended,26.0,550
+APT21501,PAT0299,2025-04-28,Pediatrics,PD-D4,Follow-up,Yes,Attended,26.0,550
+APT21646,PAT1330,2025-04-28,Cardiology,CD-D1,Follow-up,Yes,Attended,41.0,1100
+APT21788,PAT1155,2025-04-28,General Medicine,GM-D4,Follow-up,No,No-Show,,450
+APT21814,PAT0702,2025-04-28,General Medicine,GM-D3,Follow-up,Yes,Attended,42.0,500
+APT21878,PAT0352,2025-04-28,Dermatology,DM-D1,Follow-up,No,No-Show,,600
+APT21883,PAT1172,2025-04-28,General Medicine,GM-D2,Follow-up,Yes,No-Show,,450
+APT21920,PAT0970,2025-04-28,Orthopedics,OR-D2,Follow-up,Yes,Attended,14.0,850
+APT21956,PAT0384,2025-04-28,Orthopedics,OR-D1,Follow-up,Yes,Attended,24.0,850
+APT21980,PAT0583,2025-04-28,Pediatrics,PD-D1,New,Yes,Cancelled,,765
+APT22343,PAT0864,2025-04-28,General Medicine,GM-D2,Follow-up,Yes,Attended,55.0,400
+APT20002,PAT0222,2025-04-29,Pediatrics,PD-D3,New,No,Attended,26.0,715
+APT20037,PAT1083,2025-04-29,Cardiology,CD-D2,New,No,Attended,60.0,1430
+APT20039,PAT0165,2025-04-29,Orthopedics,OR-D4,Follow-up,Yes,Attended,51.0,850
+APT20117,PAT0770,2025-04-29,Pediatrics,PD-D1,Follow-up,No,Attended,21.0,600
+APT20326,PAT0423,2025-04-29,Pediatrics,PD-D2,Follow-up,No,No-Show,,600
+APT20345,PAT0861,2025-04-29,Cardiology,CD-D1,New,No,Cancelled,,1380
+APT20413,PAT0335,2025-04-29,General Medicine,GM-D1,New,Yes,No-Show,,585
+APT20505,PAT1304,2025-04-29,Gastroenterology,GA-D1,Follow-up,Yes,Cancelled,,950
+APT20550,PAT0957,2025-04-29,Dermatology,DM-D1,New,Yes,No-Show,,845
+APT20565,PAT0676,2025-04-29,General Medicine,GM-D2,New,No,Attended,54.0,535
+APT20585,PAT0506,2025-04-29,Neurology,NE-D4,Follow-up,Yes,Attended,55.0,1250
+APT20598,PAT0204,2025-04-29,Urology,UR-D3,Follow-up,No,Attended,25.0,800
+APT20636,PAT0013,2025-04-29,Cardiology,CD-D4,Follow-up,No,Attended,48.0,1100
+APT20660,PAT1077,2025-04-29,Orthopedics,OR-D2,New,No,No-Show,,1105
+APT20720,PAT0531,2025-04-29,Cardiology,CD-D2,Follow-up,Yes,Attended,39.0,1100
+APT20808,PAT0445,2025-04-29,Gastroenterology,GA-D4,Follow-up,Yes,Attended,49.0,950
+APT20835,PAT0904,2025-04-29,Urology,UR-D3,Follow-up,No,No-Show,,850
+APT20908,PAT0754,2025-04-29,Pediatrics,PD-D4,Follow-up,Yes,Attended,21.0,500
+APT21071,PAT1076,2025-04-29,Gastroenterology,GA-D4,New,No,No-Show,,1235
+APT21155,PAT0243,2025-04-29,Orthopedics,OR-D1,New,No,Attended,64.0,1055
+APT21161,PAT1256,2025-04-29,Orthopedics,OR-D1,New,Yes,No-Show,,1105
+APT21175,PAT0896,2025-04-29,Orthopedics,OR-D4,Follow-up,No,Attended,38.0,850
+APT21180,PAT0271,2025-04-29,Pediatrics,PD-D1,New,Yes,Attended,27.0,665
+APT21209,PAT0494,2025-04-29,Dermatology,DM-D2,Follow-up,No,Attended,11.0,650
+APT21316,PAT0131,2025-04-29,Dermatology,DM-D2,Follow-up,Yes,Attended,14.0,600
+APT21339,PAT1300,2025-04-29,Gastroenterology,GA-D1,New,No,Attended,29.0,1235
+APT21385,PAT0652,2025-04-29,Dermatology,DM-D3,New,Yes,No-Show,,845
+APT21418,PAT0276,2025-04-29,Pediatrics,PD-D2,Follow-up,Yes,Attended,28.0,550
+APT21433,PAT1081,2025-04-29,Orthopedics,OR-D4,Follow-up,No,Attended,55.0,800
+APT21481,PAT0799,2025-04-29,Gastroenterology,GA-D4,Follow-up,No,Attended,32.0,950
+APT21499,PAT0030,2025-04-29,Pediatrics,PD-D2,Follow-up,Yes,Attended,23.0,500
+APT21504,PAT1103,2025-04-29,General Medicine,GM-D1,New,Yes,Attended,54.0,585
+APT21529,PAT1162,2025-04-29,General Medicine,GM-D4,Follow-up,Yes,Attended,31.0,450
+APT21601,PAT1129,2025-04-29,Urology,UR-D4,Follow-up,No,No-Show,,800
+APT21687,PAT0503,2025-04-29,Neurology,NE-D3,Follow-up,No,Attended,174.0,1300
+APT21741,PAT1366,2025-04-29,General Medicine,GM-D4,Follow-up,No,Attended,18.0,450
+APT21767,PAT1134,2025-04-29,Pediatrics,PD-D4,New,Yes,Attended,24.0,765
+APT21790,PAT0544,2025-04-29,Cardiology,CD-D3,Follow-up,Yes,Attended,56.0,1050
+APT21840,PAT1141,2025-04-29,Orthopedics,OR-D2,New,No,Attended,76.0,1105
+APT21857,PAT1078,2025-04-29,Cardiology,CD-D2,Follow-up,No,Attended,61.0,1100
+APT21901,PAT0921,2025-04-29,Gastroenterology,GA-D3,Follow-up,Yes,No-Show,,950
+APT21934,PAT0180,2025-04-29,General Medicine,GM-D4,New,Yes,Attended,29.0,535
+APT21938,PAT0939,2025-04-29,Dermatology,DM-D4,New,Yes,Attended,,845
+APT21947,PAT0472,2025-04-29,Pediatrics,PD-D3,New,No,Attended,32.0,665
+APT21961,PAT1139,2025-04-29,Gastroenterology,GA-D3,Follow-up,Yes,No-Show,,950
+APT21978,PAT0642,2025-04-29,Orthopedics,OR-D4,New,Yes,Attended,37.0,1105
+APT22000,PAT0305,2025-04-29,Gastroenterology,GA-D2,New,Yes,No-Show,,1235
+APT22012,PAT0387,2025-04-29,Urology,UR-D4,Follow-up,No,Attended,29.0,800
+APT22137,PAT0102,2025-04-29,General Medicine,GM-D3,Follow-up,Yes,Attended,38.0,450
+APT22242,PAT0405,2025-04-29,General Medicine,GM-D4,Follow-up,No,Attended,,450
+APT22278,PAT0505,2025-04-29,Cardiology,CD-D2,Follow-up,No,Attended,45.0,1150
+APT22371,PAT1160,2025-04-29,Dermatology,DM-D1,Follow-up,Yes,No-Show,,650
+APT20264,PAT0165,2025-04-30,Urology,UR-D2,New,No,Attended,154.0,990
+APT20348,PAT0738,2025-04-30,General Medicine,GM-D2,New,Yes,Attended,48.0,585
+APT20438,PAT0668,2025-04-30,Neurology,NE-D4,New,Yes,Attended,52.0,1640
+APT20447,PAT0560,2025-04-30,General Medicine,GM-D2,Follow-up,Yes,Attended,38.0,400
+APT20482,PAT1286,2025-04-30,Cardiology,CD-D3,Follow-up,No,Attended,,1100
+APT20571,PAT0567,2025-04-30,Cardiology,CD-D1,Follow-up,Yes,Attended,,1050
+APT20682,PAT0483,2025-04-30,Cardiology,CD-D2,Follow-up,No,Attended,48.0,1100
+APT20747,PAT0708,2025-04-30,General Medicine,GM-D4,New,No,Attended,35.0,585
+APT20776,PAT1011,2025-04-30,Neurology,NE-D4,New,No,Attended,63.0,1640
+APT20854,PAT0655,2025-04-30,Pediatrics,PD-D2,Follow-up,No,Attended,20.0,550
+APT20983,PAT0826,2025-04-30,Orthopedics,OR-D2,Follow-up,Yes,No-Show,,850
+APT21006,PAT0080,2025-04-30,Neurology,NE-D1,New,Yes,Attended,48.0,1740
+APT21046,PAT0202,2025-04-30,Gastroenterology,GA-D3,Follow-up,No,No-Show,,900
+APT21048,PAT1016,2025-04-30,General Medicine,GM-D2,New,Yes,Attended,35.0,585
+APT21127,PAT1240,2025-04-30,Orthopedics,OR-D1,Follow-up,Yes,Attended,29.0,850
+APT21166,PAT1040,2025-04-30,Cardiology,CD-D3,Follow-up,Yes,Attended,31.0,1150
+APT21186,PAT0768,2025-04-30,Cardiology,CD-D3,Follow-up,Yes,Attended,39.0,1100
+APT21268,PAT0237,2025-04-30,Neurology,NE-D4,Follow-up,No,Attended,43.0,1300
+APT21305,PAT1273,2025-04-30,Cardiology,CD-D2,Follow-up,No,No-Show,,1100
+APT21313,PAT0134,2025-04-30,Pediatrics,PD-D3,Follow-up,Yes,Attended,22.0,500
+APT21321,PAT0976,2025-04-30,Dermatology,DM-D2,Follow-up,Yes,Attended,18.0,600
+APT21325,PAT0632,2025-04-30,General Medicine,GM-D4,New,No,Attended,50.0,585
+APT21538,PAT0156,2025-04-30,Pediatrics,PD-D4,Follow-up,No,Attended,14.0,550
+APT21634,PAT0522,2025-04-30,General Medicine,GM-D3,Follow-up,No,No-Show,,450
+APT21797,PAT0577,2025-04-30,Dermatology,DM-D4,Follow-up,Yes,Cancelled,,700
+APT21870,PAT0432,2025-04-30,General Medicine,GM-D1,New,Yes,No-Show,,635
+APT21875,PAT0560,2025-04-30,Orthopedics,OR-D2,New,Yes,Attended,42.0,1105
+APT21940,PAT0468,2025-04-30,Urology,UR-D2,New,No,Attended,48.0,1040
+APT21995,PAT0916,2025-04-30,Pediatrics,PD-D4,Follow-up,Yes,Attended,,500
+APT21999,PAT1317,2025-04-30,Pediatrics,PD-D1,New,Yes,No-Show,,715
+APT22059,PAT0461,2025-04-30,Gastroenterology,GA-D3,New,Yes,Attended,54.0,1235
+APT22064,PAT1174,2025-04-30,Orthopedics,OR-D1,Follow-up,Yes,No-Show,,800
+APT22093,PAT0655,2025-04-30,General Medicine,GM-D4,New,No,Attended,39.0,585
+APT22215,PAT0375,2025-04-30,Gastroenterology,GA-D2,Follow-up,No,Attended,20.0,950
+APT22349,PAT1326,2025-04-30,Cardiology,CD-D4,Follow-up,Yes,Attended,27.0,1100
+APT22357,PAT1150,2025-04-30,Orthopedics,OR-D4,New,Yes,Attended,49.0,1105
+APT22396,PAT0463,2025-04-30,General Medicine,GM-D1,Follow-up,Yes,Attended,154.0,450
+APT20093,PAT0343,2025-05-01,Neurology,NE-D1,Follow-up,Yes,Cancelled,,1250
+APT20378,PAT0862,2025-05-01,Urology,UR-D1,New,No,Attended,33.0,1090
+APT20486,PAT0374,2025-05-01,Orthopedics,OR-D3,Follow-up,Yes,Attended,50.0,850
+APT20584,PAT1267,2025-05-01,Orthopedics,OR-D2,New,Yes,Attended,54.0,1105
+APT20624,PAT0028,2025-05-01,Pediatrics,PD-D1,New,Yes,Attended,30.0,715
+APT20694,PAT0860,2025-05-01,General Medicine,GM-D3,New,No,Attended,140.0,585
+APT21141,PAT0357,2025-05-01,General Medicine,GM-D3,Follow-up,Yes,Attended,50.0,450
+APT21226,PAT0646,2025-05-01,Dermatology,DM-D1,Follow-up,Yes,Attended,24.0,650
+APT21362,PAT0837,2025-05-01,Pediatrics,PD-D4,Follow-up,Yes,No-Show,,600
+APT21400,PAT1019,2025-05-01,Orthopedics,OR-D2,New,No,Attended,52.0,1105
+APT21429,PAT0395,2025-05-01,General Medicine,GM-D3,Follow-up,Yes,Attended,35.0,450
+APT21608,PAT1210,2025-05-01,Pediatrics,PD-D2,Follow-up,Yes,Attended,27.0,550
+APT21614,PAT0533,2025-05-01,Pediatrics,PD-D4,Follow-up,Yes,Attended,24.0,550
+APT21615,PAT0021,2025-05-01,Pediatrics,PD-D4,Follow-up,Yes,Attended,16.0,550
+APT21704,PAT0394,2025-05-01,Neurology,NE-D4,Follow-up,Yes,Attended,47.0,1350
+APT21706,PAT0478,2025-05-01,Dermatology,DM-D4,Follow-up,No,Attended,15.0,650
+APT22039,PAT0157,2025-05-01,Neurology,NE-D1,New,Yes,Attended,48.0,1640
+APT22069,PAT0163,2025-05-01,Pediatrics,PD-D2,Follow-up,No,Attended,25.0,550
+APT22095,PAT0286,2025-05-01,Pediatrics,PD-D1,Follow-up,Yes,Attended,21.0,550
+APT22098,PAT0670,2025-05-01,Cardiology,CD-D4,New,Yes,Attended,50.0,1430
+APT20052,PAT0532,2025-05-02,Gastroenterology,GA-D1,Follow-up,No,Attended,40.0,1000
+APT20063,PAT0440,2025-05-02,Cardiology,CD-D2,Follow-up,Yes,Attended,49.0,1100
+APT20066,PAT1291,2025-05-02,Dermatology,DM-D1,Follow-up,Yes,Attended,23.0,650
+APT20068,PAT0668,2025-05-02,Gastroenterology,GA-D4,New,Yes,Attended,28.0,1185
+APT20075,PAT0149,2025-05-02,Orthopedics,OR-D3,New,No,Attended,134.0,1105
+APT20146,PAT1160,2025-05-02,General Medicine,GM-D4,Follow-up,No,Attended,20.0,450
+APT20170,PAT0502,2025-05-02,Cardiology,CD-D3,New,Yes,Attended,53.0,1430
+APT20175,PAT0462,2025-05-02,Orthopedics,OR-D4,Follow-up,Yes,Attended,50.0,850
+APT20319,PAT0724,2025-05-02,Orthopedics,OR-D1,New,No,No-Show,,1105
+APT20462,PAT1121,2025-05-02,Urology,UR-D2,Follow-up,No,Cancelled,,800
+APT20545,PAT1126,2025-05-02,Orthopedics,OR-D2,Follow-up,No,Attended,46.0,850
+APT20837,PAT0033,2025-05-02,Gastroenterology,GA-D1,New,Yes,Attended,,1235
+APT20869,PAT0841,2025-05-02,General Medicine,GM-D4,Follow-up,No,No-Show,,400
+APT20877,PAT0169,2025-05-02,Dermatology,DM-D4,Follow-up,Yes,Attended,17.0,600
+APT20968,PAT0003,2025-05-02,Neurology,NE-D1,Follow-up,No,No-Show,,1350
+APT21096,PAT0659,2025-05-02,Cardiology,CD-D1,Follow-up,Yes,Attended,36.0,1150
+APT21105,PAT0416,2025-05-02,General Medicine,GM-D3,Follow-up,Yes,Attended,37.0,450
+APT21219,PAT0889,2025-05-02,Gastroenterology,GA-D3,New,No,No-Show,,1235
+APT21249,PAT0051,2025-05-02,Orthopedics,OR-D1,New,Yes,No-Show,,1105
+APT21273,PAT0309,2025-05-02,Dermatology,DM-D1,Follow-up,Yes,Attended,15.0,700
+APT21303,PAT0750,2025-05-02,Orthopedics,OR-D1,Follow-up,Yes,Attended,119.0,900
+APT21357,PAT1210,2025-05-02,Cardiology,CD-D2,Follow-up,No,No-Show,,1100
+APT21415,PAT0250,2025-05-02,Neurology,NE-D2,New,No,No-Show,,1690
+APT21459,PAT0453,2025-05-02,Dermatology,DM-D2,New,No,Attended,33.0,845
+APT21467,PAT0072,2025-05-02,Cardiology,CD-D4,Follow-up,Yes,Attended,11.0,1100
+APT21471,PAT0006,2025-05-02,Dermatology,DM-D1,New,Yes,Attended,24.0,845
+APT21505,PAT0445,2025-05-02,Neurology,NE-D4,Follow-up,Yes,Attended,55.0,1350
+APT21527,PAT0416,2025-05-02,General Medicine,GM-D3,Follow-up,Yes,Attended,,450
+APT21624,PAT0548,2025-05-02,Orthopedics,OR-D3,Follow-up,Yes,Attended,32.0,850
+APT21688,PAT0019,2025-05-02,Cardiology,CD-D3,New,Yes,Attended,37.0,1430
+APT21742,PAT0853,2025-05-02,Orthopedics,OR-D1,New,No,Attended,,1055
+APT21815,PAT1089,2025-05-02,General Medicine,GM-D4,New,No,No-Show,,635
+APT21839,PAT1031,2025-05-02,Orthopedics,OR-D2,Follow-up,Yes,Attended,29.0,850
+APT21856,PAT1098,2025-05-02,General Medicine,GM-D1,Follow-up,No,No-Show,,450
+APT21874,PAT0944,2025-05-02,Pediatrics,PD-D2,Follow-up,Yes,Attended,25.0,550
+APT21952,PAT0544,2025-05-02,Urology,UR-D1,Follow-up,Yes,Attended,16.0,850
+APT22078,PAT0824,2025-05-02,Orthopedics,OR-D3,New,Yes,Attended,32.0,1105
+APT22081,PAT0202,2025-05-02,Dermatology,DM-D4,Follow-up,No,Attended,13.0,600
+APT22149,PAT0352,2025-05-02,General Medicine,GM-D2,New,No,No-Show,,585
+APT22198,PAT1169,2025-05-02,Neurology,NE-D1,Follow-up,No,No-Show,,1350
+APT22211,PAT0881,2025-05-02,General Medicine,GM-D3,New,Yes,Attended,38.0,585
+APT22255,PAT0591,2025-05-02,General Medicine,GM-D2,New,Yes,Attended,36.0,535
+APT22299,PAT0507,2025-05-02,General Medicine,GM-D2,Follow-up,Yes,Attended,46.0,450
+APT20228,PAT0787,2025-05-03,Neurology,NE-D1,Follow-up,Yes,Attended,83.0,1250
+APT20337,PAT0860,2025-05-03,General Medicine,GM-D4,New,Yes,Attended,40.0,585
+APT20404,PAT0591,2025-05-03,Gastroenterology,GA-D3,Follow-up,No,Attended,36.0,1000
+APT20443,PAT0741,2025-05-03,Gastroenterology,GA-D4,Follow-up,No,Attended,46.0,950
+APT20480,PAT0443,2025-05-03,General Medicine,GM-D3,Follow-up,Yes,Attended,29.0,500
+APT20734,PAT0325,2025-05-03,Neurology,NE-D1,New,Yes,Attended,83.0,1640
+APT20748,PAT1140,2025-05-03,Urology,UR-D4,Follow-up,No,No-Show,,800
+APT20803,PAT1042,2025-05-03,Neurology,NE-D2,Follow-up,Yes,No-Show,,1350
+APT20997,PAT0056,2025-05-03,General Medicine,GM-D2,Follow-up,Yes,Attended,26.0,450
+APT21052,PAT0755,2025-05-03,Dermatology,DM-D1,Follow-up,No,Attended,19.0,650
+APT21206,PAT0329,2025-05-03,Dermatology,DM-D1,Follow-up,No,Attended,,650
+APT21224,PAT1108,2025-05-03,Gastroenterology,GA-D1,Follow-up,No,Attended,161.0,900
+APT21717,PAT0146,2025-05-03,Orthopedics,OR-D3,Follow-up,Yes,Attended,39.0,850
+APT21738,PAT0137,2025-05-03,Dermatology,DM-D4,Follow-up,Yes,Attended,13.0,650
+APT21847,PAT0102,2025-05-03,Gastroenterology,GA-D2,Follow-up,Yes,Attended,36.0,950
+APT22014,PAT0313,2025-05-03,Orthopedics,OR-D1,Follow-up,No,No-Show,,800
+APT22224,PAT0356,2025-05-03,Urology,UR-D3,Follow-up,No,Attended,25.0,800
+APT22333,PAT0687,2025-05-03,General Medicine,GM-D2,New,Yes,Attended,38.0,585
+APT20147,PAT0008,2025-05-05,Cardiology,CD-D4,Follow-up,Yes,Attended,74.0,1100
+APT20427,PAT0427,2025-05-05,General Medicine,GM-D3,New,No,Attended,63.0,585
+APT20519,PAT1223,2025-05-05,Urology,UR-D4,Follow-up,Yes,Attended,31.0,850
+APT20539,PAT0382,2025-05-05,Urology,UR-D2,Follow-up,No,Attended,30.0,800
+APT20591,PAT0038,2025-05-05,Pediatrics,PD-D3,New,Yes,No-Show,,665
+APT20622,PAT0246,2025-05-05,Neurology,NE-D1,New,Yes,Attended,64.0,1690
+APT20646,PAT0978,2025-05-05,Pediatrics,PD-D3,New,Yes,Attended,36.0,715
+APT20687,PAT1170,2025-05-05,Orthopedics,OR-D2,Follow-up,Yes,Attended,56.0,850
+APT20822,PAT0474,2025-05-05,Orthopedics,OR-D3,Follow-up,Yes,Attended,40.0,850
+APT20947,PAT0489,2025-05-05,Cardiology,CD-D3,New,No,Attended,,1480
+APT21214,PAT0095,2025-05-05,General Medicine,GM-D3,Follow-up,Yes,Attended,48.0,450
+APT21306,PAT0768,2025-05-05,Pediatrics,PD-D4,New,No,Attended,,715
+APT21441,PAT0063,2025-05-05,General Medicine,GM-D1,New,Yes,Attended,48.0,585
+APT21568,PAT1228,2025-05-05,General Medicine,GM-D3,New,Yes,Attended,43.0,585
+APT21573,PAT0001,2025-05-05,Orthopedics,OR-D4,Follow-up,Yes,Attended,38.0,850
+APT21855,PAT1179,2025-05-05,Cardiology,CD-D4,Follow-up,Yes,Attended,150.0,1150
+APT22107,PAT0171,2025-05-05,Urology,UR-D4,Follow-up,Yes,Attended,34.0,850
+APT22321,PAT0662,2025-05-05,Orthopedics,OR-D4,New,Yes,No-Show,,1155
+APT22350,PAT1150,2025-05-05,Gastroenterology,GA-D4,Follow-up,No,Attended,24.0,1000
+APT22366,PAT0293,2025-05-05,Dermatology,DM-D1,New,Yes,Attended,24.0,795
+APT20030,PAT0723,2025-05-06,Dermatology,DM-D4,Follow-up,Yes,Attended,22.0,650
+APT20086,PAT0433,2025-05-06,General Medicine,GM-D2,Follow-up,No,No-Show,,450
+APT20094,PAT1297,2025-05-06,General Medicine,GM-D3,New,No,Attended,73.0,635
+APT20100,PAT0080,2025-05-06,Orthopedics,OR-D2,Follow-up,No,Attended,38.0,800
+APT20127,PAT0073,2025-05-06,Orthopedics,OR-D4,Follow-up,Yes,Attended,38.0,850
+APT20200,PAT0413,2025-05-06,General Medicine,GM-D4,Follow-up,No,No-Show,,450
+APT20218,PAT1095,2025-05-06,Pediatrics,PD-D4,New,Yes,Attended,27.0,715
+APT20295,PAT0711,2025-05-06,Pediatrics,PD-D1,Follow-up,Yes,Attended,17.0,550
+APT20340,PAT0502,2025-05-06,General Medicine,GM-D2,Follow-up,Yes,Attended,,450
+APT20422,PAT1051,2025-05-06,Pediatrics,PD-D4,Follow-up,No,Attended,19.0,600
+APT20452,PAT0963,2025-05-06,Dermatology,DM-D2,Follow-up,No,Attended,19.0,650
+APT20474,PAT1074,2025-05-06,General Medicine,GM-D1,New,Yes,No-Show,,635
+APT20497,PAT0810,2025-05-06,Gastroenterology,GA-D2,New,No,No-Show,,1285
+APT20512,PAT0930,2025-05-06,Urology,UR-D1,Follow-up,No,Attended,26.0,850
+APT20548,PAT0690,2025-05-06,General Medicine,GM-D4,New,Yes,Attended,68.0,635
+APT20616,PAT0162,2025-05-06,Neurology,NE-D2,New,No,No-Show,,1740
+APT20665,PAT1184,2025-05-06,Dermatology,DM-D3,Follow-up,No,Attended,13.0,650
+APT20689,PAT1058,2025-05-06,Orthopedics,OR-D2,New,No,Attended,50.0,1105
+APT20761,PAT0487,2025-05-06,Cardiology,CD-D4,Follow-up,Yes,Attended,49.0,1100
+APT20769,PAT0870,2025-05-06,Cardiology,CD-D3,New,No,No-Show,,1480
+APT20787,PAT1351,2025-05-06,Orthopedics,OR-D4,Follow-up,Yes,Attended,51.0,850
+APT20815,PAT0584,2025-05-06,Neurology,NE-D1,Follow-up,No,Attended,39.0,1300
+APT21037,PAT0622,2025-05-06,Neurology,NE-D1,Follow-up,No,Attended,45.0,1300
+APT21072,PAT0017,2025-05-06,Urology,UR-D4,Follow-up,Yes,Attended,22.0,750
+APT21211,PAT1124,2025-05-06,Gastroenterology,GA-D2,New,No,Attended,44.0,1235
+APT21294,PAT0451,2025-05-06,Orthopedics,OR-D4,Follow-up,No,Attended,34.0,900
+APT21300,PAT0549,2025-05-06,Orthopedics,OR-D3,Follow-up,No,No-Show,,850
+APT21347,PAT0643,2025-05-06,Gastroenterology,GA-D1,New,No,Attended,42.0,1235
+APT21439,PAT1319,2025-05-06,Neurology,NE-D1,Follow-up,Yes,Attended,,1350
+APT21495,PAT0138,2025-05-06,Urology,UR-D1,Follow-up,No,No-Show,,800
+APT21619,PAT1180,2025-05-06,Gastroenterology,GA-D4,New,No,Attended,49.0,1185
+APT21675,PAT0182,2025-05-06,Dermatology,DM-D1,Follow-up,Yes,Attended,26.0,650
+APT21748,PAT1306,2025-05-06,Orthopedics,OR-D4,New,Yes,Attended,,1055
+APT21755,PAT0901,2025-05-06,Urology,UR-D3,Follow-up,Yes,Attended,26.0,850
+APT21766,PAT0738,2025-05-06,Orthopedics,OR-D1,Follow-up,Yes,Cancelled,,900
+APT21785,PAT0508,2025-05-06,Dermatology,DM-D2,Follow-up,Yes,Attended,18.0,600
+APT21808,PAT0588,2025-05-06,Dermatology,DM-D4,Follow-up,Yes,Attended,16.0,650
+APT21957,PAT0444,2025-05-06,Urology,UR-D4,Follow-up,Yes,Attended,27.0,800
+APT21964,PAT0351,2025-05-06,Gastroenterology,GA-D1,Follow-up,Yes,Attended,32.0,950
+APT21965,PAT0395,2025-05-06,Urology,UR-D3,Follow-up,Yes,Cancelled,,800
+APT22153,PAT1274,2025-05-06,General Medicine,GM-D1,Follow-up,Yes,Attended,,450
+APT22159,PAT0258,2025-05-06,Cardiology,CD-D4,New,No,Attended,49.0,1430
+APT22220,PAT0982,2025-05-06,General Medicine,GM-D2,Follow-up,Yes,Attended,27.0,450
+APT22248,PAT0191,2025-05-06,Orthopedics,OR-D3,Follow-up,Yes,Attended,53.0,900
+APT22344,PAT0075,2025-05-06,Neurology,NE-D3,Follow-up,No,Attended,52.0,1350
+APT22368,PAT0165,2025-05-06,Cardiology,CD-D3,Follow-up,No,Attended,129.0,1100
+APT20096,PAT0104,2025-05-07,Gastroenterology,GA-D3,New,Yes,Attended,52.0,1235
+APT20102,PAT0060,2025-05-07,Orthopedics,OR-D1,New,Yes,Attended,50.0,1055
+APT20178,PAT1148,2025-05-07,Dermatology,DM-D3,New,No,Attended,21.0,845
+APT20271,PAT0462,2025-05-07,Neurology,NE-D1,New,No,Attended,51.0,1740
+APT20385,PAT0746,2025-05-07,Cardiology,CD-D2,Follow-up,Yes,Attended,22.0,1050
+APT20471,PAT0566,2025-05-07,Pediatrics,PD-D4,Follow-up,Yes,Attended,19.0,550
+APT20602,PAT0211,2025-05-07,Gastroenterology,GA-D2,Follow-up,Yes,No-Show,,900
+APT20637,PAT1281,2025-05-07,Pediatrics,PD-D2,New,Yes,No-Show,,715
+APT20712,PAT1363,2025-05-07,Orthopedics,OR-D2,Follow-up,No,Attended,24.0,900
+APT20777,PAT0116,2025-05-07,Pediatrics,PD-D3,Follow-up,No,Attended,25.0,550
+APT20849,PAT0481,2025-05-07,General Medicine,GM-D1,New,Yes,Attended,39.0,635
+APT20867,PAT0860,2025-05-07,Pediatrics,PD-D4,Follow-up,Yes,Attended,19.0,500
+APT20888,PAT0082,2025-05-07,Orthopedics,OR-D4,Follow-up,Yes,Attended,32.0,900
+APT21265,PAT1382,2025-05-07,Dermatology,DM-D3,Follow-up,Yes,Attended,20.0,700
+APT21279,PAT0956,2025-05-07,Orthopedics,OR-D2,Follow-up,No,Attended,41.0,900
+APT21283,PAT1376,2025-05-07,Gastroenterology,GA-D4,Follow-up,Yes,No-Show,,950
+APT21298,PAT0675,2025-05-07,Orthopedics,OR-D1,Follow-up,No,Attended,30.0,850
+APT21447,PAT0063,2025-05-07,Gastroenterology,GA-D4,Follow-up,Yes,Attended,17.0,950
+APT21641,PAT0429,2025-05-07,Orthopedics,OR-D1,Follow-up,Yes,Attended,,850
+APT21732,PAT0868,2025-05-07,Dermatology,DM-D4,Follow-up,Yes,Attended,15.0,600
+APT21820,PAT0132,2025-05-07,Urology,UR-D4,New,Yes,Attended,40.0,1040
+APT21821,PAT0941,2025-05-07,Gastroenterology,GA-D4,Follow-up,No,Attended,111.0,1000
+APT21972,PAT0395,2025-05-07,Gastroenterology,GA-D3,New,No,Attended,63.0,1235
+APT22027,PAT0848,2025-05-07,Cardiology,CD-D3,Follow-up,No,Attended,20.0,1100
+APT22054,PAT0977,2025-05-07,Pediatrics,PD-D4,Follow-up,Yes,Attended,23.0,500
+APT22141,PAT0212,2025-05-07,Cardiology,CD-D2,New,No,Attended,65.0,1380
+APT22213,PAT1133,2025-05-07,Cardiology,CD-D1,New,Yes,Attended,49.0,1430
+APT22229,PAT0488,2025-05-07,Neurology,NE-D3,New,No,Attended,85.0,1690
+APT22342,PAT0713,2025-05-07,Orthopedics,OR-D2,Follow-up,No,Attended,23.0,900
+APT22359,PAT0888,2025-05-07,General Medicine,GM-D2,New,No,Attended,39.0,535
+APT20099,PAT1113,2025-05-08,Urology,UR-D1,Follow-up,Yes,Attended,34.0,750
+APT20115,PAT0913,2025-05-08,Gastroenterology,GA-D1,New,No,Attended,42.0,1185
+APT20310,PAT0782,2025-05-08,Orthopedics,OR-D4,Follow-up,Yes,Attended,50.0,800
+APT20342,PAT0034,2025-05-08,Dermatology,DM-D3,New,No,Attended,27.0,795
+APT20618,PAT0494,2025-05-08,Urology,UR-D1,Follow-up,No,No-Show,,800
+APT20672,PAT0181,2025-05-08,General Medicine,GM-D4,Follow-up,Yes,No-Show,,450
+APT20691,PAT0486,2025-05-08,General Medicine,GM-D4,Follow-up,Yes,No-Show,,450
+APT20790,PAT1115,2025-05-08,General Medicine,GM-D4,Follow-up,No,Attended,90.0,450
+APT20919,PAT1053,2025-05-08,Urology,UR-D4,Follow-up,Yes,Attended,28.0,800
+APT21079,PAT0098,2025-05-08,Gastroenterology,GA-D2,Follow-up,Yes,Attended,40.0,950
+APT21138,PAT0766,2025-05-08,General Medicine,GM-D3,Follow-up,No,Attended,22.0,450
+APT21264,PAT0334,2025-05-08,Cardiology,CD-D4,Follow-up,Yes,Attended,38.0,1100
+APT21281,PAT0274,2025-05-08,Pediatrics,PD-D3,Follow-up,No,Attended,14.0,500
+APT21388,PAT0455,2025-05-08,Pediatrics,PD-D1,Follow-up,Yes,Attended,12.0,600
+APT21494,PAT0525,2025-05-08,Dermatology,DM-D4,New,No,No-Show,,895
+APT21725,PAT1192,2025-05-08,General Medicine,GM-D3,Follow-up,Yes,No-Show,,450
+APT21731,PAT0423,2025-05-08,Neurology,NE-D2,Follow-up,No,Attended,33.0,1350
+APT21746,PAT1267,2025-05-08,Pediatrics,PD-D4,Follow-up,Yes,No-Show,,600
+APT21798,PAT0939,2025-05-08,Pediatrics,PD-D1,Follow-up,Yes,Attended,14.0,550
+APT21918,PAT1352,2025-05-08,General Medicine,GM-D4,New,Yes,Attended,40.0,535
+APT21963,PAT0408,2025-05-08,Neurology,NE-D1,New,Yes,Attended,53.0,1640
+APT22044,PAT1028,2025-05-08,Orthopedics,OR-D1,Follow-up,Yes,Attended,44.0,850
+APT22056,PAT1036,2025-05-08,Orthopedics,OR-D4,Follow-up,Yes,Attended,21.0,850
+APT22104,PAT0679,2025-05-08,Orthopedics,OR-D1,Follow-up,Yes,No-Show,,850
+APT22128,PAT0993,2025-05-08,Gastroenterology,GA-D4,Follow-up,No,Attended,26.0,950
+APT22140,PAT0993,2025-05-08,Cardiology,CD-D4,Follow-up,Yes,Attended,36.0,1100
+APT22173,PAT0798,2025-05-08,Gastroenterology,GA-D2,Follow-up,Yes,Attended,44.0,950
+APT20058,PAT1003,2025-05-09,Pediatrics,PD-D1,Follow-up,No,No-Show,,550
+APT20164,PAT0359,2025-05-09,Gastroenterology,GA-D3,New,Yes,Attended,65.0,1235
+APT20179,PAT1332,2025-05-09,Gastroenterology,GA-D1,Follow-up,Yes,Attended,24.0,1000
+APT20343,PAT0824,2025-05-09,Dermatology,DM-D2,New,No,No-Show,,845
+APT20388,PAT1286,2025-05-09,Neurology,NE-D2,Follow-up,No,No-Show,,1300
+APT20457,PAT0828,2025-05-09,Cardiology,CD-D3,Follow-up,Yes,Attended,20.0,1100
+APT20649,PAT0522,2025-05-09,Dermatology,DM-D4,New,No,Attended,31.0,845
+APT20700,PAT0880,2025-05-09,Orthopedics,OR-D4,Follow-up,Yes,No-Show,,850
+APT20818,PAT0926,2025-05-09,Gastroenterology,GA-D3,New,Yes,Attended,33.0,1285
+APT20836,PAT0163,2025-05-09,Orthopedics,OR-D4,New,Yes,Attended,46.0,1055
+APT20868,PAT1008,2025-05-09,Gastroenterology,GA-D1,Follow-up,Yes,Attended,22.0,900
+APT20889,PAT0046,2025-05-09,Urology,UR-D4,Follow-up,Yes,Attended,137.0,850
+APT20935,PAT1075,2025-05-09,Urology,UR-D2,Follow-up,Yes,Attended,31.0,800
+APT20988,PAT1387,2025-05-09,General Medicine,GM-D3,Follow-up,Yes,Attended,26.0,450
+APT21055,PAT0146,2025-05-09,Pediatrics,PD-D1,New,Yes,Cancelled,,715
+APT21352,PAT0586,2025-05-09,General Medicine,GM-D4,Follow-up,Yes,Attended,62.0,450
+APT21496,PAT0810,2025-05-09,Orthopedics,OR-D4,New,Yes,Attended,55.0,1055
+APT21539,PAT0093,2025-05-09,Neurology,NE-D1,New,Yes,Attended,100.0,1690
+APT21645,PAT1049,2025-05-09,Pediatrics,PD-D4,Follow-up,Yes,No-Show,,550
+APT21689,PAT0522,2025-05-09,General Medicine,GM-D3,Follow-up,Yes,Attended,45.0,450
+APT21761,PAT0843,2025-05-09,Orthopedics,OR-D4,New,Yes,No-Show,,1105
+APT21844,PAT1041,2025-05-09,Cardiology,CD-D3,New,Yes,Attended,85.0,1430
+APT21859,PAT0564,2025-05-09,Pediatrics,PD-D3,Follow-up,Yes,Attended,30.0,500
+APT21924,PAT1294,2025-05-09,Orthopedics,OR-D2,Follow-up,Yes,Attended,148.0,850
+APT22037,PAT0027,2025-05-09,Dermatology,DM-D1,Follow-up,No,Attended,18.0,650
+APT22142,PAT1228,2025-05-09,Orthopedics,OR-D4,Follow-up,Yes,Attended,64.0,850
+APT22209,PAT1216,2025-05-09,General Medicine,GM-D3,New,No,Attended,40.0,535
+APT20036,PAT0488,2025-05-10,Cardiology,CD-D3,New,No,Attended,37.0,1430
+APT20207,PAT0190,2025-05-10,Urology,UR-D2,Follow-up,Yes,Attended,29.0,800
+APT20236,PAT0180,2025-05-10,Cardiology,CD-D1,New,No,Attended,41.0,1430
+APT20346,PAT0538,2025-05-10,Pediatrics,PD-D1,New,Yes,Attended,30.0,665
+APT20490,PAT0950,2025-05-10,Neurology,NE-D4,New,Yes,Attended,76.0,1690
+APT20516,PAT1080,2025-05-10,Gastroenterology,GA-D1,Follow-up,Yes,Attended,35.0,950
+APT20663,PAT0383,2025-05-10,Gastroenterology,GA-D1,Follow-up,Yes,Attended,47.0,950
+APT20690,PAT0476,2025-05-10,Pediatrics,PD-D1,Follow-up,No,Attended,16.0,500
+APT20966,PAT0899,2025-05-10,Orthopedics,OR-D1,New,No,Attended,46.0,1105
+APT20986,PAT0629,2025-05-10,Pediatrics,PD-D1,Follow-up,Yes,Attended,25.0,550
+APT21030,PAT0483,2025-05-10,General Medicine,GM-D2,Follow-up,No,Attended,169.0,450
+APT21262,PAT1197,2025-05-10,Urology,UR-D2,Follow-up,Yes,Attended,28.0,800
+APT21308,PAT0922,2025-05-10,Orthopedics,OR-D2,Follow-up,Yes,Attended,30.0,850
+APT21410,PAT0179,2025-05-10,General Medicine,GM-D2,Follow-up,Yes,Attended,36.0,400
+APT21664,PAT0280,2025-05-10,Neurology,NE-D2,New,Yes,Attended,41.0,1740
+APT21665,PAT1036,2025-05-10,Gastroenterology,GA-D2,New,No,No-Show,,1235
+APT21809,PAT0198,2025-05-10,Neurology,NE-D4,New,No,No-Show,,1690
+APT21845,PAT0400,2025-05-10,Orthopedics,OR-D4,Follow-up,Yes,Attended,40.0,800
+APT21845,PAT0400,2025-05-10,Orthopedics,OR-D4,Follow-up,Yes,Attended,40.0,800
+APT21945,PAT1131,2025-05-10,Cardiology,CD-D1,New,No,No-Show,,1480
+APT22016,PAT0692,2025-05-10,Pediatrics,PD-D4,Follow-up,Yes,No-Show,,600
+APT22133,PAT0108,2025-05-10,Pediatrics,PD-D3,Follow-up,Yes,Attended,31.0,550
+APT22231,PAT0060,2025-05-10,General Medicine,GM-D2,New,No,Attended,62.0,535
+APT22385,PAT0590,2025-05-10,Gastroenterology,GA-D2,Follow-up,No,Attended,33.0,950
+APT20233,PAT0151,2025-05-12,General Medicine,GM-D2,Follow-up,No,Attended,30.0,450
+APT20263,PAT0774,2025-05-12,General Medicine,GM-D3,Follow-up,No,Attended,31.0,450
+APT20361,PAT1207,2025-05-12,Orthopedics,OR-D1,Follow-up,No,No-Show,,850
+APT20392,PAT0937,2025-05-12,Cardiology,CD-D4,New,Yes,Attended,56.0,1430
+APT20405,PAT0896,2025-05-12,Dermatology,DM-D2,Follow-up,Yes,No-Show,,600
+APT20411,PAT1259,2025-05-12,Urology,UR-D4,Follow-up,No,No-Show,,750
+APT20418,PAT0656,2025-05-12,Gastroenterology,GA-D1,Follow-up,Yes,Attended,36.0,1000
+APT20574,PAT0589,2025-05-12,Neurology,NE-D2,Follow-up,No,Attended,24.0,1350
+APT20619,PAT1220,2025-05-12,General Medicine,GM-D2,Follow-up,No,Attended,48.0,500
+APT20645,PAT0869,2025-05-12,Neurology,NE-D2,Follow-up,Yes,Cancelled,,1300
+APT20648,PAT0193,2025-05-12,Pediatrics,PD-D3,Follow-up,No,No-Show,,550
+APT20738,PAT1041,2025-05-12,Cardiology,CD-D4,New,Yes,Attended,39.0,1430
+APT20753,PAT1065,2025-05-12,Pediatrics,PD-D3,Follow-up,Yes,Attended,23.0,550
+APT20788,PAT0992,2025-05-12,General Medicine,GM-D1,New,No,Attended,51.0,635
+APT20824,PAT1276,2025-05-12,Gastroenterology,GA-D4,Follow-up,Yes,Attended,38.0,1000
+APT20830,PAT0131,2025-05-12,Neurology,NE-D1,Follow-up,Yes,Attended,52.0,1350
+APT20853,PAT0486,2025-05-12,Urology,UR-D2,Follow-up,No,Attended,19.0,850
+APT21057,PAT1166,2025-05-12,Neurology,NE-D3,New,No,Attended,36.0,1740
+APT21189,PAT0242,2025-05-12,Orthopedics,OR-D3,New,Yes,Attended,50.0,1055
+APT21320,PAT0084,2025-05-12,General Medicine,GM-D4,Follow-up,No,Attended,51.0,400
+APT21322,PAT0737,2025-05-12,Cardiology,CD-D3,New,Yes,Cancelled,,1430
+APT21353,PAT0857,2025-05-12,General Medicine,GM-D3,Follow-up,No,Attended,25.0,500
+APT21460,PAT0208,2025-05-12,General Medicine,GM-D2,Follow-up,Yes,Attended,,450
+APT21489,PAT1068,2025-05-12,Gastroenterology,GA-D3,New,No,Attended,44.0,1185
+APT21555,PAT0148,2025-05-12,Orthopedics,OR-D3,New,No,Attended,77.0,1105
+APT21611,PAT1254,2025-05-12,Cardiology,CD-D4,Follow-up,Yes,Attended,43.0,1150
+APT21713,PAT0735,2025-05-12,Neurology,NE-D2,Follow-up,Yes,Attended,41.0,1300
+APT21728,PAT0451,2025-05-12,Urology,UR-D3,Follow-up,Yes,Attended,34.0,800
+APT21833,PAT1243,2025-05-12,Pediatrics,PD-D3,New,Yes,Attended,29.0,715
+APT21892,PAT0394,2025-05-12,Dermatology,DM-D4,Follow-up,No,Attended,26.0,650
+APT21908,PAT0097,2025-05-12,General Medicine,GM-D1,Follow-up,No,Attended,47.0,450
+APT22113,PAT0056,2025-05-12,General Medicine,GM-D3,Follow-up,Yes,Attended,52.0,450
+APT22258,PAT0636,2025-05-12,Dermatology,DM-D3,Follow-up,No,Attended,21.0,650
+APT22315,PAT0773,2025-05-12,Neurology,NE-D3,Follow-up,No,Attended,48.0,1300
+APT22374,PAT1074,2025-05-12,Pediatrics,PD-D1,Follow-up,No,Attended,18.0,550
+APT22391,PAT0093,2025-05-12,Gastroenterology,GA-D4,New,No,Attended,47.0,1235
+APT20024,PAT0600,2025-05-13,Dermatology,DM-D4,New,Yes,No-Show,,845
+APT20045,PAT1352,2025-05-13,Orthopedics,OR-D3,Follow-up,Yes,Cancelled,,850
+APT20220,PAT1287,2025-05-13,Orthopedics,OR-D1,Follow-up,Yes,Cancelled,,800
+APT20245,PAT0700,2025-05-13,Cardiology,CD-D1,New,Yes,Attended,48.0,1430
+APT20323,PAT0117,2025-05-13,General Medicine,GM-D2,New,No,Attended,33.0,635
+APT20454,PAT1047,2025-05-13,Neurology,NE-D3,Follow-up,Yes,Attended,52.0,1300
+APT20529,PAT0674,2025-05-13,Neurology,NE-D4,Follow-up,Yes,Cancelled,,1300
+APT20535,PAT0521,2025-05-13,Pediatrics,PD-D1,New,Yes,No-Show,,715
+APT20547,PAT0012,2025-05-13,Cardiology,CD-D1,New,Yes,Attended,52.0,1430
+APT20592,PAT0210,2025-05-13,Orthopedics,OR-D4,New,No,Attended,65.0,1105
+APT20697,PAT1266,2025-05-13,General Medicine,GM-D2,Follow-up,Yes,Attended,28.0,450
+APT20727,PAT0409,2025-05-13,Pediatrics,PD-D1,New,Yes,Attended,28.0,715
+APT20909,PAT0184,2025-05-13,Gastroenterology,GA-D3,Follow-up,Yes,Attended,36.0,950
+APT20914,PAT0357,2025-05-13,General Medicine,GM-D3,Follow-up,Yes,No-Show,,450
+APT20943,PAT1142,2025-05-13,Neurology,NE-D4,New,No,Attended,60.0,1690
+APT21025,PAT0653,2025-05-13,Neurology,NE-D3,New,Yes,Attended,53.0,1640
+APT21076,PAT0066,2025-05-13,Neurology,NE-D4,Follow-up,No,No-Show,,1300
+APT21087,PAT0343,2025-05-13,General Medicine,GM-D4,Follow-up,Yes,Cancelled,,450
+APT21087,PAT0343,2025-05-13,General Medicine,GM-D4,Follow-up,Yes,Cancelled,,450
+APT21145,PAT0062,2025-05-13,Cardiology,CD-D2,Follow-up,Yes,Attended,44.0,1100
+APT21171,PAT0166,2025-05-13,Gastroenterology,GA-D1,Follow-up,Yes,Attended,42.0,900
+APT21290,PAT0575,2025-05-13,Cardiology,CD-D2,Follow-up,No,No-Show,,1150
+APT21342,PAT0845,2025-05-13,Orthopedics,OR-D3,New,Yes,Attended,49.0,1105
+APT21461,PAT0622,2025-05-13,Neurology,NE-D2,Follow-up,Yes,Attended,28.0,1300
+APT21483,PAT0259,2025-05-13,Urology,UR-D4,Follow-up,No,Attended,25.0,850
+APT21510,PAT1305,2025-05-13,General Medicine,GM-D1,Follow-up,No,Attended,59.0,450
+APT21525,PAT0744,2025-05-13,General Medicine,GM-D2,New,Yes,Attended,62.0,635
+APT21681,PAT0471,2025-05-13,Cardiology,CD-D3,New,Yes,Attended,61.0,1430
+APT21692,PAT1378,2025-05-13,Gastroenterology,GA-D3,Follow-up,No,Attended,41.0,900
+APT21723,PAT0531,2025-05-13,Dermatology,DM-D3,New,No,No-Show,,845
+APT21726,PAT0978,2025-05-13,Gastroenterology,GA-D4,New,Yes,Attended,31.0,1235
+APT21739,PAT0365,2025-05-13,Urology,UR-D1,New,No,Attended,,1040
+APT21819,PAT1295,2025-05-13,General Medicine,GM-D4,New,Yes,Attended,31.0,585
+APT21881,PAT0456,2025-05-13,General Medicine,GM-D2,New,No,Attended,41.0,585
+APT21909,PAT1399,2025-05-13,Orthopedics,OR-D1,Follow-up,Yes,Attended,15.0,800
+APT22088,PAT0881,2025-05-13,Pediatrics,PD-D2,New,No,Attended,28.0,715
+APT22156,PAT0923,2025-05-13,Gastroenterology,GA-D1,Follow-up,Yes,Attended,56.0,900
+APT22367,PAT0235,2025-05-13,Urology,UR-D1,Follow-up,Yes,Attended,27.0,750
+APT20031,PAT1026,2025-05-14,Urology,UR-D3,Follow-up,Yes,Attended,31.0,850
+APT20281,PAT1393,2025-05-14,Pediatrics,PD-D3,New,Yes,Attended,33.0,765
+APT20308,PAT0613,2025-05-14,Neurology,NE-D4,New,No,Attended,55.0,1740
+APT20372,PAT1013,2025-05-14,Cardiology,CD-D1,Follow-up,Yes,Attended,42.0,1050
+APT20437,PAT1156,2025-05-14,Orthopedics,OR-D1,Follow-up,No,Attended,70.0,850
+APT20593,PAT0638,2025-05-14,Pediatrics,PD-D1,New,Yes,Attended,139.0,715
+APT20597,PAT0398,2025-05-14,General Medicine,GM-D4,Follow-up,Yes,Attended,34.0,400
+APT20603,PAT0200,2025-05-14,Orthopedics,OR-D2,Follow-up,Yes,Attended,44.0,900
+APT20716,PAT0819,2025-05-14,Cardiology,CD-D3,Follow-up,Yes,Attended,35.0,1100
+APT20742,PAT0890,2025-05-14,Urology,UR-D3,Follow-up,No,Attended,25.0,800
+APT20819,PAT1177,2025-05-14,Cardiology,CD-D2,New,Yes,Attended,59.0,1430
+APT20874,PAT0331,2025-05-14,Orthopedics,OR-D3,Follow-up,No,Attended,40.0,800
+APT21039,PAT0727,2025-05-14,Pediatrics,PD-D3,Follow-up,Yes,Attended,12.0,550
+APT21066,PAT0028,2025-05-14,General Medicine,GM-D2,Follow-up,Yes,Attended,27.0,450
+APT21075,PAT1004,2025-05-14,General Medicine,GM-D4,New,No,Attended,47.0,535
+APT21204,PAT0091,2025-05-14,Orthopedics,OR-D2,New,Yes,Attended,35.0,1105
+APT21234,PAT1085,2025-05-14,Urology,UR-D2,New,No,Attended,44.0,1040
+APT21239,PAT0976,2025-05-14,General Medicine,GM-D3,Follow-up,No,Attended,33.0,450
+APT21277,PAT0182,2025-05-14,Pediatrics,PD-D1,Follow-up,No,Attended,21.0,550
+APT21301,PAT0317,2025-05-14,Urology,UR-D3,New,No,No-Show,,1040
+APT21423,PAT0188,2025-05-14,Gastroenterology,GA-D2,Follow-up,No,Cancelled,,1000
+APT21482,PAT0832,2025-05-14,Gastroenterology,GA-D4,Follow-up,No,Cancelled,,950
+APT21586,PAT0892,2025-05-14,Pediatrics,PD-D1,Follow-up,Yes,Attended,29.0,550
+APT21628,PAT0545,2025-05-14,Pediatrics,PD-D1,Follow-up,No,Attended,21.0,550
+APT21876,PAT0842,2025-05-14,Pediatrics,PD-D4,Follow-up,No,Cancelled,,550
+APT21886,PAT0103,2025-05-14,Neurology,NE-D4,Follow-up,Yes,No-Show,,1250
+APT21942,PAT0123,2025-05-14,General Medicine,GM-D2,New,Yes,Attended,52.0,585
+APT22285,PAT0501,2025-05-14,Urology,UR-D2,Follow-up,Yes,Attended,26.0,800
+APT20185,PAT1113,2025-05-15,Gastroenterology,GA-D4,New,No,Attended,29.0,1235
+APT20186,PAT0792,2025-05-15,General Medicine,GM-D1,New,Yes,Attended,62.0,535
+APT20238,PAT0802,2025-05-15,Pediatrics,PD-D2,Follow-up,No,Attended,16.0,550
+APT20329,PAT0695,2025-05-15,Dermatology,DM-D4,Follow-up,No,Attended,24.0,650
+APT20400,PAT0530,2025-05-15,Gastroenterology,GA-D1,Follow-up,Yes,Attended,56.0,1000
+APT20456,PAT1202,2025-05-15,General Medicine,GM-D3,New,Yes,Attended,37.0,585
+APT20555,PAT0352,2025-05-15,Dermatology,DM-D3,Follow-up,Yes,No-Show,,650
+APT20564,PAT1194,2025-05-15,Urology,UR-D1,Follow-up,Yes,Attended,26.0,800
+APT20600,PAT0189,2025-05-15,Urology,UR-D1,New,Yes,Attended,51.0,1040
+APT20611,PAT0355,2025-05-15,Orthopedics,OR-D2,Follow-up,No,Attended,40.0,850
+APT20647,PAT0870,2025-05-15,Neurology,NE-D4,New,No,Attended,65.0,1640
+APT20653,PAT0457,2025-05-15,Urology,UR-D3,Follow-up,Yes,Attended,20.0,750
+APT20701,PAT1315,2025-05-15,General Medicine,GM-D3,Follow-up,Yes,No-Show,,450
+APT20878,PAT1398,2025-05-15,Cardiology,CD-D4,Follow-up,Yes,Attended,26.0,1100
+APT20911,PAT0922,2025-05-15,Dermatology,DM-D4,Follow-up,No,Attended,18.0,650
+APT21089,PAT1119,2025-05-15,Cardiology,CD-D2,New,Yes,Attended,52.0,1430
+APT21142,PAT1248,2025-05-15,General Medicine,GM-D2,Follow-up,Yes,Attended,32.0,500
+APT21318,PAT0459,2025-05-15,Orthopedics,OR-D1,Follow-up,Yes,Attended,38.0,900
+APT21324,PAT1340,2025-05-15,Orthopedics,OR-D3,New,No,Attended,47.0,1105
+APT21627,PAT0209,2025-05-15,Cardiology,CD-D2,Follow-up,Yes,Attended,29.0,1100
+APT21644,PAT1379,2025-05-15,General Medicine,GM-D1,Follow-up,Yes,Attended,46.0,450
+APT21772,PAT1183,2025-05-15,Cardiology,CD-D2,New,Yes,Attended,62.0,1380
+APT21793,PAT0774,2025-05-15,Urology,UR-D3,Follow-up,No,Attended,30.0,750
+APT21823,PAT0721,2025-05-15,Neurology,NE-D1,New,Yes,Attended,45.0,1690
+APT21866,PAT0650,2025-05-15,Orthopedics,OR-D2,Follow-up,Yes,Attended,48.0,800
+APT21897,PAT1089,2025-05-15,Urology,UR-D4,New,Yes,Attended,50.0,1040
+APT21941,PAT0295,2025-05-15,General Medicine,GM-D2,Follow-up,No,Attended,33.0,400
+APT21969,PAT0732,2025-05-15,Orthopedics,OR-D1,Follow-up,No,No-Show,,800
+APT21982,PAT0374,2025-05-15,Gastroenterology,GA-D2,New,Yes,Attended,47.0,1285
+APT21992,PAT0480,2025-05-15,Cardiology,CD-D1,Follow-up,Yes,Attended,48.0,1100
+APT22145,PAT0001,2025-05-15,Orthopedics,OR-D2,New,No,No-Show,,1105
+APT22272,PAT0098,2025-05-15,General Medicine,GM-D2,Follow-up,No,Attended,40.0,450
+APT22302,PAT0148,2025-05-15,Pediatrics,PD-D4,Follow-up,No,Attended,12.0,600
+APT22319,PAT0632,2025-05-15,General Medicine,GM-D1,Follow-up,Yes,Attended,59.0,400
+APT20026,PAT0086,2025-05-16,Gastroenterology,GA-D1,Follow-up,No,Attended,17.0,950
+APT20050,PAT0910,2025-05-16,General Medicine,GM-D4,Follow-up,Yes,Attended,47.0,450
+APT20065,PAT0255,2025-05-16,Gastroenterology,GA-D3,Follow-up,Yes,Attended,50.0,950
+APT20380,PAT1269,2025-05-16,Orthopedics,OR-D1,New,Yes,Attended,57.0,1105
+APT20610,PAT0826,2025-05-16,General Medicine,GM-D1,New,No,Attended,34.0,585
+APT20640,PAT0996,2025-05-16,Gastroenterology,GA-D1,Follow-up,No,Attended,15.0,1000
+APT20762,PAT0575,2025-05-16,Cardiology,CD-D2,Follow-up,Yes,Attended,45.0,1100
+APT21149,PAT1049,2025-05-16,General Medicine,GM-D3,New,Yes,Attended,49.0,585
+APT21152,PAT0420,2025-05-16,Pediatrics,PD-D4,Follow-up,Yes,Cancelled,,600
+APT21191,PAT0232,2025-05-16,General Medicine,GM-D3,New,No,Attended,27.0,585
+APT21228,PAT0363,2025-05-16,Pediatrics,PD-D3,Follow-up,Yes,Attended,33.0,550
+APT21497,PAT0237,2025-05-16,Dermatology,DM-D1,New,Yes,Attended,27.0,895
+APT21591,PAT0846,2025-05-16,General Medicine,GM-D1,New,Yes,Attended,57.0,535
+APT21594,PAT0729,2025-05-16,Gastroenterology,GA-D2,Follow-up,Yes,Attended,42.0,1000
+APT21594,PAT0729,2025-05-16,Gastroenterology,GA-D2,Follow-up,Yes,Attended,42.0,1000
+APT21744,PAT0756,2025-05-16,Gastroenterology,GA-D4,Follow-up,No,No-Show,,950
+APT21751,PAT0643,2025-05-16,Cardiology,CD-D4,Follow-up,No,Attended,30.0,1050
+APT21768,PAT0115,2025-05-16,Cardiology,CD-D1,New,Yes,Attended,34.0,1430
+APT21787,PAT0930,2025-05-16,Pediatrics,PD-D3,New,Yes,Attended,22.0,715
+APT21911,PAT0735,2025-05-16,Orthopedics,OR-D1,New,Yes,Attended,35.0,1105
+APT22010,PAT0221,2025-05-16,Neurology,NE-D1,Follow-up,Yes,Attended,73.0,1300
+APT22038,PAT0337,2025-05-16,Cardiology,CD-D1,Follow-up,No,Attended,59.0,1050
+APT22100,PAT0742,2025-05-16,Dermatology,DM-D4,Follow-up,No,Attended,16.0,650
+APT22126,PAT0203,2025-05-16,Urology,UR-D1,Follow-up,No,Attended,38.0,800
+APT22148,PAT0073,2025-05-16,General Medicine,GM-D1,New,No,Attended,52.0,585
+APT22206,PAT0446,2025-05-16,Pediatrics,PD-D4,New,No,No-Show,,665
+APT22208,PAT0631,2025-05-16,Neurology,NE-D2,New,No,Attended,42.0,1740
+APT22249,PAT0279,2025-05-16,Dermatology,DM-D4,New,Yes,Attended,20.0,895
+APT22364,PAT0372,2025-05-16,Urology,UR-D4,Follow-up,No,Attended,32.0,850
+APT20222,PAT1303,2025-05-17,Urology,UR-D2,New,Yes,No-Show,,1040
+APT20297,PAT1259,2025-05-17,Orthopedics,OR-D2,Follow-up,No,Attended,54.0,850
+APT20311,PAT1058,2025-05-17,Urology,UR-D1,Follow-up,Yes,Attended,20.0,800
+APT20356,PAT1327,2025-05-17,Cardiology,CD-D1,New,No,Attended,136.0,1430
+APT20525,PAT1217,2025-05-17,General Medicine,GM-D4,New,Yes,Attended,40.0,585
+APT20537,PAT0742,2025-05-17,Cardiology,CD-D1,Follow-up,Yes,Attended,57.0,1050
+APT20544,PAT0703,2025-05-17,Cardiology,CD-D1,Follow-up,Yes,Attended,35.0,1100
+APT20651,PAT1378,2025-05-17,Pediatrics,PD-D3,Follow-up,Yes,Attended,15.0,550
+APT20669,PAT1192,2025-05-17,General Medicine,GM-D2,New,No,No-Show,,585
+APT20886,PAT0893,2025-05-17,Orthopedics,OR-D3,New,No,Attended,64.0,1105
+APT20946,PAT1133,2025-05-17,General Medicine,GM-D4,Follow-up,No,Attended,,500
+APT20951,PAT0430,2025-05-17,Gastroenterology,GA-D4,Follow-up,Yes,Attended,20.0,950
+APT20964,PAT0430,2025-05-17,Dermatology,DM-D2,Follow-up,Yes,Attended,19.0,700
+APT20967,PAT1371,2025-05-17,Cardiology,CD-D1,New,Yes,Attended,41.0,1380
+APT21021,PAT0897,2025-05-17,Pediatrics,PD-D2,New,Yes,Attended,26.0,715
+APT21212,PAT0226,2025-05-17,Neurology,NE-D2,New,Yes,Attended,47.0,1640
+APT21237,PAT0279,2025-05-17,Pediatrics,PD-D2,New,Yes,Attended,33.0,715
+APT21291,PAT0120,2025-05-17,Cardiology,CD-D3,New,Yes,Attended,184.0,1430
+APT21345,PAT0944,2025-05-17,Gastroenterology,GA-D1,New,No,Attended,50.0,1285
+APT21438,PAT0528,2025-05-17,Pediatrics,PD-D3,Follow-up,Yes,Attended,16.0,500
+APT21491,PAT1380,2025-05-17,Pediatrics,PD-D3,New,Yes,Attended,32.0,665
+APT21502,PAT0079,2025-05-17,Orthopedics,OR-D2,Follow-up,No,Attended,50.0,850
+APT21662,PAT0559,2025-05-17,Pediatrics,PD-D3,New,Yes,Attended,29.0,765
+APT21792,PAT0302,2025-05-17,Orthopedics,OR-D4,New,No,Attended,48.0,1055
+APT21827,PAT0324,2025-05-17,Gastroenterology,GA-D3,New,Yes,Attended,19.0,1235
+APT21893,PAT0893,2025-05-17,Cardiology,CD-D4,New,Yes,Attended,51.0,1480
+APT21893,PAT0893,2025-05-17,Cardiology,CD-D4,New,Yes,Attended,51.0,1480
+APT22061,PAT1200,2025-05-17,Orthopedics,OR-D1,Follow-up,Yes,No-Show,,850
+APT22158,PAT1134,2025-05-17,Cardiology,CD-D1,New,Yes,No-Show,,1430
+APT22176,PAT1058,2025-05-17,Gastroenterology,GA-D4,Follow-up,No,Attended,28.0,900
+APT22185,PAT0623,2025-05-17,General Medicine,GM-D4,Follow-up,No,Attended,38.0,500
+APT22232,PAT1097,2025-05-17,Dermatology,DM-D1,Follow-up,No,Attended,93.0,650
+APT22260,PAT1301,2025-05-17,General Medicine,GM-D2,Follow-up,Yes,Attended,50.0,450
+APT22289,PAT0138,2025-05-17,Urology,UR-D4,Follow-up,Yes,Attended,19.0,800
+APT22305,PAT0588,2025-05-17,General Medicine,GM-D4,New,Yes,Attended,34.0,585
+APT22314,PAT0909,2025-05-17,General Medicine,GM-D2,Follow-up,Yes,Attended,45.0,400
+APT20131,PAT0772,2025-05-19,General Medicine,GM-D2,Follow-up,No,No-Show,,500
+APT20137,PAT0269,2025-05-19,Dermatology,DM-D2,New,Yes,Attended,28.0,845
+APT20250,PAT0674,2025-05-19,Gastroenterology,GA-D2,Follow-up,No,No-Show,,950
+APT20450,PAT0284,2025-05-19,Gastroenterology,GA-D3,Follow-up,Yes,Attended,20.0,950
+APT20492,PAT0539,2025-05-19,Pediatrics,PD-D3,Follow-up,Yes,No-Show,,500
+APT20563,PAT0396,2025-05-19,Dermatology,DM-D3,New,Yes,Attended,23.0,895
+APT20638,PAT0189,2025-05-19,Urology,UR-D1,New,No,No-Show,,1040
+APT20807,PAT1114,2025-05-19,Cardiology,CD-D2,Follow-up,No,No-Show,,1100
+APT20829,PAT0680,2025-05-19,Pediatrics,PD-D2,Follow-up,No,Attended,,500
+APT20846,PAT1187,2025-05-19,Cardiology,CD-D3,New,Yes,Cancelled,,1430
+APT20885,PAT0673,2025-05-19,Orthopedics,OR-D1,New,No,No-Show,,1055
+APT21011,PAT0866,2025-05-19,Dermatology,DM-D1,Follow-up,Yes,Attended,15.0,650
+APT21022,PAT1377,2025-05-19,Urology,UR-D4,Follow-up,Yes,Attended,29.0,800
+APT21029,PAT0840,2025-05-19,Pediatrics,PD-D3,New,Yes,Attended,36.0,715
+APT21038,PAT1303,2025-05-19,Cardiology,CD-D1,New,Yes,Cancelled,,1430
+APT21070,PAT0923,2025-05-19,Gastroenterology,GA-D3,Follow-up,Yes,Attended,37.0,950
+APT21125,PAT0240,2025-05-19,General Medicine,GM-D4,Follow-up,No,Attended,30.0,450
+APT21399,PAT0345,2025-05-19,General Medicine,GM-D4,Follow-up,Yes,Attended,38.0,450
+APT21475,PAT1003,2025-05-19,General Medicine,GM-D4,Follow-up,Yes,No-Show,,400
+APT21621,PAT0067,2025-05-19,Pediatrics,PD-D3,Follow-up,No,Attended,31.0,550
+APT21622,PAT0637,2025-05-19,Cardiology,CD-D1,New,No,Attended,,1430
+APT21629,PAT0464,2025-05-19,Orthopedics,OR-D1,Follow-up,No,Attended,52.0,850
+APT21729,PAT1174,2025-05-19,Pediatrics,PD-D2,New,Yes,No-Show,,715
+APT21778,PAT1236,2025-05-19,General Medicine,GM-D1,New,No,Attended,43.0,535
+APT21898,PAT0850,2025-05-19,Orthopedics,OR-D4,Follow-up,No,Attended,,850
+APT21914,PAT1289,2025-05-19,Cardiology,CD-D2,New,Yes,Attended,67.0,1380
+APT21935,PAT0831,2025-05-19,Pediatrics,PD-D2,New,No,Cancelled,,715
+APT22309,PAT0358,2025-05-19,Dermatology,DM-D4,New,Yes,Cancelled,,845
+APT22399,PAT1309,2025-05-19,General Medicine,GM-D1,Follow-up,No,No-Show,,400
+APT20015,PAT0383,2025-05-20,General Medicine,GM-D4,Follow-up,No,Attended,32.0,500
+APT20032,PAT0789,2025-05-20,Dermatology,DM-D3,New,Yes,Attended,138.0,845
+APT20035,PAT1259,2025-05-20,Orthopedics,OR-D4,Follow-up,No,Attended,32.0,900
+APT20061,PAT0819,2025-05-20,Dermatology,DM-D4,Follow-up,Yes,Attended,131.0,650
+APT20299,PAT0311,2025-05-20,Neurology,NE-D1,New,No,No-Show,,1690
+APT20304,PAT0927,2025-05-20,Neurology,NE-D2,Follow-up,No,Attended,69.0,1300
+APT20357,PAT1322,2025-05-20,Pediatrics,PD-D3,Follow-up,Yes,Attended,26.0,550
+APT20368,PAT1042,2025-05-20,Pediatrics,PD-D1,Follow-up,No,Attended,24.0,500
+APT20557,PAT0443,2025-05-20,Gastroenterology,GA-D1,Follow-up,No,No-Show,,900
+APT20699,PAT1082,2025-05-20,General Medicine,GM-D3,New,Yes,Attended,45.0,635
+APT20715,PAT0150,2025-05-20,Orthopedics,OR-D2,New,Yes,Attended,48.0,1155
+APT20857,PAT1203,2025-05-20,Orthopedics,OR-D4,Follow-up,No,No-Show,,850
+APT21049,PAT0124,2025-05-20,Cardiology,CD-D3,New,Yes,Attended,,1430
+APT21060,PAT0281,2025-05-20,General Medicine,GM-D4,Follow-up,Yes,Attended,49.0,450
+APT21086,PAT0727,2025-05-20,Cardiology,CD-D1,Follow-up,No,No-Show,,1100
+APT21136,PAT0742,2025-05-20,Dermatology,DM-D4,Follow-up,Yes,Attended,20.0,650
+APT21190,PAT1296,2025-05-20,Gastroenterology,GA-D2,Follow-up,Yes,Attended,36.0,950
+APT21220,PAT0190,2025-05-20,Neurology,NE-D1,Follow-up,No,No-Show,,1250
+APT21332,PAT1302,2025-05-20,Pediatrics,PD-D1,Follow-up,No,Attended,18.0,550
+APT21393,PAT0971,2025-05-20,Urology,UR-D2,New,No,Attended,42.0,1040
+APT21407,PAT0358,2025-05-20,General Medicine,GM-D4,New,No,Attended,48.0,585
+APT21453,PAT0410,2025-05-20,General Medicine,GM-D3,Follow-up,Yes,No-Show,,450
+APT21485,PAT0470,2025-05-20,Gastroenterology,GA-D4,New,No,Attended,39.0,1235
+APT21531,PAT0376,2025-05-20,Gastroenterology,GA-D3,Follow-up,No,Attended,39.0,950
+APT21578,PAT0101,2025-05-20,General Medicine,GM-D1,Follow-up,Yes,Attended,136.0,400
+APT21631,PAT0322,2025-05-20,Orthopedics,OR-D2,New,No,Attended,45.0,1155
+APT21652,PAT1073,2025-05-20,General Medicine,GM-D4,New,No,Attended,17.0,635
+APT21701,PAT0431,2025-05-20,General Medicine,GM-D2,Follow-up,Yes,Attended,23.0,450
+APT21737,PAT0508,2025-05-20,General Medicine,GM-D4,Follow-up,No,Attended,29.0,500
+APT21960,PAT0642,2025-05-20,Dermatology,DM-D4,Follow-up,No,No-Show,,650
+APT21967,PAT1186,2025-05-20,Orthopedics,OR-D4,New,Yes,Attended,44.0,1055
+APT22019,PAT0041,2025-05-20,Gastroenterology,GA-D4,New,Yes,No-Show,,1285
+APT22103,PAT0129,2025-05-20,General Medicine,GM-D1,Follow-up,Yes,Attended,37.0,500
+APT22308,PAT1376,2025-05-20,Pediatrics,PD-D1,Follow-up,Yes,Attended,,550
+APT22358,PAT0851,2025-05-20,Cardiology,CD-D3,Follow-up,Yes,Attended,63.0,1100
+APT22369,PAT1082,2025-05-20,Gastroenterology,GA-D4,New,No,No-Show,,1235
+APT20072,PAT1051,2025-05-21,Pediatrics,PD-D4,Follow-up,No,No-Show,,550
+APT20092,PAT0722,2025-05-21,Gastroenterology,GA-D4,Follow-up,Yes,Attended,37.0,1000
+APT20174,PAT0965,2025-05-21,General Medicine,GM-D4,Follow-up,No,Attended,30.0,500
+APT20363,PAT0867,2025-05-21,General Medicine,GM-D1,Follow-up,No,Attended,51.0,400
+APT20382,PAT1189,2025-05-21,Gastroenterology,GA-D2,Follow-up,No,No-Show,,900
+APT20389,PAT0804,2025-05-21,Gastroenterology,GA-D2,Follow-up,Yes,Attended,,950
+APT20436,PAT0403,2025-05-21,Dermatology,DM-D1,New,No,Attended,26.0,795
+APT20455,PAT1342,2025-05-21,Pediatrics,PD-D4,New,Yes,Attended,34.0,765
+APT20522,PAT1363,2025-05-21,Cardiology,CD-D4,Follow-up,Yes,Attended,47.0,1100
+APT20643,PAT0304,2025-05-21,Urology,UR-D3,New,No,No-Show,,990
+APT20683,PAT1047,2025-05-21,Orthopedics,OR-D1,Follow-up,Yes,Attended,50.0,850
+APT20805,PAT0565,2025-05-21,Cardiology,CD-D4,New,Yes,Attended,42.0,1430
+APT20848,PAT1289,2025-05-21,Urology,UR-D3,Follow-up,Yes,Attended,,750
+APT20934,PAT0980,2025-05-21,Orthopedics,OR-D3,New,Yes,Attended,63.0,1105
+APT20938,PAT0264,2025-05-21,Dermatology,DM-D1,Follow-up,Yes,Attended,,650
+APT20996,PAT0732,2025-05-21,Cardiology,CD-D1,Follow-up,Yes,Attended,37.0,1100
+APT21128,PAT0820,2025-05-21,Cardiology,CD-D2,Follow-up,Yes,Attended,64.0,1100
+APT21435,PAT0277,2025-05-21,Cardiology,CD-D2,Follow-up,Yes,Attended,32.0,1100
+APT21716,PAT1391,2025-05-21,Neurology,NE-D4,Follow-up,No,No-Show,,1300
+APT21782,PAT1190,2025-05-21,General Medicine,GM-D1,New,No,No-Show,,585
+APT21795,PAT0374,2025-05-21,Pediatrics,PD-D2,Follow-up,No,Attended,17.0,550
+APT22233,PAT0477,2025-05-21,Orthopedics,OR-D2,Follow-up,No,No-Show,,850
+APT22354,PAT1248,2025-05-21,General Medicine,GM-D4,Follow-up,No,Attended,,400
+APT20022,PAT0134,2025-05-22,General Medicine,GM-D4,New,No,Attended,57.0,535
+APT20120,PAT0182,2025-05-22,Dermatology,DM-D2,New,Yes,No-Show,,795
+APT20204,PAT0209,2025-05-22,General Medicine,GM-D1,Follow-up,Yes,No-Show,,450
+APT20204,PAT0209,2025-05-22,General Medicine,GM-D1,Follow-up,Yes,No-Show,,450
+APT20266,PAT0393,2025-05-22,General Medicine,GM-D1,Follow-up,Yes,Attended,30.0,450
+APT20285,PAT0782,2025-05-22,Gastroenterology,GA-D2,New,Yes,Attended,35.0,1235
+APT20439,PAT1040,2025-05-22,Dermatology,DM-D1,New,No,Attended,,895
+APT20453,PAT0713,2025-05-22,Neurology,NE-D4,New,No,Attended,49.0,1690
+APT20466,PAT0530,2025-05-22,Orthopedics,OR-D2,New,Yes,Attended,60.0,1055
+APT20540,PAT1363,2025-05-22,Dermatology,DM-D1,Follow-up,Yes,Attended,11.0,700
+APT20540,PAT1363,2025-05-22,Dermatology,DM-D1,Follow-up,Yes,Attended,11.0,700
+APT20654,PAT0200,2025-05-22,Gastroenterology,GA-D3,New,No,No-Show,,1185
+APT20678,PAT0162,2025-05-22,Dermatology,DM-D1,Follow-up,Yes,Attended,12.0,650
+APT20907,PAT1057,2025-05-22,Urology,UR-D3,New,No,No-Show,,1040
+APT20936,PAT1022,2025-05-22,Orthopedics,OR-D3,Follow-up,Yes,Attended,32.0,850
+APT21013,PAT1179,2025-05-22,Pediatrics,PD-D1,Follow-up,No,Attended,21.0,550
+APT21116,PAT0954,2025-05-22,General Medicine,GM-D2,New,No,Attended,33.0,585
+APT21153,PAT0970,2025-05-22,Gastroenterology,GA-D2,Follow-up,Yes,Attended,37.0,950
+APT21176,PAT0143,2025-05-22,Pediatrics,PD-D1,Follow-up,No,No-Show,,500
+APT21356,PAT0623,2025-05-22,Gastroenterology,GA-D4,Follow-up,Yes,Attended,39.0,950
+APT21390,PAT0744,2025-05-22,General Medicine,GM-D2,Follow-up,No,Attended,42.0,450
+APT21535,PAT1042,2025-05-22,Pediatrics,PD-D2,Follow-up,Yes,Attended,,550
+APT21545,PAT1180,2025-05-22,Cardiology,CD-D3,Follow-up,Yes,Attended,51.0,1100
+APT21599,PAT0568,2025-05-22,Neurology,NE-D1,Follow-up,Yes,Attended,,1300
+APT21656,PAT0718,2025-05-22,Pediatrics,PD-D2,New,Yes,Attended,30.0,665
+APT21832,PAT0453,2025-05-22,General Medicine,GM-D1,New,Yes,Attended,48.0,635
+APT21843,PAT0069,2025-05-22,Dermatology,DM-D4,Follow-up,No,Attended,19.0,650
+APT21894,PAT0408,2025-05-22,General Medicine,GM-D4,New,Yes,Attended,41.0,585
+APT22015,PAT1228,2025-05-22,General Medicine,GM-D2,New,Yes,Attended,54.0,635
+APT22079,PAT0941,2025-05-22,Gastroenterology,GA-D1,New,No,Attended,40.0,1235
+APT22307,PAT0954,2025-05-22,Orthopedics,OR-D1,Follow-up,No,Attended,42.0,850
+APT22384,PAT1366,2025-05-22,Cardiology,CD-D1,Follow-up,Yes,Attended,68.0,1100
+APT20027,PAT0379,2025-05-23,General Medicine,GM-D4,Follow-up,Yes,Attended,43.0,450
+APT20113,PAT1006,2025-05-23,Pediatrics,PD-D2,New,Yes,Attended,32.0,715
+APT20123,PAT1169,2025-05-23,General Medicine,GM-D3,Follow-up,Yes,No-Show,,450
+APT20199,PAT1028,2025-05-23,Orthopedics,OR-D1,Follow-up,No,No-Show,,850
+APT20219,PAT0202,2025-05-23,General Medicine,GM-D4,New,Yes,Attended,43.0,585
+APT20317,PAT0329,2025-05-23,Dermatology,DM-D2,New,No,Attended,24.0,845
+APT20406,PAT1035,2025-05-23,General Medicine,GM-D3,Follow-up,Yes,Cancelled,,450
+APT20435,PAT0350,2025-05-23,Cardiology,CD-D3,Follow-up,No,Attended,44.0,1050
+APT20772,PAT0556,2025-05-23,Dermatology,DM-D3,Follow-up,No,Attended,11.0,650
+APT21188,PAT0149,2025-05-23,Cardiology,CD-D2,Follow-up,Yes,Attended,53.0,1100
+APT21256,PAT0925,2025-05-23,Urology,UR-D1,New,No,Attended,32.0,1090
+APT21428,PAT0155,2025-05-23,Pediatrics,PD-D4,New,Yes,Attended,32.0,765
+APT21477,PAT0614,2025-05-23,Urology,UR-D2,Follow-up,No,Attended,27.0,800
+APT21519,PAT1336,2025-05-23,Urology,UR-D2,Follow-up,Yes,Attended,21.0,800
+APT21564,PAT0865,2025-05-23,Cardiology,CD-D4,Follow-up,Yes,Attended,28.0,1100
+APT21668,PAT0884,2025-05-23,General Medicine,GM-D1,New,Yes,Attended,59.0,585
+APT21752,PAT0769,2025-05-23,General Medicine,GM-D4,Follow-up,No,Attended,148.0,450
+APT21885,PAT0749,2025-05-23,Cardiology,CD-D3,Follow-up,No,No-Show,,1100
+APT21943,PAT0814,2025-05-23,Neurology,NE-D1,New,Yes,No-Show,,1740
+APT22060,PAT0130,2025-05-23,Urology,UR-D3,Follow-up,No,No-Show,,850
+APT22284,PAT0797,2025-05-23,Orthopedics,OR-D2,Follow-up,Yes,No-Show,,900
+APT22322,PAT0986,2025-05-23,Gastroenterology,GA-D3,Follow-up,Yes,Attended,44.0,950
+APT22380,PAT0159,2025-05-23,General Medicine,GM-D3,New,No,Attended,39.0,585
+APT20078,PAT0262,2025-05-24,General Medicine,GM-D2,New,Yes,No-Show,,585
+APT20305,PAT0547,2025-05-24,General Medicine,GM-D3,New,Yes,No-Show,,585
+APT20306,PAT0678,2025-05-24,Urology,UR-D3,Follow-up,No,Attended,29.0,850
+APT20320,PAT0362,2025-05-24,Dermatology,DM-D2,New,Yes,Attended,28.0,845
+APT20351,PAT0882,2025-05-24,General Medicine,GM-D1,Follow-up,No,No-Show,,400
+APT20419,PAT1294,2025-05-24,Gastroenterology,GA-D2,Follow-up,Yes,Attended,97.0,950
+APT20440,PAT0585,2025-05-24,Pediatrics,PD-D3,Follow-up,No,Attended,13.0,550
+APT20517,PAT0948,2025-05-24,General Medicine,GM-D1,Follow-up,Yes,Attended,22.0,450
+APT20707,PAT1213,2025-05-24,Urology,UR-D1,New,Yes,No-Show,,1040
+APT20828,PAT1341,2025-05-24,General Medicine,GM-D1,Follow-up,Yes,Attended,20.0,450
+APT20896,PAT0910,2025-05-24,Cardiology,CD-D3,Follow-up,Yes,Attended,29.0,1100
+APT20902,PAT0169,2025-05-24,Orthopedics,OR-D1,Follow-up,Yes,Attended,57.0,850
+APT21009,PAT1140,2025-05-24,Orthopedics,OR-D1,Follow-up,No,No-Show,,850
+APT21047,PAT1252,2025-05-24,Urology,UR-D3,Follow-up,Yes,Attended,29.0,850
+APT21063,PAT1392,2025-05-24,Neurology,NE-D3,New,Yes,Attended,34.0,1690
+APT21109,PAT0707,2025-05-24,Orthopedics,OR-D1,Follow-up,No,No-Show,,850
+APT21115,PAT0296,2025-05-24,General Medicine,GM-D3,Follow-up,Yes,No-Show,,400
+APT21119,PAT0714,2025-05-24,Neurology,NE-D1,Follow-up,Yes,No-Show,,1300
+APT21326,PAT0049,2025-05-24,General Medicine,GM-D1,New,Yes,No-Show,,585
+APT21368,PAT0029,2025-05-24,Orthopedics,OR-D3,Follow-up,No,Attended,32.0,900
+APT21454,PAT0874,2025-05-24,Pediatrics,PD-D3,Follow-up,No,Cancelled,,550
+APT21563,PAT0504,2025-05-24,Gastroenterology,GA-D4,New,Yes,No-Show,,1285
+APT22022,PAT0200,2025-05-24,Pediatrics,PD-D1,Follow-up,Yes,Attended,23.0,600
+APT22164,PAT0892,2025-05-24,General Medicine,GM-D2,New,Yes,Attended,,635
+APT22276,PAT1145,2025-05-24,Cardiology,CD-D1,Follow-up,Yes,Attended,53.0,1150
+APT22280,PAT0564,2025-05-24,General Medicine,GM-D2,Follow-up,Yes,Attended,45.0,450
+APT22320,PAT0786,2025-05-24,Cardiology,CD-D2,Follow-up,Yes,Attended,58.0,1100
+APT22329,PAT1293,2025-05-24,General Medicine,GM-D1,New,No,Attended,35.0,585
+APT20121,PAT1261,2025-05-26,Dermatology,DM-D3,Follow-up,Yes,Attended,8.0,650
+APT20212,PAT0826,2025-05-26,Cardiology,CD-D3,New,No,Attended,52.0,1480
+APT20232,PAT0785,2025-05-26,General Medicine,GM-D1,Follow-up,Yes,Attended,26.0,450
+APT20254,PAT0904,2025-05-26,Neurology,NE-D3,Follow-up,Yes,Attended,,1300
+APT20260,PAT0550,2025-05-26,Urology,UR-D2,Follow-up,Yes,Attended,35.0,800
+APT20262,PAT1199,2025-05-26,Gastroenterology,GA-D3,Follow-up,No,No-Show,,1000
+APT20325,PAT0474,2025-05-26,Neurology,NE-D3,Follow-up,No,No-Show,,1300
+APT20358,PAT0685,2025-05-26,Neurology,NE-D2,New,No,No-Show,,1740
+APT20375,PAT0395,2025-05-26,General Medicine,GM-D4,New,Yes,Attended,28.0,585
+APT20433,PAT1270,2025-05-26,General Medicine,GM-D3,Follow-up,Yes,Attended,19.0,450
+APT20502,PAT1033,2025-05-26,Dermatology,DM-D2,Follow-up,Yes,Attended,16.0,650
+APT20572,PAT1129,2025-05-26,General Medicine,GM-D4,Follow-up,Yes,Attended,31.0,450
+APT20702,PAT1244,2025-05-26,Neurology,NE-D1,Follow-up,No,Attended,32.0,1250
+APT20799,PAT0817,2025-05-26,Cardiology,CD-D4,New,Yes,No-Show,,1480
+APT20856,PAT1249,2025-05-26,General Medicine,GM-D2,New,No,Attended,134.0,635
+APT20895,PAT0635,2025-05-26,Gastroenterology,GA-D2,Follow-up,No,Attended,53.0,900
+APT20962,PAT0357,2025-05-26,Pediatrics,PD-D2,Follow-up,No,Attended,14.0,600
+APT21097,PAT0382,2025-05-26,Cardiology,CD-D4,New,Yes,Attended,41.0,1430
+APT21231,PAT0098,2025-05-26,Gastroenterology,GA-D2,Follow-up,Yes,Attended,31.0,950
+APT21240,PAT0073,2025-05-26,Gastroenterology,GA-D4,Follow-up,No,No-Show,,950
+APT21242,PAT0683,2025-05-26,Orthopedics,OR-D4,Follow-up,Yes,No-Show,,850
+APT21394,PAT0328,2025-05-26,Gastroenterology,GA-D4,New,No,Cancelled,,1285
+APT21416,PAT0426,2025-05-26,General Medicine,GM-D2,Follow-up,No,Attended,42.0,450
+APT21463,PAT1041,2025-05-26,Orthopedics,OR-D1,Follow-up,No,Attended,25.0,850
+APT21579,PAT0382,2025-05-26,Urology,UR-D4,Follow-up,Yes,No-Show,,850
+APT21587,PAT0521,2025-05-26,General Medicine,GM-D1,New,No,Attended,58.0,585
+APT21613,PAT0588,2025-05-26,General Medicine,GM-D2,New,Yes,Attended,56.0,585
+APT21623,PAT0890,2025-05-26,Orthopedics,OR-D3,Follow-up,Yes,No-Show,,850
+APT21671,PAT0203,2025-05-26,General Medicine,GM-D1,Follow-up,Yes,No-Show,,450
+APT21801,PAT0087,2025-05-26,Cardiology,CD-D1,New,Yes,Attended,67.0,1430
+APT22002,PAT0918,2025-05-26,General Medicine,GM-D1,Follow-up,Yes,Attended,28.0,500
+APT22129,PAT0397,2025-05-26,Dermatology,DM-D3,New,No,Attended,27.0,795
+APT22174,PAT0001,2025-05-26,Orthopedics,OR-D2,Follow-up,Yes,Attended,22.0,850
+APT22298,PAT0459,2025-05-26,Cardiology,CD-D1,New,Yes,Attended,65.0,1380
+APT22335,PAT0704,2025-05-26,General Medicine,GM-D3,Follow-up,Yes,Attended,137.0,450
+APT22336,PAT0751,2025-05-26,Pediatrics,PD-D3,Follow-up,Yes,Attended,24.0,550
+APT22345,PAT0458,2025-05-26,Neurology,NE-D2,New,No,Attended,56.0,1640
+APT22381,PAT0944,2025-05-26,Cardiology,CD-D3,Follow-up,No,Attended,28.0,1100
+APT20017,PAT1253,2025-05-27,Cardiology,CD-D1,New,No,Attended,64.0,1430
+APT20085,PAT0101,2025-05-27,Orthopedics,OR-D3,Follow-up,No,Attended,30.0,800
+APT20126,PAT0279,2025-05-27,Urology,UR-D2,New,No,No-Show,,1040
+APT20163,PAT0129,2025-05-27,Pediatrics,PD-D4,Follow-up,Yes,Attended,15.0,600
+APT20235,PAT0928,2025-05-27,Pediatrics,PD-D2,New,Yes,Attended,28.0,765
+APT20290,PAT1272,2025-05-27,General Medicine,GM-D3,Follow-up,No,No-Show,,450
+APT20339,PAT1391,2025-05-27,Orthopedics,OR-D1,Follow-up,Yes,Attended,28.0,850
+APT20377,PAT0161,2025-05-27,Orthopedics,OR-D3,Follow-up,Yes,Attended,20.0,900
+APT20496,PAT0793,2025-05-27,Dermatology,DM-D2,Follow-up,No,Attended,23.0,650
+APT20500,PAT0255,2025-05-27,Gastroenterology,GA-D2,Follow-up,Yes,Attended,41.0,950
+APT20514,PAT0089,2025-05-27,Orthopedics,OR-D1,New,Yes,Attended,56.0,1055
+APT20551,PAT1339,2025-05-27,Orthopedics,OR-D3,New,Yes,Attended,79.0,1105
+APT20725,PAT0150,2025-05-27,Pediatrics,PD-D4,New,Yes,Attended,24.0,715
+APT20731,PAT0985,2025-05-27,Orthopedics,OR-D3,Follow-up,No,Attended,39.0,850
+APT20732,PAT0357,2025-05-27,Orthopedics,OR-D4,Follow-up,No,Attended,43.0,900
+APT20752,PAT0477,2025-05-27,General Medicine,GM-D4,Follow-up,No,Attended,60.0,450
+APT20780,PAT0585,2025-05-27,Neurology,NE-D3,Follow-up,Yes,Attended,,1350
+APT20862,PAT0914,2025-05-27,General Medicine,GM-D2,Follow-up,Yes,Attended,49.0,450
+APT20892,PAT0741,2025-05-27,Pediatrics,PD-D3,New,No,Attended,25.0,715
+APT20925,PAT1015,2025-05-27,Neurology,NE-D3,New,Yes,Attended,,1640
+APT20950,PAT0006,2025-05-27,Dermatology,DM-D4,Follow-up,Yes,Attended,21.0,650
+APT20952,PAT0269,2025-05-27,Cardiology,CD-D1,Follow-up,No,No-Show,,1050
+APT20993,PAT0705,2025-05-27,General Medicine,GM-D4,New,Yes,Attended,52.0,585
+APT21000,PAT1388,2025-05-27,Pediatrics,PD-D2,Follow-up,No,Attended,19.0,550
+APT21078,PAT1394,2025-05-27,Cardiology,CD-D2,Follow-up,No,No-Show,,1100
+APT21202,PAT0587,2025-05-27,Neurology,NE-D3,New,No,No-Show,,1640
+APT21248,PAT0702,2025-05-27,Dermatology,DM-D1,Follow-up,Yes,Attended,26.0,700
+APT21257,PAT0163,2025-05-27,Gastroenterology,GA-D1,New,Yes,Attended,25.0,1285
+APT21295,PAT1364,2025-05-27,Gastroenterology,GA-D1,Follow-up,No,Attended,21.0,1000
+APT21348,PAT0278,2025-05-27,Dermatology,DM-D3,New,Yes,Attended,19.0,795
+APT21349,PAT0119,2025-05-27,Gastroenterology,GA-D4,New,Yes,Attended,56.0,1235
+APT21554,PAT0845,2025-05-27,General Medicine,GM-D4,Follow-up,No,Cancelled,,450
+APT21593,PAT1223,2025-05-27,Dermatology,DM-D4,Follow-up,No,Attended,106.0,600
+APT21667,PAT0846,2025-05-27,Pediatrics,PD-D1,Follow-up,No,Attended,26.0,550
+APT21770,PAT0364,2025-05-27,General Medicine,GM-D3,New,No,No-Show,,535
+APT21835,PAT0087,2025-05-27,Dermatology,DM-D4,Follow-up,No,Attended,,650
+APT21869,PAT0802,2025-05-27,Cardiology,CD-D3,Follow-up,No,Cancelled,,1100
+APT21871,PAT0890,2025-05-27,Dermatology,DM-D2,New,No,Attended,35.0,895
+APT21955,PAT0349,2025-05-27,Pediatrics,PD-D3,Follow-up,No,Attended,24.0,500
+APT22053,PAT1103,2025-05-27,Gastroenterology,GA-D4,Follow-up,No,Attended,20.0,1000
+APT22130,PAT0976,2025-05-27,Urology,UR-D3,New,No,No-Show,,1040
+APT22264,PAT0895,2025-05-27,Orthopedics,OR-D2,Follow-up,Yes,Attended,,850
+APT22271,PAT0551,2025-05-27,Pediatrics,PD-D2,Follow-up,Yes,Attended,23.0,550
+APT22277,PAT0994,2025-05-27,Pediatrics,PD-D1,Follow-up,Yes,Attended,24.0,550
+APT20249,PAT0134,2025-05-28,General Medicine,GM-D3,New,Yes,Attended,51.0,635
+APT20255,PAT0072,2025-05-28,Urology,UR-D3,Follow-up,No,No-Show,,800
+APT20307,PAT1064,2025-05-28,Neurology,NE-D2,Follow-up,Yes,Attended,45.0,1250
+APT20350,PAT0739,2025-05-28,Pediatrics,PD-D3,New,Yes,Attended,33.0,715
+APT20365,PAT0820,2025-05-28,Pediatrics,PD-D1,Follow-up,No,Attended,18.0,550
+APT20381,PAT1347,2025-05-28,Pediatrics,PD-D1,Follow-up,No,No-Show,,500
+APT20549,PAT1398,2025-05-28,General Medicine,GM-D4,Follow-up,Yes,Attended,36.0,450
+APT20768,PAT0871,2025-05-28,General Medicine,GM-D1,Follow-up,Yes,No-Show,,400
+APT20979,PAT0317,2025-05-28,General Medicine,GM-D4,New,Yes,Attended,33.0,585
+APT21114,PAT0475,2025-05-28,Dermatology,DM-D1,New,No,No-Show,,795
+APT21123,PAT0785,2025-05-28,General Medicine,GM-D1,Follow-up,No,Attended,9.0,450
+APT21297,PAT0767,2025-05-28,Neurology,NE-D2,Follow-up,Yes,Attended,,1250
+APT21331,PAT0653,2025-05-28,General Medicine,GM-D4,Follow-up,No,No-Show,,450
+APT21408,PAT0690,2025-05-28,Orthopedics,OR-D3,New,Yes,Cancelled,,1105
+APT21445,PAT0472,2025-05-28,General Medicine,GM-D2,New,Yes,Attended,45.0,585
+APT21710,PAT1394,2025-05-28,General Medicine,GM-D3,Follow-up,Yes,Attended,12.0,450
+APT21760,PAT0765,2025-05-28,Pediatrics,PD-D4,New,No,Attended,24.0,715
+APT21806,PAT0341,2025-05-28,Urology,UR-D3,New,Yes,No-Show,,1040
+APT21825,PAT0609,2025-05-28,Orthopedics,OR-D4,New,Yes,Attended,41.0,1105
+APT21879,PAT0954,2025-05-28,Urology,UR-D2,Follow-up,No,Attended,29.0,800
+APT21937,PAT0635,2025-05-28,Cardiology,CD-D2,New,No,Attended,59.0,1430
+APT22252,PAT0016,2025-05-28,Pediatrics,PD-D3,Follow-up,No,Attended,12.0,500
+APT22259,PAT0042,2025-05-28,Gastroenterology,GA-D3,Follow-up,Yes,Attended,34.0,900
+APT22297,PAT1016,2025-05-28,Cardiology,CD-D2,Follow-up,No,Attended,55.0,1100
+APT20001,PAT1377,2025-05-29,Orthopedics,OR-D1,Follow-up,Yes,No-Show,,850
+APT20011,PAT0592,2025-05-29,Orthopedics,OR-D2,Follow-up,No,Attended,35.0,850
+APT20155,PAT0232,2025-05-29,Neurology,NE-D1,Follow-up,No,Attended,52.0,1300
+APT20287,PAT0691,2025-05-29,Pediatrics,PD-D1,Follow-up,No,Attended,21.0,550
+APT20362,PAT0704,2025-05-29,Pediatrics,PD-D3,New,Yes,Attended,29.0,715
+APT20379,PAT0729,2025-05-29,Pediatrics,PD-D3,New,Yes,Attended,34.0,715
+APT20460,PAT1004,2025-05-29,Neurology,NE-D1,Follow-up,Yes,Attended,,1300
+APT20534,PAT0973,2025-05-29,Pediatrics,PD-D4,Follow-up,Yes,Attended,8.0,550
+APT20541,PAT0409,2025-05-29,Urology,UR-D3,Follow-up,No,No-Show,,800
+APT20644,PAT0442,2025-05-29,Pediatrics,PD-D3,New,Yes,Attended,131.0,715
+APT20714,PAT0870,2025-05-29,General Medicine,GM-D2,New,Yes,Attended,38.0,535
+APT20714,PAT0870,2025-05-29,General Medicine,GM-D2,New,Yes,Attended,38.0,535
+APT20728,PAT1369,2025-05-29,Urology,UR-D2,Follow-up,Yes,Attended,44.0,800
+APT20733,PAT0230,2025-05-29,Cardiology,CD-D1,Follow-up,Yes,Attended,46.0,1100
+APT20860,PAT0991,2025-05-29,General Medicine,GM-D1,Follow-up,No,No-Show,,450
+APT20992,PAT0641,2025-05-29,Dermatology,DM-D4,Follow-up,Yes,Attended,19.0,600
+APT21015,PAT0752,2025-05-29,General Medicine,GM-D3,New,Yes,Attended,39.0,585
+APT21244,PAT0425,2025-05-29,Urology,UR-D2,Follow-up,Yes,Attended,32.0,800
+APT21396,PAT0126,2025-05-29,Pediatrics,PD-D1,New,No,Attended,,715
+APT21500,PAT0129,2025-05-29,Pediatrics,PD-D4,New,Yes,No-Show,,665
+APT21822,PAT0844,2025-05-29,Orthopedics,OR-D2,New,No,No-Show,,1055
+APT21831,PAT1205,2025-05-29,Gastroenterology,GA-D4,New,Yes,Attended,47.0,1235
+APT21990,PAT0558,2025-05-29,Orthopedics,OR-D2,New,Yes,Cancelled,,1105
+APT22091,PAT0465,2025-05-29,Neurology,NE-D2,New,Yes,Attended,,1690
+APT22177,PAT1356,2025-05-29,Dermatology,DM-D3,New,Yes,Attended,26.0,895
+APT22196,PAT0116,2025-05-29,Orthopedics,OR-D2,Follow-up,No,No-Show,,800
+APT22196,PAT0116,2025-05-29,Orthopedics,OR-D2,Follow-up,No,No-Show,,800
+APT22269,PAT0580,2025-05-29,Orthopedics,OR-D2,Follow-up,Yes,No-Show,,850
+APT22324,PAT0427,2025-05-29,General Medicine,GM-D2,New,Yes,Attended,37.0,585
+APT20273,PAT0937,2025-05-30,Pediatrics,PD-D4,Follow-up,No,Attended,,550
+APT20353,PAT0191,2025-05-30,Pediatrics,PD-D4,Follow-up,Yes,Attended,23.0,600
+APT20464,PAT0611,2025-05-30,General Medicine,GM-D1,Follow-up,No,Attended,31.0,500
+APT20479,PAT0636,2025-05-30,Gastroenterology,GA-D2,New,Yes,Attended,34.0,1235
+APT20650,PAT0455,2025-05-30,Pediatrics,PD-D3,Follow-up,Yes,Attended,26.0,550
+APT20744,PAT0877,2025-05-30,Gastroenterology,GA-D4,Follow-up,Yes,Cancelled,,1000
+APT20778,PAT0920,2025-05-30,Cardiology,CD-D3,Follow-up,Yes,Cancelled,,1100
+APT20809,PAT1181,2025-05-30,Dermatology,DM-D3,Follow-up,No,Attended,11.0,650
+APT20820,PAT1171,2025-05-30,Pediatrics,PD-D1,Follow-up,Yes,Attended,22.0,550
+APT20883,PAT1339,2025-05-30,Dermatology,DM-D3,Follow-up,Yes,No-Show,,650
+APT20959,PAT0044,2025-05-30,Orthopedics,OR-D1,Follow-up,No,Attended,14.0,850
+APT21154,PAT0732,2025-05-30,Urology,UR-D3,Follow-up,Yes,Attended,35.0,800
+APT21169,PAT0217,2025-05-30,Pediatrics,PD-D4,Follow-up,Yes,Attended,21.0,550
+APT21288,PAT0187,2025-05-30,Gastroenterology,GA-D4,Follow-up,Yes,No-Show,,950
+APT21334,PAT1029,2025-05-30,Cardiology,CD-D1,Follow-up,Yes,Attended,65.0,1150
+APT21456,PAT0588,2025-05-30,Dermatology,DM-D3,Follow-up,No,Attended,,650
+APT21456,PAT0588,2025-05-30,Dermatology,DM-D3,Follow-up,No,Attended,,650
+APT21528,PAT1003,2025-05-30,Cardiology,CD-D1,New,Yes,Attended,122.0,1430
+APT21560,PAT0135,2025-05-30,Dermatology,DM-D2,New,No,Attended,31.0,895
+APT21566,PAT1366,2025-05-30,Orthopedics,OR-D2,New,Yes,Cancelled,,1055
+APT21580,PAT1108,2025-05-30,Gastroenterology,GA-D2,New,No,Attended,53.0,1285
+APT21789,PAT0047,2025-05-30,Neurology,NE-D2,Follow-up,No,Attended,58.0,1300
+APT21968,PAT0146,2025-05-30,Urology,UR-D2,New,Yes,Attended,23.0,1040
+APT22024,PAT1395,2025-05-30,Pediatrics,PD-D2,Follow-up,Yes,No-Show,,550
+APT22147,PAT0885,2025-05-30,Cardiology,CD-D3,Follow-up,No,No-Show,,1100
+APT22263,PAT0016,2025-05-30,Orthopedics,OR-D3,Follow-up,Yes,Attended,27.0,800
+APT22377,PAT0996,2025-05-30,General Medicine,GM-D4,Follow-up,No,Attended,40.0,450
+APT22386,PAT1048,2025-05-30,Gastroenterology,GA-D4,Follow-up,Yes,Attended,29.0,1000
+APT22395,PAT1257,2025-05-30,General Medicine,GM-D2,Follow-up,Yes,Attended,35.0,450
+APT20010,PAT0573,2025-05-31,Neurology,NE-D4,New,Yes,Attended,42.0,1640
+APT20258,PAT1225,2025-05-31,Urology,UR-D1,New,Yes,Attended,35.0,990
+APT20272,PAT1008,2025-05-31,Dermatology,DM-D3,Follow-up,No,Attended,14.0,600
+APT20300,PAT0609,2025-05-31,General Medicine,GM-D2,Follow-up,No,Cancelled,,450
+APT20309,PAT0116,2025-05-31,Dermatology,DM-D3,Follow-up,No,Attended,15.0,600
+APT20367,PAT1353,2025-05-31,General Medicine,GM-D3,Follow-up,Yes,Attended,35.0,450
+APT20538,PAT0146,2025-05-31,Neurology,NE-D3,Follow-up,No,No-Show,,1300
+APT20599,PAT0896,2025-05-31,Pediatrics,PD-D4,Follow-up,No,No-Show,,600
+APT20671,PAT0518,2025-05-31,Dermatology,DM-D2,Follow-up,No,Attended,16.0,650
+APT20721,PAT0823,2025-05-31,Pediatrics,PD-D1,New,No,Attended,25.0,715
+APT20757,PAT0510,2025-05-31,Urology,UR-D2,Follow-up,No,Attended,16.0,800
+APT20913,PAT1278,2025-05-31,Neurology,NE-D4,Follow-up,Yes,Attended,55.0,1250
+APT21077,PAT1121,2025-05-31,Cardiology,CD-D3,New,Yes,Attended,51.0,1430
+APT21118,PAT0677,2025-05-31,Gastroenterology,GA-D2,New,Yes,No-Show,,1235
+APT21144,PAT1348,2025-05-31,Dermatology,DM-D4,New,No,Attended,23.0,845
+APT21374,PAT1126,2025-05-31,Neurology,NE-D1,Follow-up,Yes,Attended,46.0,1250
+APT21398,PAT1138,2025-05-31,Cardiology,CD-D1,Follow-up,Yes,Attended,58.0,1100
+APT21511,PAT0811,2025-05-31,Dermatology,DM-D3,New,No,Attended,27.0,845
+APT21666,PAT0270,2025-05-31,Urology,UR-D4,Follow-up,Yes,Attended,27.0,850
+APT21684,PAT0709,2025-05-31,Pediatrics,PD-D4,New,Yes,Attended,21.0,665
+APT21702,PAT0855,2025-05-31,General Medicine,GM-D2,New,No,Attended,53.0,585
+APT21727,PAT0395,2025-05-31,Pediatrics,PD-D3,New,No,Attended,36.0,665
+APT21817,PAT1331,2025-05-31,Urology,UR-D4,New,Yes,Attended,30.0,1090
+APT21852,PAT1038,2025-05-31,Pediatrics,PD-D2,New,No,No-Show,,665
+APT21860,PAT1149,2025-05-31,Pediatrics,PD-D2,Follow-up,No,Attended,27.0,600
+APT21971,PAT0676,2025-05-31,Pediatrics,PD-D1,Follow-up,No,Attended,28.0,550
+APT22007,PAT0411,2025-05-31,Orthopedics,OR-D1,New,No,Attended,60.0,1105
+APT22013,PAT0888,2025-05-31,Urology,UR-D3,New,No,No-Show,,990
+APT22136,PAT1313,2025-05-31,Gastroenterology,GA-D4,Follow-up,Yes,No-Show,,950
+APT22234,PAT0194,2025-05-31,Neurology,NE-D2,New,Yes,Attended,51.0,1740
+APT22383,PAT0579,2025-05-31,Urology,UR-D3,New,No,Attended,46.0,1040
+APT20108,PAT0042,2025-06-02,Dermatology,DM-D2,Follow-up,No,Attended,15.0,650
+APT20112,PAT0758,2025-06-02,Dermatology,DM-D1,Follow-up,No,No-Show,,650
+APT20116,PAT0688,2025-06-02,General Medicine,GM-D3,Follow-up,Yes,Attended,12.0,500
+APT20197,PAT0347,2025-06-02,General Medicine,GM-D2,New,No,Attended,37.0,585
+APT20275,PAT0827,2025-06-02,General Medicine,GM-D2,New,Yes,Attended,60.0,585
+APT20434,PAT0589,2025-06-02,General Medicine,GM-D4,New,No,Attended,39.0,635
+APT20468,PAT0511,2025-06-02,Pediatrics,PD-D1,New,Yes,Attended,39.0,665
+APT20507,PAT1188,2025-06-02,Pediatrics,PD-D1,Follow-up,No,Attended,21.0,550
+APT20655,PAT0268,2025-06-02,Cardiology,CD-D4,Follow-up,Yes,Attended,54.0,1100
+APT20924,PAT0641,2025-06-02,Dermatology,DM-D2,New,No,No-Show,,895
+APT20937,PAT1230,2025-06-02,Pediatrics,PD-D1,New,Yes,Attended,31.0,715
+APT21137,PAT0960,2025-06-02,Orthopedics,OR-D1,Follow-up,No,Attended,41.0,850
+APT21215,PAT0561,2025-06-02,Pediatrics,PD-D3,Follow-up,Yes,Attended,29.0,550
+APT21333,PAT0925,2025-06-02,Cardiology,CD-D1,Follow-up,Yes,Attended,54.0,1150
+APT21369,PAT1072,2025-06-02,General Medicine,GM-D3,Follow-up,No,Attended,41.0,400
+APT21551,PAT0950,2025-06-02,Gastroenterology,GA-D4,Follow-up,No,Attended,34.0,950
+APT21557,PAT0921,2025-06-02,General Medicine,GM-D3,Follow-up,Yes,Attended,36.0,450
+APT21804,PAT0656,2025-06-02,Orthopedics,OR-D2,Follow-up,Yes,Attended,42.0,850
+APT21864,PAT1219,2025-06-02,Gastroenterology,GA-D2,New,No,No-Show,,1185
+APT22086,PAT0586,2025-06-02,General Medicine,GM-D1,Follow-up,No,Attended,20.0,500
+APT22094,PAT0964,2025-06-02,Neurology,NE-D2,Follow-up,Yes,Attended,73.0,1250
+APT22123,PAT0115,2025-06-02,General Medicine,GM-D3,Follow-up,No,Attended,42.0,450
+APT22303,PAT0209,2025-06-02,Urology,UR-D1,Follow-up,Yes,Attended,19.0,850
+APT22311,PAT0827,2025-06-02,Orthopedics,OR-D1,New,Yes,Cancelled,,1105
+APT20028,PAT0816,2025-06-03,General Medicine,GM-D4,New,No,No-Show,,585
+APT20067,PAT0602,2025-06-03,Orthopedics,OR-D2,Follow-up,Yes,Attended,27.0,850
+APT20118,PAT1214,2025-06-03,General Medicine,GM-D1,New,Yes,Attended,46.0,585
+APT20165,PAT0374,2025-06-03,Neurology,NE-D3,Follow-up,No,Attended,25.0,1300
+APT20223,PAT0733,2025-06-03,Neurology,NE-D3,Follow-up,Yes,Attended,35.0,1300
+APT20261,PAT0541,2025-06-03,Cardiology,CD-D3,Follow-up,No,Attended,19.0,1150
+APT20296,PAT0430,2025-06-03,Gastroenterology,GA-D3,New,Yes,Attended,37.0,1285
+APT20298,PAT0957,2025-06-03,Dermatology,DM-D3,New,Yes,Attended,,845
+APT20318,PAT0867,2025-06-03,General Medicine,GM-D2,Follow-up,No,Attended,36.0,450
+APT20336,PAT0650,2025-06-03,Urology,UR-D2,Follow-up,No,Attended,29.0,800
+APT20421,PAT1364,2025-06-03,Orthopedics,OR-D3,New,No,Attended,43.0,1055
+APT20424,PAT0516,2025-06-03,Gastroenterology,GA-D1,New,No,Attended,48.0,1285
+APT20465,PAT0561,2025-06-03,Orthopedics,OR-D2,Follow-up,Yes,Cancelled,,900
+APT20487,PAT0541,2025-06-03,Neurology,NE-D2,New,Yes,Attended,67.0,1690
+APT20513,PAT0003,2025-06-03,General Medicine,GM-D2,Follow-up,Yes,Attended,51.0,450
+APT20521,PAT0751,2025-06-03,Gastroenterology,GA-D3,Follow-up,Yes,Attended,36.0,950
+APT20567,PAT1371,2025-06-03,Cardiology,CD-D3,Follow-up,Yes,Attended,,1150
+APT20677,PAT1183,2025-06-03,Dermatology,DM-D1,Follow-up,No,Attended,,650
+APT20726,PAT0673,2025-06-03,Cardiology,CD-D1,Follow-up,No,No-Show,,1100
+APT20736,PAT1083,2025-06-03,Dermatology,DM-D2,New,Yes,Attended,32.0,845
+APT20749,PAT0661,2025-06-03,Gastroenterology,GA-D4,Follow-up,Yes,Attended,39.0,1000
+APT20794,PAT1323,2025-06-03,Neurology,NE-D1,Follow-up,Yes,Attended,24.0,1300
+APT20841,PAT1332,2025-06-03,General Medicine,GM-D4,Follow-up,No,Attended,42.0,450
+APT20866,PAT0976,2025-06-03,Dermatology,DM-D2,New,No,No-Show,,845
+APT20881,PAT0346,2025-06-03,Pediatrics,PD-D1,Follow-up,No,No-Show,,600
+APT20948,PAT0304,2025-06-03,Gastroenterology,GA-D4,Follow-up,Yes,Attended,26.0,950
+APT21008,PAT1042,2025-06-03,Dermatology,DM-D1,Follow-up,Yes,Attended,19.0,650
+APT21018,PAT0884,2025-06-03,Orthopedics,OR-D3,New,Yes,Attended,59.0,1155
+APT21236,PAT0617,2025-06-03,Cardiology,CD-D3,Follow-up,Yes,Attended,47.0,1100
+APT21309,PAT1018,2025-06-03,Neurology,NE-D1,Follow-up,Yes,Attended,,1350
+APT21312,PAT0080,2025-06-03,General Medicine,GM-D2,Follow-up,No,Cancelled,,500
+APT21427,PAT0877,2025-06-03,Orthopedics,OR-D2,Follow-up,Yes,No-Show,,850
+APT21512,PAT0604,2025-06-03,Dermatology,DM-D1,Follow-up,No,Attended,20.0,650
+APT21549,PAT1041,2025-06-03,Cardiology,CD-D2,Follow-up,Yes,Attended,38.0,1100
+APT21612,PAT0846,2025-06-03,General Medicine,GM-D1,Follow-up,Yes,Attended,27.0,500
+APT21700,PAT1174,2025-06-03,Gastroenterology,GA-D3,Follow-up,Yes,Attended,29.0,900
+APT21745,PAT0761,2025-06-03,Dermatology,DM-D1,New,Yes,Attended,30.0,895
+APT21829,PAT0589,2025-06-03,Neurology,NE-D1,Follow-up,Yes,Attended,50.0,1250
+APT21993,PAT1290,2025-06-03,Pediatrics,PD-D3,Follow-up,No,Attended,16.0,550
+APT22029,PAT1385,2025-06-03,Orthopedics,OR-D2,Follow-up,Yes,Attended,41.0,850
+APT22066,PAT1120,2025-06-03,Orthopedics,OR-D2,Follow-up,No,Cancelled,,850
+APT22067,PAT0568,2025-06-03,Dermatology,DM-D1,New,Yes,Attended,25.0,895
+APT22160,PAT0568,2025-06-03,Pediatrics,PD-D1,New,Yes,Attended,,765
+APT22200,PAT0416,2025-06-03,General Medicine,GM-D2,New,No,No-Show,,635
+APT22318,PAT1018,2025-06-03,Pediatrics,PD-D1,New,No,Cancelled,,715
+APT20071,PAT1304,2025-06-04,Cardiology,CD-D3,New,Yes,No-Show,,1430
+APT20124,PAT0415,2025-06-04,Gastroenterology,GA-D3,Follow-up,No,Attended,49.0,900
+APT20151,PAT0978,2025-06-04,Urology,UR-D1,Follow-up,No,Attended,21.0,850
+APT20395,PAT0765,2025-06-04,Cardiology,CD-D1,New,No,Attended,62.0,1430
+APT20580,PAT0270,2025-06-04,Cardiology,CD-D3,New,No,Cancelled,,1430
+APT20601,PAT0982,2025-06-04,Pediatrics,PD-D4,Follow-up,Yes,Attended,25.0,550
+APT20719,PAT0561,2025-06-04,General Medicine,GM-D2,Follow-up,Yes,No-Show,,450
+APT20754,PAT0438,2025-06-04,Gastroenterology,GA-D1,New,Yes,Attended,28.0,1235
+APT20766,PAT0936,2025-06-04,General Medicine,GM-D4,New,Yes,Attended,53.0,535
+APT20817,PAT0135,2025-06-04,Orthopedics,OR-D3,Follow-up,No,Attended,13.0,900
+APT21102,PAT1212,2025-06-04,Orthopedics,OR-D4,Follow-up,Yes,Attended,36.0,900
+APT21102,PAT1212,2025-06-04,Orthopedics,OR-D4,Follow-up,Yes,Attended,36.0,900
+APT21274,PAT0748,2025-06-04,Dermatology,DM-D2,Follow-up,Yes,Attended,17.0,600
+APT21276,PAT0482,2025-06-04,Pediatrics,PD-D4,Follow-up,Yes,Attended,9.0,550
+APT21376,PAT1091,2025-06-04,Orthopedics,OR-D4,Follow-up,No,Attended,42.0,800
+APT21479,PAT0296,2025-06-04,Orthopedics,OR-D2,New,Yes,No-Show,,1105
+APT21582,PAT0576,2025-06-04,Cardiology,CD-D2,New,Yes,Attended,35.0,1430
+APT21730,PAT1030,2025-06-04,General Medicine,GM-D2,New,No,Attended,55.0,585
+APT21888,PAT1005,2025-06-04,Gastroenterology,GA-D1,New,Yes,Attended,54.0,1235
+APT21983,PAT0114,2025-06-04,Orthopedics,OR-D3,Follow-up,Yes,Attended,52.0,850
+APT22021,PAT0921,2025-06-04,Pediatrics,PD-D2,Follow-up,No,Attended,26.0,600
+APT22023,PAT0377,2025-06-04,Urology,UR-D4,Follow-up,Yes,Attended,28.0,750
+APT22121,PAT1038,2025-06-04,General Medicine,GM-D1,Follow-up,Yes,Attended,17.0,500
+APT22125,PAT0630,2025-06-04,Urology,UR-D4,Follow-up,No,No-Show,,750
+APT22261,PAT0328,2025-06-04,General Medicine,GM-D3,Follow-up,No,Attended,32.0,450
+APT22306,PAT0836,2025-06-04,General Medicine,GM-D1,New,Yes,Attended,30.0,585
+APT22355,PAT1158,2025-06-04,Pediatrics,PD-D1,Follow-up,Yes,Attended,20.0,550
+APT22382,PAT1129,2025-06-04,Gastroenterology,GA-D1,New,No,Attended,50.0,1235
+APT20193,PAT0297,2025-06-05,General Medicine,GM-D2,Follow-up,Yes,Attended,33.0,450
+APT20387,PAT0620,2025-06-05,Orthopedics,OR-D1,New,No,Attended,52.0,1055
+APT20442,PAT1314,2025-06-05,Cardiology,CD-D4,Follow-up,No,Attended,69.0,1100
+APT20498,PAT1247,2025-06-05,General Medicine,GM-D4,Follow-up,Yes,Attended,25.0,450
+APT20509,PAT0127,2025-06-05,Cardiology,CD-D1,Follow-up,Yes,No-Show,,1100
+APT20629,PAT0501,2025-06-05,Cardiology,CD-D1,New,No,No-Show,,1430
+APT20633,PAT0913,2025-06-05,General Medicine,GM-D1,New,No,Attended,42.0,585
+APT20750,PAT0198,2025-06-05,General Medicine,GM-D2,Follow-up,No,Attended,28.0,450
+APT20784,PAT1234,2025-06-05,Orthopedics,OR-D3,New,Yes,Attended,125.0,1105
+APT20801,PAT0311,2025-06-05,Dermatology,DM-D1,Follow-up,No,No-Show,,650
+APT20859,PAT1389,2025-06-05,Pediatrics,PD-D4,Follow-up,Yes,Attended,24.0,550
+APT20880,PAT0835,2025-06-05,General Medicine,GM-D1,Follow-up,No,Attended,40.0,450
+APT20931,PAT1042,2025-06-05,Neurology,NE-D1,Follow-up,No,Attended,155.0,1300
+APT21026,PAT0791,2025-06-05,Pediatrics,PD-D2,Follow-up,Yes,Attended,31.0,550
+APT21027,PAT0463,2025-06-05,Orthopedics,OR-D3,Follow-up,No,Attended,15.0,800
+APT21065,PAT0728,2025-06-05,Orthopedics,OR-D3,Follow-up,No,Attended,47.0,850
+APT21083,PAT0962,2025-06-05,Urology,UR-D3,Follow-up,Yes,Attended,16.0,800
+APT21126,PAT1044,2025-06-05,Gastroenterology,GA-D3,New,Yes,Attended,45.0,1235
+APT21148,PAT1001,2025-06-05,Dermatology,DM-D2,Follow-up,No,Attended,23.0,650
+APT21168,PAT0826,2025-06-05,Cardiology,CD-D2,New,Yes,No-Show,,1380
+APT21451,PAT1284,2025-06-05,Orthopedics,OR-D1,Follow-up,Yes,Attended,68.0,850
+APT21650,PAT0936,2025-06-05,General Medicine,GM-D2,Follow-up,Yes,No-Show,,500
+APT21657,PAT1254,2025-06-05,Urology,UR-D3,Follow-up,No,Attended,29.0,850
+APT21712,PAT0322,2025-06-05,Urology,UR-D4,Follow-up,No,Attended,30.0,800
+APT21740,PAT0164,2025-06-05,Urology,UR-D2,Follow-up,No,No-Show,,850
+APT21749,PAT1147,2025-06-05,Neurology,NE-D2,New,No,No-Show,,1740
+APT21958,PAT1195,2025-06-05,Gastroenterology,GA-D2,Follow-up,No,No-Show,,950
+APT21981,PAT0137,2025-06-05,Gastroenterology,GA-D2,New,Yes,Attended,52.0,1235
+APT22132,PAT0083,2025-06-05,Pediatrics,PD-D2,New,No,Attended,32.0,765
+APT22144,PAT0010,2025-06-05,General Medicine,GM-D4,Follow-up,Yes,Attended,33.0,400
+APT22175,PAT0953,2025-06-05,Urology,UR-D3,New,Yes,Attended,42.0,1040
+APT22190,PAT0531,2025-06-05,Gastroenterology,GA-D3,Follow-up,No,Attended,31.0,900
+APT22268,PAT0240,2025-06-05,Gastroenterology,GA-D4,Follow-up,No,Attended,36.0,950
+APT20044,PAT0017,2025-06-06,Orthopedics,OR-D3,Follow-up,Yes,Attended,19.0,900
+APT20133,PAT1266,2025-06-06,Neurology,NE-D1,Follow-up,No,No-Show,,1300
+APT20148,PAT0039,2025-06-06,Urology,UR-D1,New,No,No-Show,,1040
+APT20192,PAT1117,2025-06-06,Orthopedics,OR-D4,New,Yes,Attended,48.0,1105
+APT20349,PAT0828,2025-06-06,Urology,UR-D1,Follow-up,No,Attended,34.0,750
+APT20383,PAT0780,2025-06-06,Neurology,NE-D1,Follow-up,Yes,Attended,52.0,1300
+APT20429,PAT1066,2025-06-06,Orthopedics,OR-D4,Follow-up,Yes,No-Show,,850
+APT20448,PAT0568,2025-06-06,Gastroenterology,GA-D4,Follow-up,Yes,Attended,35.0,1000
+APT20501,PAT0173,2025-06-06,Urology,UR-D2,Follow-up,Yes,Attended,115.0,750
+APT20765,PAT0852,2025-06-06,Dermatology,DM-D2,New,Yes,Attended,30.0,845
+APT20945,PAT0737,2025-06-06,Pediatrics,PD-D4,Follow-up,No,Cancelled,,550
+APT20953,PAT1075,2025-06-06,General Medicine,GM-D3,New,Yes,Attended,22.0,535
+APT20991,PAT1394,2025-06-06,Neurology,NE-D2,New,Yes,Attended,63.0,1690
+APT21254,PAT1365,2025-06-06,Neurology,NE-D4,Follow-up,No,Attended,63.0,1250
+APT21351,PAT1361,2025-06-06,Neurology,NE-D4,New,Yes,Attended,58.0,1640
+APT21455,PAT1224,2025-06-06,General Medicine,GM-D4,Follow-up,Yes,Attended,,450
+APT21679,PAT0090,2025-06-06,Cardiology,CD-D1,Follow-up,Yes,Attended,33.0,1100
+APT21691,PAT1249,2025-06-06,Urology,UR-D4,New,No,Attended,50.0,1040
+APT21762,PAT0235,2025-06-06,Pediatrics,PD-D1,New,No,Attended,28.0,665
+APT22006,PAT1178,2025-06-06,Gastroenterology,GA-D3,New,No,Attended,35.0,1285
+APT22346,PAT0109,2025-06-06,General Medicine,GM-D2,New,Yes,Attended,55.0,585
+APT20159,PAT0177,2025-06-07,Gastroenterology,GA-D3,New,Yes,Attended,49.0,1185
+APT20215,PAT1210,2025-06-07,General Medicine,GM-D2,Follow-up,Yes,No-Show,,400
+APT20257,PAT0743,2025-06-07,Pediatrics,PD-D4,New,No,Cancelled,,665
+APT20267,PAT0552,2025-06-07,Orthopedics,OR-D1,Follow-up,No,No-Show,,900
+APT20408,PAT1275,2025-06-07,Orthopedics,OR-D3,Follow-up,Yes,Attended,42.0,850
+APT20423,PAT0904,2025-06-07,Urology,UR-D3,Follow-up,Yes,Attended,7.0,850
+APT20467,PAT0655,2025-06-07,Pediatrics,PD-D1,Follow-up,No,Attended,21.0,600
+APT20506,PAT0832,2025-06-07,General Medicine,GM-D2,Follow-up,Yes,Attended,47.0,450
+APT20614,PAT0437,2025-06-07,Dermatology,DM-D4,Follow-up,Yes,Attended,17.0,650
+APT20628,PAT0954,2025-06-07,Urology,UR-D4,Follow-up,Yes,Cancelled,,750
+APT20641,PAT0735,2025-06-07,Pediatrics,PD-D3,Follow-up,No,Attended,17.0,600
+APT20679,PAT0138,2025-06-07,Cardiology,CD-D4,New,Yes,Attended,47.0,1430
+APT20876,PAT1214,2025-06-07,Cardiology,CD-D3,Follow-up,No,Attended,29.0,1100
+APT20890,PAT1070,2025-06-07,Urology,UR-D2,Follow-up,No,Attended,26.0,800
+APT20965,PAT1094,2025-06-07,Orthopedics,OR-D2,New,No,Cancelled,,1155
+APT21010,PAT0924,2025-06-07,Orthopedics,OR-D4,Follow-up,No,Attended,39.0,850
+APT21058,PAT0472,2025-06-07,Orthopedics,OR-D1,Follow-up,No,Attended,24.0,850
+APT21296,PAT0081,2025-06-07,General Medicine,GM-D4,Follow-up,No,No-Show,,450
+APT21381,PAT1113,2025-06-07,General Medicine,GM-D1,Follow-up,Yes,No-Show,,450
+APT21498,PAT0893,2025-06-07,Neurology,NE-D2,Follow-up,No,No-Show,,1300
+APT21561,PAT0534,2025-06-07,Gastroenterology,GA-D4,Follow-up,No,No-Show,,950
+APT21583,PAT0403,2025-06-07,Pediatrics,PD-D1,Follow-up,No,No-Show,,600
+APT21603,PAT0375,2025-06-07,Gastroenterology,GA-D2,Follow-up,Yes,Attended,9.0,950
+APT21927,PAT0443,2025-06-07,Dermatology,DM-D1,Follow-up,Yes,Attended,17.0,650
+APT22122,PAT1062,2025-06-07,General Medicine,GM-D1,New,No,Attended,40.0,585
+APT22334,PAT1290,2025-06-07,Orthopedics,OR-D3,Follow-up,Yes,Attended,43.0,850
+APT20029,PAT1110,2025-06-09,Pediatrics,PD-D3,Follow-up,Yes,Attended,128.0,550
+APT20241,PAT1052,2025-06-09,Cardiology,CD-D1,Follow-up,Yes,Attended,34.0,1100
+APT20526,PAT0836,2025-06-09,Neurology,NE-D2,New,Yes,Attended,64.0,1690
+APT20575,PAT0744,2025-06-09,Pediatrics,PD-D2,Follow-up,Yes,Attended,22.0,550
+APT20642,PAT0403,2025-06-09,Orthopedics,OR-D3,New,Yes,Attended,26.0,1105
+APT20743,PAT1039,2025-06-09,Urology,UR-D2,New,No,No-Show,,1040
+APT20873,PAT1157,2025-06-09,Urology,UR-D1,New,No,No-Show,,990
+APT21012,PAT0052,2025-06-09,Pediatrics,PD-D3,New,No,Attended,42.0,715
+APT21024,PAT0008,2025-06-09,Dermatology,DM-D2,Follow-up,Yes,Attended,,600
+APT21062,PAT1171,2025-06-09,Neurology,NE-D2,Follow-up,No,No-Show,,1250
+APT21088,PAT1052,2025-06-09,General Medicine,GM-D1,New,No,Attended,32.0,635
+APT21124,PAT0963,2025-06-09,Cardiology,CD-D1,New,Yes,Attended,76.0,1380
+APT21182,PAT0278,2025-06-09,General Medicine,GM-D1,New,No,Attended,33.0,585
+APT21223,PAT0406,2025-06-09,Dermatology,DM-D2,New,Yes,Attended,35.0,845
+APT21269,PAT0836,2025-06-09,Orthopedics,OR-D4,New,No,Attended,58.0,1105
+APT21434,PAT0474,2025-06-09,Orthopedics,OR-D2,New,Yes,Attended,57.0,1155
+APT21567,PAT0946,2025-06-09,Pediatrics,PD-D1,New,No,Attended,42.0,665
+APT21607,PAT0552,2025-06-09,Cardiology,CD-D4,New,No,Attended,82.0,1430
+APT21610,PAT1244,2025-06-09,Urology,UR-D3,Follow-up,Yes,Attended,27.0,800
+APT21683,PAT1187,2025-06-09,Neurology,NE-D2,Follow-up,Yes,Cancelled,,1300
+APT21719,PAT0892,2025-06-09,General Medicine,GM-D1,New,Yes,No-Show,,635
+APT21735,PAT0040,2025-06-09,Orthopedics,OR-D2,New,Yes,Attended,61.0,1155
+APT21873,PAT1031,2025-06-09,General Medicine,GM-D3,Follow-up,No,No-Show,,500
+APT22050,PAT0688,2025-06-09,Urology,UR-D1,New,No,Attended,14.0,990
+APT22139,PAT1116,2025-06-09,Neurology,NE-D2,Follow-up,No,Attended,33.0,1300
+APT22256,PAT0606,2025-06-09,Cardiology,CD-D2,Follow-up,Yes,Attended,,1050
+APT20005,PAT0047,2025-06-10,Pediatrics,PD-D2,Follow-up,Yes,No-Show,,550
+APT20106,PAT0254,2025-06-10,Dermatology,DM-D3,New,Yes,Attended,19.0,795
+APT20156,PAT0913,2025-06-10,Neurology,NE-D1,Follow-up,Yes,Attended,65.0,1250
+APT20158,PAT0120,2025-06-10,Cardiology,CD-D4,Follow-up,Yes,Attended,20.0,1150
+APT20171,PAT1234,2025-06-10,Orthopedics,OR-D3,Follow-up,Yes,Attended,39.0,850
+APT20259,PAT0187,2025-06-10,Pediatrics,PD-D3,New,Yes,Attended,36.0,765
+APT20279,PAT0033,2025-06-10,General Medicine,GM-D2,Follow-up,Yes,Attended,39.0,500
+APT20347,PAT1061,2025-06-10,Orthopedics,OR-D2,Follow-up,Yes,Attended,42.0,850
+APT20370,PAT0150,2025-06-10,Urology,UR-D3,New,No,Attended,38.0,1090
+APT20371,PAT0666,2025-06-10,Urology,UR-D2,Follow-up,Yes,Attended,20.0,800
+APT20407,PAT0716,2025-06-10,Orthopedics,OR-D3,Follow-up,Yes,Attended,26.0,900
+APT20416,PAT0301,2025-06-10,Cardiology,CD-D2,New,No,Attended,42.0,1480
+APT20554,PAT0852,2025-06-10,Gastroenterology,GA-D2,New,No,Attended,46.0,1235
+APT20630,PAT0179,2025-06-10,Urology,UR-D4,New,No,Attended,43.0,1040
+APT20793,PAT0633,2025-06-10,Neurology,NE-D1,Follow-up,No,Attended,42.0,1300
+APT20823,PAT0696,2025-06-10,Orthopedics,OR-D4,Follow-up,Yes,Attended,52.0,800
+APT20897,PAT0116,2025-06-10,Cardiology,CD-D4,New,Yes,Attended,44.0,1480
+APT20969,PAT1183,2025-06-10,Gastroenterology,GA-D1,Follow-up,Yes,No-Show,,950
+APT21014,PAT0388,2025-06-10,Dermatology,DM-D4,New,Yes,Attended,27.0,895
+APT21041,PAT0616,2025-06-10,Pediatrics,PD-D4,New,No,No-Show,,715
+APT21147,PAT0515,2025-06-10,Dermatology,DM-D1,New,Yes,Attended,25.0,845
+APT21162,PAT0578,2025-06-10,Pediatrics,PD-D3,Follow-up,No,Attended,,500
+APT21184,PAT1381,2025-06-10,Cardiology,CD-D4,Follow-up,No,Attended,49.0,1050
+APT21216,PAT0034,2025-06-10,Dermatology,DM-D3,New,Yes,No-Show,,845
+APT21328,PAT0590,2025-06-10,Gastroenterology,GA-D3,New,Yes,Attended,40.0,1235
+APT21389,PAT0013,2025-06-10,Cardiology,CD-D2,Follow-up,No,Attended,11.0,1150
+APT21444,PAT1151,2025-06-10,Urology,UR-D4,New,No,Cancelled,,1040
+APT21541,PAT1213,2025-06-10,Pediatrics,PD-D2,Follow-up,No,No-Show,,600
+APT21592,PAT0758,2025-06-10,General Medicine,GM-D4,New,Yes,Attended,,635
+APT21620,PAT0860,2025-06-10,Pediatrics,PD-D4,New,No,Attended,41.0,765
+APT21672,PAT0965,2025-06-10,Urology,UR-D3,New,No,No-Show,,1040
+APT21714,PAT1106,2025-06-10,Cardiology,CD-D1,New,Yes,No-Show,,1430
+APT21734,PAT1171,2025-06-10,Dermatology,DM-D2,New,No,Attended,32.0,895
+APT21774,PAT0582,2025-06-10,Urology,UR-D3,New,Yes,No-Show,,1090
+APT21783,PAT0028,2025-06-10,Dermatology,DM-D2,Follow-up,Yes,Attended,123.0,650
+APT21824,PAT1142,2025-06-10,Neurology,NE-D2,Follow-up,Yes,No-Show,,1300
+APT21830,PAT0200,2025-06-10,Neurology,NE-D1,Follow-up,No,Attended,,1250
+APT21917,PAT0197,2025-06-10,Dermatology,DM-D1,Follow-up,No,Attended,14.0,700
+APT21926,PAT0664,2025-06-10,Gastroenterology,GA-D2,Follow-up,Yes,Attended,14.0,950
+APT21928,PAT0946,2025-06-10,Cardiology,CD-D3,Follow-up,Yes,Attended,28.0,1100
+APT21975,PAT0685,2025-06-10,General Medicine,GM-D3,Follow-up,No,Attended,34.0,450
+APT22035,PAT0821,2025-06-10,Cardiology,CD-D3,Follow-up,Yes,Attended,25.0,1100
+APT22065,PAT0391,2025-06-10,General Medicine,GM-D2,New,No,No-Show,,535
+APT22083,PAT0325,2025-06-10,Gastroenterology,GA-D2,Follow-up,Yes,Attended,33.0,900
+APT22117,PAT0996,2025-06-10,Gastroenterology,GA-D1,Follow-up,No,No-Show,,950
+APT22202,PAT0719,2025-06-10,General Medicine,GM-D4,New,Yes,Attended,32.0,535
+APT22207,PAT1235,2025-06-10,Orthopedics,OR-D2,New,No,Attended,57.0,1105
+APT22304,PAT0167,2025-06-10,Orthopedics,OR-D1,Follow-up,Yes,No-Show,,850
+APT20021,PAT1062,2025-06-11,General Medicine,GM-D2,Follow-up,No,Cancelled,,450
+APT20079,PAT0932,2025-06-11,Urology,UR-D2,New,No,Attended,29.0,1040
+APT20130,PAT0573,2025-06-11,Gastroenterology,GA-D1,Follow-up,Yes,Attended,46.0,950
+APT20157,PAT0562,2025-06-11,Neurology,NE-D1,Follow-up,Yes,No-Show,,1300
+APT20166,PAT0905,2025-06-11,Orthopedics,OR-D4,New,No,No-Show,,1155
+APT20206,PAT0046,2025-06-11,Gastroenterology,GA-D3,Follow-up,Yes,Attended,51.0,1000
+APT20252,PAT0070,2025-06-11,General Medicine,GM-D3,New,Yes,Attended,58.0,585
+APT20283,PAT0970,2025-06-11,Cardiology,CD-D1,Follow-up,Yes,Attended,22.0,1100
+APT20292,PAT0220,2025-06-11,Cardiology,CD-D3,Follow-up,Yes,Attended,44.0,1100
+APT20313,PAT0762,2025-06-11,General Medicine,GM-D4,Follow-up,No,Attended,34.0,400
+APT20458,PAT1010,2025-06-11,Dermatology,DM-D3,Follow-up,No,Attended,19.0,650
+APT20523,PAT0573,2025-06-11,Gastroenterology,GA-D1,Follow-up,No,No-Show,,950
+APT20532,PAT1279,2025-06-11,Orthopedics,OR-D3,Follow-up,No,Attended,61.0,850
+APT20581,PAT1353,2025-06-11,Orthopedics,OR-D4,Follow-up,Yes,Attended,38.0,800
+APT20783,PAT0400,2025-06-11,Urology,UR-D4,Follow-up,No,Attended,,800
+APT20871,PAT0021,2025-06-11,Pediatrics,PD-D4,New,Yes,No-Show,,715
+APT20949,PAT0669,2025-06-11,Gastroenterology,GA-D4,Follow-up,Yes,Attended,43.0,950
+APT20977,PAT0781,2025-06-11,General Medicine,GM-D4,New,Yes,Attended,58.0,635
+APT21043,PAT1299,2025-06-11,Gastroenterology,GA-D4,Follow-up,Yes,Attended,33.0,900
+APT21129,PAT0458,2025-06-11,Urology,UR-D4,Follow-up,Yes,Attended,50.0,800
+APT21165,PAT1186,2025-06-11,Dermatology,DM-D3,New,No,Attended,28.0,845
+APT21247,PAT0408,2025-06-11,Gastroenterology,GA-D1,Follow-up,No,Attended,44.0,1000
+APT21315,PAT1043,2025-06-11,Cardiology,CD-D3,Follow-up,Yes,Attended,33.0,1100
+APT21323,PAT0740,2025-06-11,Neurology,NE-D4,New,No,Attended,145.0,1640
+APT21469,PAT1354,2025-06-11,Pediatrics,PD-D1,New,Yes,Attended,33.0,715
+APT21690,PAT1045,2025-06-11,Pediatrics,PD-D2,Follow-up,Yes,Attended,29.0,550
+APT21703,PAT1394,2025-06-11,General Medicine,GM-D4,Follow-up,Yes,Attended,35.0,450
+APT21867,PAT1263,2025-06-11,Cardiology,CD-D2,Follow-up,Yes,Cancelled,,1100
+APT21974,PAT1014,2025-06-11,Orthopedics,OR-D3,New,Yes,Attended,55.0,1105
+APT22116,PAT1178,2025-06-11,Cardiology,CD-D3,Follow-up,Yes,Attended,38.0,1100
+APT22167,PAT1248,2025-06-11,General Medicine,GM-D2,Follow-up,No,Attended,51.0,450
+APT22251,PAT0507,2025-06-11,Dermatology,DM-D4,Follow-up,Yes,Attended,18.0,700
+APT22378,PAT0416,2025-06-11,Urology,UR-D2,New,Yes,Attended,38.0,1040
+APT20014,PAT0662,2025-06-12,Urology,UR-D2,Follow-up,No,Attended,29.0,850
+APT20048,PAT1187,2025-06-12,Neurology,NE-D1,Follow-up,Yes,Attended,27.0,1300
+APT20097,PAT0465,2025-06-12,Gastroenterology,GA-D4,Follow-up,Yes,Attended,31.0,900
+APT20125,PAT1020,2025-06-12,Urology,UR-D4,Follow-up,No,Attended,27.0,750
+APT20135,PAT0794,2025-06-12,Cardiology,CD-D1,New,No,Attended,62.0,1380
+APT20154,PAT0902,2025-06-12,General Medicine,GM-D4,New,Yes,Attended,53.0,535
+APT20161,PAT0531,2025-06-12,General Medicine,GM-D2,New,Yes,No-Show,,585
+APT20176,PAT0459,2025-06-12,Urology,UR-D3,New,Yes,Attended,40.0,1040
+APT20330,PAT1367,2025-06-12,Pediatrics,PD-D3,Follow-up,Yes,Attended,21.0,500
+APT20403,PAT1053,2025-06-12,Neurology,NE-D1,New,Yes,Attended,24.0,1690
+APT20802,PAT0583,2025-06-12,Pediatrics,PD-D3,Follow-up,Yes,Attended,28.0,500
+APT20839,PAT1161,2025-06-12,Pediatrics,PD-D2,Follow-up,Yes,No-Show,,600
+APT20985,PAT1146,2025-06-12,Dermatology,DM-D2,New,No,No-Show,,845
+APT21045,PAT1090,2025-06-12,Urology,UR-D1,Follow-up,No,No-Show,,850
+APT21160,PAT1166,2025-06-12,Pediatrics,PD-D4,Follow-up,No,No-Show,,550
+APT21221,PAT0337,2025-06-12,General Medicine,GM-D4,New,No,Attended,56.0,585
+APT21284,PAT0931,2025-06-12,Cardiology,CD-D2,Follow-up,Yes,No-Show,,1150
+APT21540,PAT0789,2025-06-12,General Medicine,GM-D2,Follow-up,No,Attended,43.0,500
+APT21546,PAT1042,2025-06-12,Dermatology,DM-D2,Follow-up,No,No-Show,,700
+APT21565,PAT0461,2025-06-12,Orthopedics,OR-D3,Follow-up,Yes,Attended,49.0,850
+APT21581,PAT0088,2025-06-12,Cardiology,CD-D3,New,No,Attended,,1430
+APT21674,PAT0965,2025-06-12,Gastroenterology,GA-D2,New,No,No-Show,,1235
+APT21779,PAT0272,2025-06-12,Cardiology,CD-D4,Follow-up,Yes,Attended,35.0,1150
+APT21850,PAT0381,2025-06-12,Cardiology,CD-D3,Follow-up,No,Attended,68.0,1050
+APT21865,PAT0980,2025-06-12,Urology,UR-D1,Follow-up,Yes,No-Show,,800
+APT21949,PAT0524,2025-06-12,Cardiology,CD-D2,New,Yes,Attended,49.0,1430
+APT22151,PAT0186,2025-06-12,Gastroenterology,GA-D2,Follow-up,Yes,Attended,29.0,900
+APT22217,PAT0421,2025-06-12,Orthopedics,OR-D3,Follow-up,Yes,Attended,43.0,850
+APT22238,PAT0788,2025-06-12,Pediatrics,PD-D4,Follow-up,No,No-Show,,550
+APT22275,PAT1043,2025-06-12,Urology,UR-D4,Follow-up,No,Attended,22.0,750
+APT22283,PAT0622,2025-06-12,Neurology,NE-D2,Follow-up,No,Attended,44.0,1350
+APT22291,PAT1323,2025-06-12,Cardiology,CD-D2,New,Yes,Attended,24.0,1430
+APT22326,PAT0298,2025-06-12,Cardiology,CD-D2,New,No,Attended,156.0,1430
+APT20136,PAT0620,2025-06-13,Cardiology,CD-D4,New,No,Attended,129.0,1430
+APT20332,PAT0807,2025-06-13,Urology,UR-D1,Follow-up,Yes,Attended,29.0,800
+APT20582,PAT0660,2025-06-13,Pediatrics,PD-D3,New,Yes,Attended,,715
+APT20635,PAT0981,2025-06-13,Pediatrics,PD-D3,New,Yes,Attended,40.0,765
+APT20775,PAT0741,2025-06-13,Neurology,NE-D3,Follow-up,No,Attended,123.0,1300
+APT20917,PAT0846,2025-06-13,Pediatrics,PD-D4,Follow-up,No,Attended,18.0,550
+APT20956,PAT1255,2025-06-13,General Medicine,GM-D2,New,Yes,Attended,29.0,585
+APT21053,PAT0881,2025-06-13,Cardiology,CD-D2,Follow-up,No,Attended,,1100
+APT21067,PAT0919,2025-06-13,Gastroenterology,GA-D4,New,Yes,Attended,48.0,1235
+APT21131,PAT0356,2025-06-13,Dermatology,DM-D4,New,Yes,No-Show,,895
+APT21151,PAT0593,2025-06-13,Cardiology,CD-D4,New,Yes,Attended,56.0,1380
+APT21217,PAT0450,2025-06-13,Gastroenterology,GA-D3,Follow-up,No,No-Show,,950
+APT21358,PAT0474,2025-06-13,Cardiology,CD-D4,Follow-up,No,No-Show,,1050
+APT21378,PAT0343,2025-06-13,Cardiology,CD-D3,Follow-up,No,No-Show,,1050
+APT21597,PAT0160,2025-06-13,Cardiology,CD-D4,New,No,Attended,75.0,1430
+APT21635,PAT1232,2025-06-13,Urology,UR-D4,Follow-up,Yes,Attended,23.0,800
+APT21655,PAT0741,2025-06-13,Cardiology,CD-D1,Follow-up,Yes,Attended,,1100
+APT21765,PAT0700,2025-06-13,General Medicine,GM-D4,New,No,Attended,39.0,585
+APT21810,PAT0474,2025-06-13,General Medicine,GM-D2,Follow-up,Yes,Attended,38.0,450
+APT21895,PAT0456,2025-06-13,Pediatrics,PD-D2,Follow-up,No,Attended,129.0,550
+APT22070,PAT0845,2025-06-13,General Medicine,GM-D2,New,No,No-Show,,635
+APT22313,PAT1309,2025-06-13,General Medicine,GM-D3,Follow-up,Yes,No-Show,,450
+APT22353,PAT0184,2025-06-13,Orthopedics,OR-D4,Follow-up,Yes,Attended,23.0,850
+APT20033,PAT1188,2025-06-14,Cardiology,CD-D4,Follow-up,Yes,Attended,23.0,1050
+APT20105,PAT0492,2025-06-14,Orthopedics,OR-D4,New,Yes,Attended,58.0,1105
+APT20401,PAT0447,2025-06-14,Gastroenterology,GA-D1,Follow-up,Yes,Cancelled,,900
+APT20425,PAT0669,2025-06-14,General Medicine,GM-D1,Follow-up,No,Attended,24.0,450
+APT20510,PAT1342,2025-06-14,Dermatology,DM-D2,Follow-up,Yes,Attended,17.0,650
+APT20590,PAT1058,2025-06-14,Dermatology,DM-D3,Follow-up,Yes,No-Show,,650
+APT20604,PAT1289,2025-06-14,General Medicine,GM-D3,New,Yes,Attended,29.0,585
+APT20609,PAT0481,2025-06-14,General Medicine,GM-D4,Follow-up,No,No-Show,,450
+APT20770,PAT0480,2025-06-14,Orthopedics,OR-D1,Follow-up,Yes,Attended,16.0,850
+APT20865,PAT1251,2025-06-14,Orthopedics,OR-D2,Follow-up,No,Attended,,800
+APT20923,PAT0094,2025-06-14,Orthopedics,OR-D2,Follow-up,Yes,Attended,37.0,850
+APT20941,PAT0554,2025-06-14,General Medicine,GM-D3,New,Yes,Attended,16.0,585
+APT21173,PAT0147,2025-06-14,Pediatrics,PD-D4,Follow-up,Yes,Attended,31.0,550
+APT21238,PAT0221,2025-06-14,Neurology,NE-D4,Follow-up,Yes,Attended,50.0,1250
+APT21292,PAT0586,2025-06-14,Pediatrics,PD-D4,New,No,Attended,41.0,765
+APT21314,PAT1341,2025-06-14,Pediatrics,PD-D4,New,No,Attended,46.0,715
+APT21364,PAT1195,2025-06-14,Urology,UR-D1,New,No,Attended,38.0,990
+APT21377,PAT0873,2025-06-14,Cardiology,CD-D1,Follow-up,No,Attended,112.0,1100
+APT21431,PAT1389,2025-06-14,Cardiology,CD-D3,Follow-up,Yes,Attended,28.0,1100
+APT21432,PAT1390,2025-06-14,General Medicine,GM-D4,New,No,Attended,56.0,585
+APT21547,PAT0475,2025-06-14,Dermatology,DM-D2,New,Yes,Attended,25.0,795
+APT21550,PAT0569,2025-06-14,General Medicine,GM-D3,Follow-up,Yes,Attended,27.0,450
+APT21575,PAT1220,2025-06-14,Orthopedics,OR-D4,Follow-up,Yes,Attended,41.0,800
+APT21616,PAT0490,2025-06-14,Orthopedics,OR-D3,Follow-up,Yes,Attended,50.0,850
+APT21685,PAT0596,2025-06-14,Neurology,NE-D3,Follow-up,No,Attended,49.0,1250
+APT21709,PAT0823,2025-06-14,Orthopedics,OR-D3,Follow-up,No,Attended,23.0,900
+APT21818,PAT1068,2025-06-14,Neurology,NE-D2,Follow-up,Yes,No-Show,,1350
+APT21826,PAT0036,2025-06-14,Urology,UR-D1,Follow-up,Yes,Attended,34.0,850
+APT22143,PAT1329,2025-06-14,General Medicine,GM-D2,Follow-up,No,Cancelled,,450
+APT22155,PAT1357,2025-06-14,Cardiology,CD-D1,Follow-up,No,Attended,48.0,1100
+APT22223,PAT0685,2025-06-14,Gastroenterology,GA-D4,New,No,No-Show,,1235
+APT22225,PAT0697,2025-06-14,Pediatrics,PD-D3,Follow-up,Yes,Attended,14.0,550
+APT22288,PAT0922,2025-06-14,General Medicine,GM-D2,New,No,Attended,50.0,585
+APT22356,PAT0149,2025-06-14,Cardiology,CD-D1,New,Yes,Attended,57.0,1380
+APT20188,PAT0875,2025-06-16,Orthopedics,OR-D2,Follow-up,No,Attended,47.0,800
+APT20227,PAT0065,2025-06-16,Pediatrics,PD-D4,Follow-up,No,No-Show,,600
+APT20324,PAT1139,2025-06-16,General Medicine,GM-D3,Follow-up,Yes,Attended,33.0,400
+APT20352,PAT1076,2025-06-16,General Medicine,GM-D1,Follow-up,Yes,Attended,27.0,450
+APT20484,PAT0888,2025-06-16,General Medicine,GM-D4,Follow-up,Yes,Attended,42.0,450
+APT20488,PAT1235,2025-06-16,Pediatrics,PD-D2,Follow-up,No,No-Show,,550
+APT20491,PAT1094,2025-06-16,Gastroenterology,GA-D4,Follow-up,Yes,Cancelled,,950
+APT20568,PAT1022,2025-06-16,Gastroenterology,GA-D2,Follow-up,No,Attended,36.0,950
+APT20685,PAT0654,2025-06-16,Pediatrics,PD-D3,Follow-up,Yes,Attended,27.0,600
+APT20724,PAT1378,2025-06-16,Neurology,NE-D2,New,No,Cancelled,,1690
+APT20900,PAT0213,2025-06-16,Urology,UR-D2,New,No,Attended,45.0,1090
+APT21111,PAT0387,2025-06-16,Urology,UR-D2,Follow-up,Yes,Attended,36.0,850
+APT21402,PAT0405,2025-06-16,General Medicine,GM-D2,Follow-up,Yes,Attended,33.0,450
+APT21637,PAT0127,2025-06-16,Pediatrics,PD-D4,Follow-up,No,Attended,5.0,500
+APT21736,PAT1116,2025-06-16,General Medicine,GM-D1,Follow-up,No,Attended,38.0,450
+APT21747,PAT1373,2025-06-16,Neurology,NE-D2,New,No,Attended,51.0,1690
+APT21931,PAT0256,2025-06-16,Dermatology,DM-D2,Follow-up,No,Attended,16.0,600
+APT21962,PAT0504,2025-06-16,Pediatrics,PD-D1,New,Yes,Attended,28.0,665
+APT22105,PAT0223,2025-06-16,Cardiology,CD-D2,New,Yes,Attended,59.0,1380
+APT22163,PAT0093,2025-06-16,Gastroenterology,GA-D4,New,Yes,Attended,63.0,1235
+APT22216,PAT0863,2025-06-16,General Medicine,GM-D3,Follow-up,Yes,Attended,29.0,450
+APT22281,PAT1000,2025-06-16,Neurology,NE-D3,New,Yes,No-Show,,1690
+APT20041,PAT0267,2025-06-17,Gastroenterology,GA-D4,New,Yes,Attended,54.0,1235
+APT20077,PAT0863,2025-06-17,General Medicine,GM-D2,Follow-up,Yes,Attended,41.0,450
+APT20104,PAT0051,2025-06-17,Pediatrics,PD-D2,Follow-up,No,Attended,26.0,550
+APT20109,PAT0256,2025-06-17,Cardiology,CD-D4,New,No,Attended,64.0,1430
+APT20142,PAT0172,2025-06-17,Orthopedics,OR-D2,Follow-up,Yes,Attended,52.0,850
+APT20169,PAT0739,2025-06-17,Urology,UR-D1,Follow-up,Yes,No-Show,,800
+APT20201,PAT0200,2025-06-17,Orthopedics,OR-D1,New,No,Attended,41.0,1105
+APT20217,PAT0262,2025-06-17,Pediatrics,PD-D4,Follow-up,No,Attended,,550
+APT20277,PAT1359,2025-06-17,Orthopedics,OR-D1,New,Yes,Attended,,1055
+APT20278,PAT0509,2025-06-17,Gastroenterology,GA-D1,Follow-up,No,Attended,48.0,950
+APT20316,PAT0234,2025-06-17,General Medicine,GM-D3,Follow-up,No,No-Show,,450
+APT20391,PAT1305,2025-06-17,Urology,UR-D2,New,Yes,Attended,38.0,1040
+APT20473,PAT1356,2025-06-17,Neurology,NE-D1,New,No,Attended,88.0,1690
+APT20528,PAT0734,2025-06-17,Cardiology,CD-D4,Follow-up,Yes,Attended,43.0,1100
+APT20656,PAT0088,2025-06-17,Neurology,NE-D2,New,Yes,Attended,48.0,1690
+APT20674,PAT0947,2025-06-17,Dermatology,DM-D2,New,No,No-Show,,895
+APT20704,PAT0561,2025-06-17,Gastroenterology,GA-D2,Follow-up,No,Attended,38.0,1000
+APT20764,PAT0207,2025-06-17,Gastroenterology,GA-D1,Follow-up,Yes,Attended,30.0,1000
+APT20767,PAT0863,2025-06-17,Cardiology,CD-D1,New,Yes,Attended,58.0,1380
+APT20786,PAT0790,2025-06-17,General Medicine,GM-D2,Follow-up,Yes,No-Show,,400
+APT20798,PAT0330,2025-06-17,Dermatology,DM-D4,Follow-up,No,Attended,14.0,650
+APT20810,PAT0730,2025-06-17,Dermatology,DM-D2,Follow-up,No,Attended,,650
+APT20812,PAT1185,2025-06-17,Neurology,NE-D3,New,No,Attended,73.0,1690
+APT20855,PAT1223,2025-06-17,Orthopedics,OR-D4,Follow-up,Yes,Attended,36.0,850
+APT20872,PAT0425,2025-06-17,Cardiology,CD-D2,New,Yes,Cancelled,,1430
+APT20903,PAT0017,2025-06-17,General Medicine,GM-D1,Follow-up,Yes,Attended,34.0,400
+APT20910,PAT0238,2025-06-17,Neurology,NE-D4,Follow-up,Yes,Attended,43.0,1350
+APT20976,PAT1039,2025-06-17,Gastroenterology,GA-D4,New,Yes,Attended,38.0,1235
+APT21081,PAT0882,2025-06-17,Gastroenterology,GA-D3,New,Yes,Attended,45.0,1235
+APT21106,PAT0661,2025-06-17,Cardiology,CD-D4,Follow-up,No,No-Show,,1100
+APT21113,PAT0188,2025-06-17,Dermatology,DM-D3,Follow-up,Yes,No-Show,,700
+APT21139,PAT0046,2025-06-17,Urology,UR-D3,Follow-up,No,Attended,43.0,850
+APT21139,PAT0046,2025-06-17,Urology,UR-D3,Follow-up,No,Attended,43.0,850
+APT21146,PAT0192,2025-06-17,Orthopedics,OR-D2,Follow-up,No,Attended,47.0,850
+APT21181,PAT1308,2025-06-17,Cardiology,CD-D3,New,No,No-Show,,1480
+APT21187,PAT0254,2025-06-17,Pediatrics,PD-D2,Follow-up,Yes,Attended,20.0,600
+APT21197,PAT0563,2025-06-17,General Medicine,GM-D3,New,No,Attended,30.0,585
+APT21229,PAT0810,2025-06-17,Pediatrics,PD-D3,New,Yes,Attended,33.0,665
+APT21304,PAT0929,2025-06-17,General Medicine,GM-D1,Follow-up,Yes,No-Show,,500
+APT21327,PAT0845,2025-06-17,Pediatrics,PD-D1,Follow-up,Yes,Attended,22.0,550
+APT21395,PAT0094,2025-06-17,Urology,UR-D2,Follow-up,Yes,No-Show,,750
+APT21470,PAT0776,2025-06-17,Gastroenterology,GA-D3,Follow-up,No,Attended,41.0,950
+APT21472,PAT1004,2025-06-17,Gastroenterology,GA-D2,Follow-up,No,No-Show,,950
+APT21520,PAT0140,2025-06-17,Pediatrics,PD-D3,New,No,No-Show,,665
+APT21543,PAT0152,2025-06-17,Gastroenterology,GA-D3,Follow-up,No,Attended,45.0,950
+APT21553,PAT1126,2025-06-17,Orthopedics,OR-D3,Follow-up,Yes,Attended,43.0,850
+APT21576,PAT0115,2025-06-17,General Medicine,GM-D1,New,Yes,Attended,58.0,635
+APT21618,PAT1250,2025-06-17,Cardiology,CD-D3,Follow-up,Yes,Attended,46.0,1150
+APT21781,PAT0825,2025-06-17,Urology,UR-D2,New,Yes,Attended,35.0,1040
+APT21877,PAT0878,2025-06-17,Orthopedics,OR-D4,Follow-up,No,Attended,43.0,850
+APT21916,PAT0538,2025-06-17,Urology,UR-D4,Follow-up,No,Attended,28.0,750
+APT21919,PAT1144,2025-06-17,General Medicine,GM-D1,Follow-up,Yes,Cancelled,,500
+APT21991,PAT0375,2025-06-17,Dermatology,DM-D1,Follow-up,No,Attended,,600
+APT22057,PAT0985,2025-06-17,Gastroenterology,GA-D4,Follow-up,No,Attended,31.0,1000
+APT22062,PAT0291,2025-06-17,Cardiology,CD-D3,Follow-up,No,Attended,44.0,1150
+APT22087,PAT0621,2025-06-17,Neurology,NE-D2,New,Yes,Attended,60.0,1640
+APT22097,PAT0604,2025-06-17,Pediatrics,PD-D2,Follow-up,No,Attended,13.0,500
+APT22109,PAT0837,2025-06-17,Cardiology,CD-D4,Follow-up,Yes,Attended,32.0,1100
+APT22340,PAT1328,2025-06-17,Gastroenterology,GA-D3,Follow-up,No,Attended,34.0,1000
+APT22393,PAT0964,2025-06-17,Gastroenterology,GA-D3,New,Yes,Attended,35.0,1235
+APT20060,PAT0635,2025-06-18,Dermatology,DM-D3,Follow-up,Yes,Attended,16.0,650
+APT20139,PAT0877,2025-06-18,General Medicine,GM-D3,New,Yes,Attended,62.0,585
+APT20243,PAT1060,2025-06-18,Urology,UR-D1,Follow-up,Yes,Attended,,800
+APT20410,PAT0985,2025-06-18,Urology,UR-D2,New,No,Attended,33.0,1090
+APT20495,PAT0410,2025-06-18,Pediatrics,PD-D3,New,Yes,Attended,42.0,765
+APT20524,PAT1083,2025-06-18,Orthopedics,OR-D2,Follow-up,No,Attended,34.0,800
+APT20730,PAT1186,2025-06-18,Neurology,NE-D1,Follow-up,Yes,Attended,34.0,1350
+APT20746,PAT0232,2025-06-18,Pediatrics,PD-D1,Follow-up,No,No-Show,,600
+APT20816,PAT1317,2025-06-18,General Medicine,GM-D3,New,Yes,Attended,50.0,635
+APT21069,PAT1210,2025-06-18,Neurology,NE-D1,New,Yes,Attended,61.0,1740
+APT21130,PAT1187,2025-06-18,Dermatology,DM-D4,Follow-up,Yes,Attended,20.0,700
+APT21245,PAT0522,2025-06-18,Dermatology,DM-D4,Follow-up,Yes,Attended,,650
+APT21317,PAT0315,2025-06-18,Orthopedics,OR-D1,Follow-up,Yes,Attended,54.0,800
+APT21335,PAT0763,2025-06-18,Neurology,NE-D1,Follow-up,No,Attended,38.0,1300
+APT21457,PAT0012,2025-06-18,Gastroenterology,GA-D2,New,Yes,Attended,33.0,1285
+APT21517,PAT1062,2025-06-18,Gastroenterology,GA-D4,Follow-up,Yes,Attended,29.0,1000
+APT21571,PAT1335,2025-06-18,Orthopedics,OR-D2,New,No,Attended,48.0,1155
+APT21584,PAT0981,2025-06-18,Cardiology,CD-D1,New,No,Attended,66.0,1380
+APT21636,PAT0525,2025-06-18,Dermatology,DM-D4,New,No,No-Show,,895
+APT21642,PAT0804,2025-06-18,General Medicine,GM-D4,Follow-up,Yes,Attended,43.0,450
+APT21707,PAT0301,2025-06-18,Pediatrics,PD-D2,New,No,Attended,27.0,715
+APT21834,PAT1373,2025-06-18,Dermatology,DM-D1,Follow-up,Yes,Attended,10.0,650
+APT22134,PAT0881,2025-06-18,Dermatology,DM-D3,New,Yes,Attended,38.0,795
+APT22171,PAT1239,2025-06-18,Pediatrics,PD-D4,Follow-up,Yes,Attended,19.0,600
+APT22187,PAT0533,2025-06-18,Urology,UR-D4,Follow-up,No,Cancelled,,800
+APT22230,PAT1134,2025-06-18,General Medicine,GM-D4,Follow-up,No,No-Show,,450
+APT22328,PAT0763,2025-06-18,Pediatrics,PD-D2,New,No,Cancelled,,715
+APT22372,PAT0867,2025-06-18,Pediatrics,PD-D1,New,No,Attended,22.0,715
+APT20208,PAT0474,2025-06-19,General Medicine,GM-D1,New,Yes,No-Show,,535
+APT20463,PAT1082,2025-06-19,Dermatology,DM-D3,Follow-up,No,Attended,19.0,650
+APT20558,PAT1354,2025-06-19,Orthopedics,OR-D3,New,No,Attended,38.0,1105
+APT20814,PAT1387,2025-06-19,Orthopedics,OR-D3,Follow-up,No,No-Show,,850
+APT20863,PAT1395,2025-06-19,Neurology,NE-D4,Follow-up,Yes,Attended,,1300
+APT20904,PAT0160,2025-06-19,Orthopedics,OR-D2,New,No,No-Show,,1105
+APT20906,PAT0555,2025-06-19,General Medicine,GM-D3,New,No,Attended,37.0,585
+APT20957,PAT0100,2025-06-19,Pediatrics,PD-D3,Follow-up,Yes,Attended,16.0,600
+APT20958,PAT0503,2025-06-19,Urology,UR-D3,Follow-up,Yes,No-Show,,750
+APT21001,PAT1056,2025-06-19,General Medicine,GM-D2,New,No,Attended,48.0,585
+APT21020,PAT0509,2025-06-19,Dermatology,DM-D3,Follow-up,No,No-Show,,650
+APT21040,PAT0320,2025-06-19,Pediatrics,PD-D3,Follow-up,No,No-Show,,550
+APT21040,PAT0320,2025-06-19,Pediatrics,PD-D3,Follow-up,No,No-Show,,550
+APT21050,PAT0806,2025-06-19,Cardiology,CD-D2,New,Yes,Attended,49.0,1430
+APT21252,PAT0316,2025-06-19,Urology,UR-D2,New,Yes,No-Show,,1090
+APT21259,PAT0539,2025-06-19,Gastroenterology,GA-D4,Follow-up,Yes,Attended,34.0,950
+APT21403,PAT0927,2025-06-19,Cardiology,CD-D3,Follow-up,Yes,Attended,32.0,1050
+APT21606,PAT0433,2025-06-19,General Medicine,GM-D2,New,Yes,No-Show,,635
+APT21663,PAT0087,2025-06-19,Orthopedics,OR-D1,Follow-up,No,No-Show,,900
+APT21846,PAT0226,2025-06-19,Pediatrics,PD-D1,Follow-up,Yes,Attended,17.0,550
+APT22011,PAT1180,2025-06-19,Orthopedics,OR-D3,New,Yes,Attended,65.0,1105
+APT22034,PAT1245,2025-06-19,General Medicine,GM-D3,Follow-up,No,Attended,43.0,450
+APT22112,PAT0057,2025-06-19,Urology,UR-D3,New,Yes,Attended,35.0,1040
+APT22181,PAT1316,2025-06-19,Cardiology,CD-D2,Follow-up,Yes,Attended,33.0,1050
+APT22197,PAT0104,2025-06-19,Cardiology,CD-D3,Follow-up,No,Attended,54.0,1100
+APT22239,PAT0048,2025-06-19,Orthopedics,OR-D3,New,Yes,No-Show,,1055
+APT22243,PAT1124,2025-06-19,Urology,UR-D1,Follow-up,No,No-Show,,750
+APT20009,PAT0399,2025-06-20,Cardiology,CD-D4,Follow-up,Yes,Attended,43.0,1100
+APT20018,PAT0475,2025-06-20,Pediatrics,PD-D3,Follow-up,No,Attended,26.0,550
+APT20103,PAT1168,2025-06-20,Gastroenterology,GA-D3,Follow-up,No,No-Show,,1000
+APT20132,PAT0765,2025-06-20,Pediatrics,PD-D1,Follow-up,No,Attended,23.0,550
+APT20190,PAT0620,2025-06-20,Dermatology,DM-D4,Follow-up,Yes,Attended,,700
+APT20190,PAT0620,2025-06-20,Dermatology,DM-D4,Follow-up,Yes,Attended,,700
+APT20205,PAT0529,2025-06-20,General Medicine,GM-D2,Follow-up,Yes,Attended,42.0,450
+APT20226,PAT1091,2025-06-20,General Medicine,GM-D2,New,Yes,Attended,39.0,585
+APT20303,PAT1086,2025-06-20,Urology,UR-D4,Follow-up,Yes,Attended,22.0,800
+APT20366,PAT0937,2025-06-20,Pediatrics,PD-D4,Follow-up,Yes,Attended,22.0,550
+APT20797,PAT0677,2025-06-20,Neurology,NE-D1,Follow-up,Yes,Attended,,1300
+APT20838,PAT1288,2025-06-20,Cardiology,CD-D1,Follow-up,Yes,Attended,,1100
+APT20842,PAT1211,2025-06-20,Dermatology,DM-D1,New,Yes,No-Show,,845
+APT20870,PAT1216,2025-06-20,Cardiology,CD-D2,New,Yes,No-Show,,1430
+APT21104,PAT0671,2025-06-20,Urology,UR-D1,Follow-up,Yes,Attended,133.0,800
+APT21107,PAT0611,2025-06-20,Pediatrics,PD-D3,New,No,Cancelled,,665
+APT21177,PAT0557,2025-06-20,Orthopedics,OR-D3,Follow-up,No,Attended,26.0,900
+APT21270,PAT0243,2025-06-20,Pediatrics,PD-D3,Follow-up,Yes,Attended,32.0,550
+APT21272,PAT1211,2025-06-20,Pediatrics,PD-D4,Follow-up,Yes,Attended,17.0,550
+APT21436,PAT1375,2025-06-20,General Medicine,GM-D4,New,Yes,Cancelled,,585
+APT21478,PAT0763,2025-06-20,Dermatology,DM-D2,New,No,Attended,21.0,845
+APT21515,PAT0295,2025-06-20,General Medicine,GM-D3,New,Yes,No-Show,,585
+APT21533,PAT0510,2025-06-20,Dermatology,DM-D1,Follow-up,No,Attended,13.0,600
+APT21598,PAT0716,2025-06-20,Urology,UR-D1,Follow-up,Yes,Attended,28.0,800
+APT21653,PAT0718,2025-06-20,General Medicine,GM-D4,Follow-up,No,Attended,,450
+APT21813,PAT1244,2025-06-20,Gastroenterology,GA-D4,New,No,Attended,,1235
+APT22001,PAT0875,2025-06-20,Cardiology,CD-D1,Follow-up,No,Attended,46.0,1100
+APT22106,PAT0424,2025-06-20,Dermatology,DM-D3,Follow-up,Yes,Attended,15.0,650
+APT22150,PAT0846,2025-06-20,Dermatology,DM-D2,Follow-up,Yes,Attended,14.0,700
+APT22370,PAT1062,2025-06-20,Urology,UR-D2,New,Yes,Attended,36.0,1040
+APT20013,PAT0719,2025-06-21,Orthopedics,OR-D3,Follow-up,No,Attended,45.0,800
+APT20134,PAT0630,2025-06-21,Neurology,NE-D3,New,No,Cancelled,,1690
+APT20414,PAT1305,2025-06-21,Neurology,NE-D4,Follow-up,No,Attended,52.0,1250
+APT20588,PAT0288,2025-06-21,Urology,UR-D4,Follow-up,No,Attended,,850
+APT20596,PAT1150,2025-06-21,Cardiology,CD-D3,Follow-up,No,No-Show,,1100
+APT20626,PAT1143,2025-06-21,Cardiology,CD-D4,New,No,No-Show,,1430
+APT20680,PAT1147,2025-06-21,Gastroenterology,GA-D4,Follow-up,No,No-Show,,950
+APT20717,PAT0983,2025-06-21,Pediatrics,PD-D1,New,No,Attended,27.0,715
+APT20847,PAT0927,2025-06-21,Pediatrics,PD-D3,New,No,Attended,26.0,715
+APT20926,PAT0636,2025-06-21,General Medicine,GM-D2,Follow-up,No,Attended,42.0,450
+APT20927,PAT0005,2025-06-21,Urology,UR-D2,New,Yes,Attended,36.0,1040
+APT21080,PAT0770,2025-06-21,Cardiology,CD-D4,Follow-up,Yes,Attended,46.0,1100
+APT21112,PAT0070,2025-06-21,Gastroenterology,GA-D1,New,No,No-Show,,1235
+APT21207,PAT0961,2025-06-21,Cardiology,CD-D2,New,Yes,Attended,,1430
+APT21210,PAT0552,2025-06-21,General Medicine,GM-D4,New,No,Attended,48.0,535
+APT21250,PAT0902,2025-06-21,Cardiology,CD-D2,Follow-up,Yes,Attended,23.0,1100
+APT21289,PAT0661,2025-06-21,Pediatrics,PD-D2,New,No,Attended,25.0,715
+APT21310,PAT0910,2025-06-21,Pediatrics,PD-D4,Follow-up,Yes,Attended,17.0,600
+APT21383,PAT0727,2025-06-21,Pediatrics,PD-D1,New,No,Attended,30.0,765
+APT21411,PAT0375,2025-06-21,Cardiology,CD-D4,Follow-up,No,No-Show,,1100
+APT21446,PAT1247,2025-06-21,Cardiology,CD-D2,New,Yes,Attended,56.0,1430
+APT21508,PAT0409,2025-06-21,General Medicine,GM-D4,Follow-up,No,Attended,107.0,450
+APT21659,PAT0349,2025-06-21,Cardiology,CD-D3,Follow-up,Yes,Attended,61.0,1150
+APT21764,PAT0179,2025-06-21,Cardiology,CD-D4,Follow-up,No,Attended,53.0,1100
+APT21780,PAT0883,2025-06-21,Neurology,NE-D1,Follow-up,Yes,Attended,57.0,1300
+APT21812,PAT0889,2025-06-21,Dermatology,DM-D1,Follow-up,Yes,Attended,15.0,650
+APT21862,PAT1087,2025-06-21,Dermatology,DM-D3,Follow-up,No,Attended,11.0,650
+APT21950,PAT0924,2025-06-21,Neurology,NE-D1,New,Yes,Attended,68.0,1740
+APT21988,PAT0606,2025-06-21,Cardiology,CD-D3,Follow-up,Yes,Attended,45.0,1100
+APT21996,PAT0690,2025-06-21,Pediatrics,PD-D3,New,Yes,Attended,,665
+APT22347,PAT0448,2025-06-21,Pediatrics,PD-D1,Follow-up,Yes,Attended,21.0,550
+APT22394,PAT1270,2025-06-21,Orthopedics,OR-D2,Follow-up,No,Attended,32.0,850
+APT20084,PAT0877,2025-06-23,Gastroenterology,GA-D4,New,No,Attended,28.0,1235
+APT20181,PAT1312,2025-06-23,General Medicine,GM-D2,Follow-up,Yes,Attended,30.0,500
+APT20187,PAT0676,2025-06-23,General Medicine,GM-D2,Follow-up,No,Attended,21.0,500
+APT20288,PAT0955,2025-06-23,Orthopedics,OR-D1,Follow-up,Yes,No-Show,,800
+APT20417,PAT1278,2025-06-23,General Medicine,GM-D1,New,Yes,Attended,21.0,585
+APT20477,PAT1215,2025-06-23,Cardiology,CD-D4,New,No,Attended,58.0,1480
+APT20693,PAT0908,2025-06-23,Pediatrics,PD-D2,Follow-up,No,Attended,16.0,600
+APT20741,PAT0329,2025-06-23,Pediatrics,PD-D2,New,No,No-Show,,715
+APT20961,PAT0960,2025-06-23,Orthopedics,OR-D2,New,No,No-Show,,1105
+APT21017,PAT0117,2025-06-23,General Medicine,GM-D3,Follow-up,No,No-Show,,500
+APT21074,PAT0512,2025-06-23,Cardiology,CD-D4,Follow-up,Yes,Attended,50.0,1100
+APT21094,PAT0768,2025-06-23,Orthopedics,OR-D2,Follow-up,Yes,Attended,44.0,850
+APT21164,PAT0624,2025-06-23,General Medicine,GM-D1,Follow-up,No,Attended,34.0,450
+APT21232,PAT0835,2025-06-23,Urology,UR-D4,Follow-up,No,Attended,128.0,800
+APT21330,PAT0450,2025-06-23,Cardiology,CD-D4,Follow-up,Yes,Attended,20.0,1100
+APT21360,PAT0153,2025-06-23,Neurology,NE-D3,New,No,Attended,62.0,1690
+APT21371,PAT0874,2025-06-23,Pediatrics,PD-D4,Follow-up,Yes,Attended,139.0,550
+APT21420,PAT1059,2025-06-23,Urology,UR-D1,Follow-up,Yes,No-Show,,800
+APT21588,PAT0638,2025-06-23,Pediatrics,PD-D1,Follow-up,No,Attended,18.0,550
+APT21630,PAT0146,2025-06-23,General Medicine,GM-D3,New,No,Attended,49.0,585
+APT21648,PAT1221,2025-06-23,Cardiology,CD-D2,New,Yes,No-Show,,1380
+APT21649,PAT1350,2025-06-23,Neurology,NE-D1,New,Yes,Attended,81.0,1690
+APT21651,PAT0698,2025-06-23,Dermatology,DM-D2,New,No,Attended,30.0,845
+APT21854,PAT0019,2025-06-23,Orthopedics,OR-D1,New,No,Attended,39.0,1105
+APT21868,PAT0478,2025-06-23,Dermatology,DM-D3,New,No,No-Show,,845
+APT21882,PAT0842,2025-06-23,General Medicine,GM-D1,Follow-up,No,Attended,41.0,500
+APT21997,PAT0844,2025-06-23,Urology,UR-D2,Follow-up,Yes,Attended,29.0,800
+APT22043,PAT1364,2025-06-23,Dermatology,DM-D2,Follow-up,Yes,Attended,,650
+APT22080,PAT1027,2025-06-23,Pediatrics,PD-D1,Follow-up,Yes,Cancelled,,600
+APT22235,PAT0580,2025-06-23,Cardiology,CD-D3,Follow-up,Yes,Attended,38.0,1100
+APT22310,PAT0846,2025-06-23,Pediatrics,PD-D3,Follow-up,Yes,Attended,22.0,550
+APT22400,PAT0879,2025-06-23,Cardiology,CD-D3,New,Yes,Attended,60.0,1430
+APT20012,PAT1356,2025-06-24,Pediatrics,PD-D1,Follow-up,No,No-Show,,550
+APT20016,PAT0098,2025-06-24,Pediatrics,PD-D3,New,No,No-Show,,715
+APT20101,PAT0533,2025-06-24,Gastroenterology,GA-D1,Follow-up,Yes,Attended,32.0,900
+APT20143,PAT0489,2025-06-24,Orthopedics,OR-D3,New,Yes,No-Show,,1155
+APT20153,PAT1077,2025-06-24,Gastroenterology,GA-D3,New,Yes,Attended,35.0,1235
+APT20168,PAT0601,2025-06-24,General Medicine,GM-D4,Follow-up,No,Attended,41.0,450
+APT20214,PAT0074,2025-06-24,Orthopedics,OR-D4,Follow-up,No,Attended,48.0,850
+APT20216,PAT0481,2025-06-24,Pediatrics,PD-D1,New,Yes,No-Show,,765
+APT20328,PAT0641,2025-06-24,Dermatology,DM-D3,Follow-up,Yes,No-Show,,650
+APT20390,PAT1166,2025-06-24,Dermatology,DM-D3,Follow-up,Yes,Attended,23.0,650
+APT20461,PAT1378,2025-06-24,Pediatrics,PD-D4,Follow-up,No,Attended,25.0,500
+APT20508,PAT1330,2025-06-24,Orthopedics,OR-D3,Follow-up,No,Attended,48.0,850
+APT20573,PAT1080,2025-06-24,Dermatology,DM-D4,Follow-up,Yes,Attended,20.0,650
+APT20587,PAT1366,2025-06-24,Orthopedics,OR-D3,Follow-up,No,Attended,43.0,850
+APT20692,PAT0320,2025-06-24,Dermatology,DM-D4,Follow-up,No,Attended,26.0,700
+APT20711,PAT1297,2025-06-24,Urology,UR-D4,Follow-up,No,Attended,,750
+APT20756,PAT0207,2025-06-24,Gastroenterology,GA-D3,Follow-up,No,Attended,32.0,950
+APT20850,PAT0969,2025-06-24,Pediatrics,PD-D4,Follow-up,No,Attended,8.0,550
+APT20852,PAT0174,2025-06-24,Gastroenterology,GA-D3,New,Yes,Attended,44.0,1235
+APT20864,PAT1182,2025-06-24,Dermatology,DM-D4,Follow-up,No,Attended,13.0,650
+APT20920,PAT1369,2025-06-24,Orthopedics,OR-D1,New,Yes,Attended,54.0,1105
+APT20942,PAT0806,2025-06-24,General Medicine,GM-D3,Follow-up,No,No-Show,,450
+APT20972,PAT0985,2025-06-24,Gastroenterology,GA-D4,Follow-up,No,Attended,35.0,950
+APT21003,PAT0667,2025-06-24,Dermatology,DM-D1,New,Yes,Attended,26.0,845
+APT21044,PAT0225,2025-06-24,Urology,UR-D1,Follow-up,Yes,Attended,24.0,850
+APT21056,PAT0441,2025-06-24,Dermatology,DM-D4,New,Yes,Attended,29.0,845
+APT21196,PAT0484,2025-06-24,Urology,UR-D3,Follow-up,Yes,Attended,25.0,800
+APT21255,PAT0064,2025-06-24,Cardiology,CD-D2,Follow-up,No,Attended,57.0,1150
+APT21260,PAT1175,2025-06-24,Pediatrics,PD-D3,New,Yes,Cancelled,,665
+APT21372,PAT0854,2025-06-24,Orthopedics,OR-D3,Follow-up,Yes,Attended,48.0,800
+APT21424,PAT0761,2025-06-24,Gastroenterology,GA-D3,Follow-up,No,Attended,33.0,950
+APT21437,PAT1351,2025-06-24,Gastroenterology,GA-D2,New,No,Attended,41.0,1235
+APT21466,PAT0456,2025-06-24,Dermatology,DM-D3,Follow-up,Yes,Attended,,650
+APT21503,PAT1358,2025-06-24,Gastroenterology,GA-D4,New,No,No-Show,,1235
+APT21906,PAT0720,2025-06-24,Dermatology,DM-D1,Follow-up,Yes,Attended,13.0,650
+APT21953,PAT0072,2025-06-24,Orthopedics,OR-D1,Follow-up,No,Attended,30.0,850
+APT21970,PAT0994,2025-06-24,Cardiology,CD-D1,Follow-up,No,Attended,42.0,1050
+APT21976,PAT0391,2025-06-24,Cardiology,CD-D3,Follow-up,No,Attended,44.0,1050
+APT22048,PAT0855,2025-06-24,Pediatrics,PD-D4,New,No,Attended,33.0,715
+APT22076,PAT0212,2025-06-24,General Medicine,GM-D1,Follow-up,Yes,Attended,42.0,450
+APT22101,PAT1340,2025-06-24,Neurology,NE-D4,Follow-up,No,Attended,57.0,1300
+APT22102,PAT0171,2025-06-24,Pediatrics,PD-D4,New,No,No-Show,,715
+APT22138,PAT1108,2025-06-24,General Medicine,GM-D1,Follow-up,Yes,Attended,42.0,450
+APT22169,PAT0736,2025-06-24,General Medicine,GM-D4,Follow-up,Yes,Cancelled,,500
+APT22214,PAT1010,2025-06-24,Urology,UR-D2,Follow-up,Yes,Attended,50.0,750
+APT22237,PAT0232,2025-06-24,Neurology,NE-D3,New,No,Attended,84.0,1740
+APT22365,PAT1063,2025-06-24,General Medicine,GM-D2,Follow-up,No,Attended,25.0,400
+APT22375,PAT0808,2025-06-24,General Medicine,GM-D1,Follow-up,Yes,Attended,57.0,450
+APT22397,PAT0739,2025-06-24,Urology,UR-D3,New,Yes,Attended,30.0,990
+APT20083,PAT0877,2025-06-25,Neurology,NE-D1,Follow-up,No,Attended,31.0,1300
+APT20210,PAT0436,2025-06-25,Urology,UR-D1,New,No,No-Show,,990
+APT20246,PAT1260,2025-06-25,Orthopedics,OR-D4,Follow-up,Yes,Attended,46.0,850
+APT20248,PAT0791,2025-06-25,Neurology,NE-D1,New,No,Attended,60.0,1690
+APT20253,PAT0644,2025-06-25,Dermatology,DM-D2,Follow-up,Yes,No-Show,,600
+APT20289,PAT0799,2025-06-25,Dermatology,DM-D1,New,No,Attended,20.0,895
+APT20402,PAT1221,2025-06-25,Cardiology,CD-D3,Follow-up,Yes,Attended,37.0,1100
+APT20520,PAT1171,2025-06-25,Dermatology,DM-D3,Follow-up,No,No-Show,,700
+APT20566,PAT1026,2025-06-25,Dermatology,DM-D4,New,Yes,No-Show,,845
+APT20577,PAT1090,2025-06-25,Pediatrics,PD-D2,Follow-up,Yes,Attended,31.0,500
+APT20639,PAT1313,2025-06-25,General Medicine,GM-D3,Follow-up,No,Attended,44.0,400
+APT20806,PAT0711,2025-06-25,Pediatrics,PD-D2,New,No,No-Show,,715
+APT20882,PAT1319,2025-06-25,Orthopedics,OR-D2,New,Yes,Attended,60.0,1105
+APT21019,PAT0712,2025-06-25,Gastroenterology,GA-D3,New,Yes,Cancelled,,1285
+APT21201,PAT0922,2025-06-25,Orthopedics,OR-D4,Follow-up,Yes,No-Show,,850
+APT21343,PAT1085,2025-06-25,Dermatology,DM-D1,Follow-up,Yes,Attended,13.0,700
+APT21387,PAT0579,2025-06-25,Urology,UR-D2,Follow-up,Yes,Attended,24.0,800
+APT21558,PAT0938,2025-06-25,General Medicine,GM-D2,New,Yes,Cancelled,,585
+APT21605,PAT0804,2025-06-25,General Medicine,GM-D3,New,Yes,Attended,,585
+APT21705,PAT1026,2025-06-25,Dermatology,DM-D1,Follow-up,Yes,Attended,8.0,600
+APT21718,PAT1071,2025-06-25,General Medicine,GM-D2,New,No,No-Show,,585
+APT21769,PAT1230,2025-06-25,Orthopedics,OR-D1,New,Yes,Attended,54.0,1105
+APT21777,PAT0951,2025-06-25,Orthopedics,OR-D3,Follow-up,No,Attended,33.0,850
+APT21904,PAT0680,2025-06-25,General Medicine,GM-D1,New,No,No-Show,,585
+APT21923,PAT0276,2025-06-25,General Medicine,GM-D4,Follow-up,No,No-Show,,450
+APT22178,PAT0022,2025-06-25,Gastroenterology,GA-D3,Follow-up,No,Attended,43.0,900
+APT22247,PAT0613,2025-06-25,General Medicine,GM-D4,New,No,Attended,42.0,635
+APT22287,PAT0746,2025-06-25,Orthopedics,OR-D1,New,No,Attended,53.0,1105
+APT22327,PAT1399,2025-06-25,Pediatrics,PD-D1,Follow-up,No,Attended,22.0,550
+APT20070,PAT0033,2025-06-26,Orthopedics,OR-D4,New,Yes,Attended,34.0,1105
+APT20360,PAT0761,2025-06-26,Urology,UR-D1,New,Yes,Attended,30.0,1090
+APT20396,PAT0296,2025-06-26,General Medicine,GM-D1,Follow-up,Yes,Attended,29.0,450
+APT20478,PAT0481,2025-06-26,Urology,UR-D1,Follow-up,No,Cancelled,,800
+APT20542,PAT1101,2025-06-26,Pediatrics,PD-D4,Follow-up,No,Attended,20.0,500
+APT20569,PAT1138,2025-06-26,Cardiology,CD-D1,New,No,Attended,57.0,1380
+APT20684,PAT1352,2025-06-26,General Medicine,GM-D4,New,Yes,Attended,43.0,635
+APT20709,PAT0734,2025-06-26,Cardiology,CD-D2,Follow-up,Yes,Attended,56.0,1100
+APT20971,PAT1086,2025-06-26,Pediatrics,PD-D2,Follow-up,Yes,Attended,32.0,550
+APT20989,PAT0485,2025-06-26,Dermatology,DM-D1,New,No,Attended,23.0,795
+APT21167,PAT0882,2025-06-26,Pediatrics,PD-D4,Follow-up,Yes,Attended,13.0,500
+APT21341,PAT1369,2025-06-26,Urology,UR-D1,Follow-up,No,Attended,,850
+APT21379,PAT0391,2025-06-26,Urology,UR-D2,Follow-up,Yes,Attended,17.0,850
+APT21490,PAT0950,2025-06-26,Urology,UR-D1,Follow-up,Yes,Attended,25.0,850
+APT21763,PAT1281,2025-06-26,Cardiology,CD-D1,New,Yes,Attended,69.0,1430
+APT21915,PAT1263,2025-06-26,Pediatrics,PD-D1,Follow-up,Yes,Cancelled,,550
+APT22025,PAT0745,2025-06-26,Dermatology,DM-D3,Follow-up,Yes,Attended,23.0,650
+APT22195,PAT0625,2025-06-26,Dermatology,DM-D2,Follow-up,No,Attended,20.0,650
+APT22301,PAT0553,2025-06-26,Cardiology,CD-D3,Follow-up,Yes,Attended,14.0,1050
+APT22316,PAT0253,2025-06-26,Cardiology,CD-D1,Follow-up,No,Cancelled,,1100
+APT22331,PAT1049,2025-06-26,General Medicine,GM-D4,Follow-up,Yes,Attended,18.0,450
+APT22351,PAT0658,2025-06-26,Urology,UR-D2,Follow-up,Yes,Attended,26.0,800
+APT20111,PAT1181,2025-06-27,Gastroenterology,GA-D1,Follow-up,No,No-Show,,950
+APT20312,PAT0786,2025-06-27,Cardiology,CD-D3,Follow-up,No,No-Show,,1050
+APT20415,PAT0702,2025-06-27,Cardiology,CD-D1,Follow-up,Yes,No-Show,,1100
+APT20472,PAT0646,2025-06-27,Orthopedics,OR-D3,Follow-up,Yes,No-Show,,900
+APT20494,PAT0721,2025-06-27,Neurology,NE-D4,Follow-up,No,Attended,61.0,1300
+APT20559,PAT1297,2025-06-27,Cardiology,CD-D2,New,Yes,Attended,80.0,1480
+APT20760,PAT0494,2025-06-27,Cardiology,CD-D4,New,Yes,Attended,48.0,1430
+APT21031,PAT0075,2025-06-27,Pediatrics,PD-D2,Follow-up,No,Attended,29.0,550
+APT21132,PAT0496,2025-06-27,Neurology,NE-D4,Follow-up,No,Attended,51.0,1300
+APT21159,PAT0165,2025-06-27,Pediatrics,PD-D1,Follow-up,No,Attended,30.0,600
+APT21267,PAT1172,2025-06-27,General Medicine,GM-D2,New,Yes,Attended,31.0,585
+APT21302,PAT1092,2025-06-27,Cardiology,CD-D4,Follow-up,No,Attended,30.0,1100
+APT21338,PAT0461,2025-06-27,Pediatrics,PD-D3,Follow-up,Yes,Attended,20.0,550
+APT21401,PAT0697,2025-06-27,Neurology,NE-D3,Follow-up,Yes,Attended,28.0,1300
+APT21486,PAT1316,2025-06-27,Cardiology,CD-D1,New,No,Attended,142.0,1430
+APT21518,PAT0324,2025-06-27,Cardiology,CD-D3,Follow-up,No,Attended,68.0,1150
+APT21530,PAT1098,2025-06-27,General Medicine,GM-D1,New,No,Attended,24.0,585
+APT21544,PAT1382,2025-06-27,Cardiology,CD-D2,Follow-up,Yes,Attended,59.0,1100
+APT21577,PAT0625,2025-06-27,Dermatology,DM-D2,New,No,Attended,125.0,895
+APT21625,PAT0188,2025-06-27,Orthopedics,OR-D3,New,Yes,Attended,69.0,1055
+APT21632,PAT0845,2025-06-27,Orthopedics,OR-D4,New,Yes,Attended,67.0,1055
+APT21680,PAT0874,2025-06-27,Pediatrics,PD-D3,Follow-up,Yes,Attended,15.0,600
+APT21776,PAT0545,2025-06-27,Neurology,NE-D3,Follow-up,Yes,Attended,56.0,1300
+APT21816,PAT0142,2025-06-27,Gastroenterology,GA-D4,Follow-up,Yes,Attended,30.0,900
+APT21858,PAT0366,2025-06-27,General Medicine,GM-D2,Follow-up,Yes,Attended,41.0,400
+APT21986,PAT1381,2025-06-27,Pediatrics,PD-D4,Follow-up,Yes,Attended,,550
+APT21994,PAT0778,2025-06-27,Pediatrics,PD-D1,New,Yes,No-Show,,765
+APT22040,PAT0871,2025-06-27,Urology,UR-D2,New,No,No-Show,,1090
+APT22092,PAT0252,2025-06-27,General Medicine,GM-D2,New,Yes,Attended,57.0,535
+APT22161,PAT0667,2025-06-27,Pediatrics,PD-D1,New,No,No-Show,,715
+APT22170,PAT0259,2025-06-27,Orthopedics,OR-D3,New,Yes,No-Show,,1055
+APT22203,PAT1201,2025-06-27,General Medicine,GM-D1,Follow-up,Yes,Attended,24.0,450
+APT20069,PAT0876,2025-06-28,General Medicine,GM-D4,New,Yes,Attended,65.0,585
+APT20182,PAT0310,2025-06-28,Orthopedics,OR-D1,Follow-up,No,Attended,21.0,900
+APT20198,PAT0867,2025-06-28,General Medicine,GM-D4,Follow-up,Yes,Attended,40.0,450
+APT20268,PAT0807,2025-06-28,Cardiology,CD-D3,Follow-up,Yes,Attended,65.0,1150
+APT20327,PAT0728,2025-06-28,Neurology,NE-D4,Follow-up,Yes,Attended,41.0,1300
+APT20376,PAT0937,2025-06-28,Gastroenterology,GA-D1,Follow-up,No,Attended,42.0,950
+APT20384,PAT0729,2025-06-28,Urology,UR-D4,Follow-up,Yes,Attended,,850
+APT20511,PAT0594,2025-06-28,Urology,UR-D1,Follow-up,Yes,Attended,30.0,800
+APT20668,PAT0016,2025-06-28,Gastroenterology,GA-D2,Follow-up,Yes,Attended,27.0,950
+APT20723,PAT0855,2025-06-28,Dermatology,DM-D4,Follow-up,Yes,Attended,18.0,700
+APT20893,PAT0991,2025-06-28,Neurology,NE-D2,New,Yes,Attended,68.0,1740
+APT20982,PAT0214,2025-06-28,Cardiology,CD-D1,Follow-up,Yes,Attended,69.0,1100
+APT21200,PAT0563,2025-06-28,Pediatrics,PD-D1,Follow-up,Yes,Attended,23.0,550
+APT21275,PAT0081,2025-06-28,Urology,UR-D2,New,No,Attended,39.0,1040
+APT21282,PAT0558,2025-06-28,Neurology,NE-D1,New,Yes,Attended,43.0,1740
+APT21359,PAT0277,2025-06-28,General Medicine,GM-D4,New,Yes,Attended,59.0,585
+APT21392,PAT1118,2025-06-28,Dermatology,DM-D4,New,No,Attended,31.0,845
+APT21570,PAT0606,2025-06-28,Urology,UR-D1,Follow-up,Yes,Attended,27.0,800
+APT21617,PAT0725,2025-06-28,Neurology,NE-D4,Follow-up,No,Attended,51.0,1300
+APT21658,PAT0825,2025-06-28,Orthopedics,OR-D2,New,Yes,No-Show,,1055
+APT21694,PAT0515,2025-06-28,Pediatrics,PD-D1,Follow-up,No,Attended,33.0,550
+APT21907,PAT1375,2025-06-28,Pediatrics,PD-D3,Follow-up,Yes,Attended,16.0,550
+APT21910,PAT0158,2025-06-28,Cardiology,CD-D3,New,Yes,Attended,172.0,1480
+APT21925,PAT1284,2025-06-28,Orthopedics,OR-D2,New,Yes,Attended,59.0,1055
+APT22031,PAT0242,2025-06-28,General Medicine,GM-D3,Follow-up,Yes,Attended,42.0,450
+APT22033,PAT0566,2025-06-28,Urology,UR-D3,Follow-up,Yes,Attended,33.0,800
+APT22075,PAT0283,2025-06-28,Urology,UR-D4,Follow-up,No,Attended,43.0,800
+APT22099,PAT0425,2025-06-28,Cardiology,CD-D3,Follow-up,No,No-Show,,1050
+APT22186,PAT0255,2025-06-28,Cardiology,CD-D2,Follow-up,Yes,Attended,44.0,1150
+APT22250,PAT1019,2025-06-28,General Medicine,GM-D1,Follow-up,No,No-Show,,400
+APT22265,PAT0115,2025-06-28,Neurology,NE-D4,New,Yes,Attended,68.0,1690
+APT20162,PAT0108,2025-06-30,General Medicine,GM-D1,Follow-up,No,No-Show,,450
+APT20321,PAT0040,2025-06-30,Urology,UR-D3,Follow-up,No,Attended,18.0,800
+APT20355,PAT1378,2025-06-30,Cardiology,CD-D1,Follow-up,No,Attended,53.0,1050
+APT20485,PAT0168,2025-06-30,General Medicine,GM-D2,New,No,Attended,44.0,635
+APT20530,PAT1306,2025-06-30,Dermatology,DM-D2,Follow-up,Yes,No-Show,,700
+APT20620,PAT0252,2025-06-30,Dermatology,DM-D1,Follow-up,Yes,Attended,20.0,650
+APT20658,PAT0808,2025-06-30,General Medicine,GM-D1,Follow-up,Yes,Attended,22.0,400
+APT20698,PAT1185,2025-06-30,General Medicine,GM-D1,Follow-up,No,No-Show,,450
+APT20932,PAT0091,2025-06-30,Pediatrics,PD-D1,Follow-up,Yes,Attended,15.0,550
+APT20999,PAT0227,2025-06-30,Neurology,NE-D4,Follow-up,No,Attended,,1300
+APT21005,PAT0165,2025-06-30,Gastroenterology,GA-D4,Follow-up,No,Attended,37.0,950
+APT21007,PAT0694,2025-06-30,Neurology,NE-D1,Follow-up,Yes,Attended,67.0,1300
+APT21143,PAT1106,2025-06-30,General Medicine,GM-D2,Follow-up,Yes,Attended,23.0,450
+APT21222,PAT0829,2025-06-30,Orthopedics,OR-D3,New,No,Attended,40.0,1105
+APT21286,PAT1344,2025-06-30,Cardiology,CD-D1,New,Yes,No-Show,,1480
+APT21350,PAT0606,2025-06-30,Cardiology,CD-D3,Follow-up,Yes,Attended,129.0,1100
+APT21354,PAT0066,2025-06-30,Orthopedics,OR-D2,Follow-up,No,No-Show,,800
+APT21375,PAT1198,2025-06-30,General Medicine,GM-D4,New,No,Attended,49.0,585
+APT21536,PAT1329,2025-06-30,General Medicine,GM-D4,New,Yes,Attended,56.0,535
+APT21609,PAT0886,2025-06-30,General Medicine,GM-D2,Follow-up,Yes,No-Show,,500
+APT21758,PAT1133,2025-06-30,Cardiology,CD-D3,New,Yes,Attended,61.0,1380
+APT21786,PAT1030,2025-06-30,Pediatrics,PD-D4,Follow-up,Yes,Attended,91.0,500
+APT22146,PAT0882,2025-06-30,General Medicine,GM-D1,Follow-up,No,No-Show,,450
+APT22183,PAT1256,2025-06-30,General Medicine,GM-D1,Follow-up,No,Cancelled,,450

@@ -1,0 +1,254 @@
+HOSPITAL APPOINTMENT OPERATIONS ANALYSIS - REPORT
+
+======================================================================
+TASK 1: Load and inspect the data
+======================================================================
+Raw rows loaded: 2420
+Columns: 10
+Date range: 2025-04-01 to 2025-06-30
+
+======================================================================
+TASK 2: Missing waiting times (identify)
+======================================================================
+Missing waiting time by attendance status:
+                   Has_Waiting_Time  Missing_Waiting_Time
+Attendance_Status                                        
+Attended                       1747                   112
+Cancelled                         0                   100
+No-Show                           0                   461
+
+======================================================================
+TASK 3: Duplicate Appointment_ID check
+======================================================================
+Duplicate Appointment_ID rows found: 20
+Fully identical duplicate rows: 20
+Rows before: 2420, rows after: 2400
+
+======================================================================
+TASK 2 (continued): Missing waiting times (handle)
+======================================================================
+Attended rows with missing waiting time (filled with department median): 110
+No-Show / Cancelled rows kept as NaN because no waiting happened.
+
+======================================================================
+TASK 4: Total appointments and attendance status %
+======================================================================
+Total appointments: 2400
+                   Count  Percentage
+Attendance_Status                   
+Attended            1844       76.83
+No-Show              457       19.04
+Cancelled             99        4.12
+
+======================================================================
+TASK 5: Average waiting time by department
+======================================================================
+                  Attended_Count  Avg_Wait_Min  Median_Wait_Min  Max_Wait_Min
+Department                                                                   
+Neurology                    159         56.75             52.0         174.0
+Cardiology                   253         50.81             47.0         184.0
+Orthopedics                  256         46.93             45.0         162.0
+General Medicine             365         42.65             40.0         169.0
+Gastroenterology             188         40.22             37.0         161.0
+Urology                      174         34.78             30.0         154.0
+Pediatrics                   262         28.42             25.0         164.0
+Dermatology                  187         24.71             20.0         138.0
+
+======================================================================
+TASK 6: No-show percentage by department
+======================================================================
+                  Total_Appointments  No_Shows  NoShow_Pct
+Department                                                
+Gastroenterology                 256        58       22.66
+Urology                          234        52       22.22
+Dermatology                      244        54       22.13
+General Medicine                 475        89       18.74
+Pediatrics                       341        63       18.48
+Orthopedics                      333        61       18.32
+Neurology                        201        34       16.92
+Cardiology                       316        46       14.56
+
+======================================================================
+TASK 7: SMS reminder vs attendance status
+======================================================================
+Counts:
+Attendance_Status  Attended  Cancelled  No-Show
+SMS_Reminder                                   
+No                      747         42      268
+Yes                    1097         57      189
+
+Row percentages:
+Attendance_Status  Attended  Cancelled  No-Show
+SMS_Reminder                                   
+No                    70.67       3.97    25.35
+Yes                   81.68       4.24    14.07
+
+No-show gap (No SMS minus SMS): 11.28 percentage points
+
+======================================================================
+TASK 8: Average consultation fee by department
+======================================================================
+                  Avg_Fee  Min_Fee  Max_Fee
+Department                                 
+Neurology         1457.11     1250     1740
+Cardiology        1220.19     1050     1480
+Gastroenterology  1059.53      900     1285
+Orthopedics        944.52      800     1155
+Urology            882.61      750     1090
+Dermatology        720.74      600      895
+Pediatrics         611.26      500      765
+General Medicine   502.20      400      635
+
+======================================================================
+TASK 9: Appointment volume by date and department
+======================================================================
+Average appointments per working day: 30.77
+
+Busiest 5 days:
+Appointment_Date
+2025-06-17    59
+2025-04-08    55
+2025-04-29    52
+2025-06-24    49
+2025-06-10    48
+
+Volume by day of week:
+             Total_Appointments  Working_Days  Avg_Per_Day
+Day_Of_Week                                               
+Monday                      362            13        27.85
+Tuesday                     585            13        45.00
+Wednesday                   373            13        28.69
+Thursday                    375            13        28.85
+Friday                      365            13        28.08
+Saturday                    340            13        26.15
+
+Department workload:
+                  Total_Appointments  Doctors  Share_Pct  Appts_Per_Doctor
+Department                                                                
+General Medicine                 475        4      19.79             118.8
+Pediatrics                       341        4      14.21              85.2
+Orthopedics                      333        4      13.88              83.2
+Cardiology                       316        4      13.17              79.0
+Gastroenterology                 256        4      10.67              64.0
+Dermatology                      244        4      10.17              61.0
+Urology                          234        4       9.75              58.5
+Neurology                        201        4       8.38              50.2
+
+======================================================================
+TASK 10: Waiting time - New vs Follow-up
+======================================================================
+                  Attended_Count  Avg_Wait_Min  Median_Wait_Min  Max_Wait_Min
+Appointment_Type                                                             
+Follow-up                   1175         36.88             32.0         174.0
+New                          669         47.54             43.0         184.0
+
+New minus Follow-up average wait: 10.66 minutes
+
+Appointment_Type  Follow-up    New  Difference
+Department                                    
+Cardiology            45.30  60.96       15.66
+Dermatology           21.58  31.32        9.74
+Gastroenterology      38.29  43.55        5.26
+General Medicine      40.22  46.24        6.02
+Neurology             53.42  61.10        7.68
+Orthopedics           43.11  53.52       10.41
+Pediatrics            23.98  37.03       13.05
+Urology               31.93  41.46        9.53
+
+======================================================================
+TASK 11: NumPy statistics of waiting time
+======================================================================
+Statistic   Value
+    Count 1844.00
+     Mean   40.75
+   Median   37.00
+       Q1   26.00
+       Q2   37.00
+       Q3   48.00
+  Std_Dev   23.89
+      Min    5.00
+      Max  184.00
+
+======================================================================
+TASK 12: Outliers in waiting time (IQR method)
+======================================================================
+IQR = 22.0, lower limit = -7.0, upper limit = 81.0
+Unusually long waits: 83
+
+                  Outlier_Count  Avg_Outlier_Wait
+Department                                       
+Cardiology                   16            131.56
+Neurology                    15            115.67
+General Medicine             12            133.25
+Orthopedics                   9            128.67
+Pediatrics                    9            132.44
+Dermatology                   8            116.00
+Urology                       8            126.38
+Gastroenterology              6            130.00
+
+======================================================================
+TASK 13: Waiting-time categories
+======================================================================
+                   Count  Percentage
+Waiting_Band                        
+Very Short (0-15)     88        4.77
+Short (16-30)        579       31.40
+Moderate (31-45)     606       32.86
+Long (46-60)         383       20.77
+Very Long (60+)      188       10.20
+
+By department (%):
+Waiting_Band      Very Short (0-15)  Short (16-30)  Moderate (31-45)  Long (46-60)  Very Long (60+)
+Department                                                                                         
+Cardiology                     1.58          12.65             30.04         35.57            20.16
+Dermatology                   20.86          67.91              6.95          0.00             4.28
+Gastroenterology               2.66          20.21             52.13         20.21             4.79
+General Medicine               1.10          20.27             48.22         23.29             7.12
+Neurology                      0.00           6.29             20.13         44.65            28.93
+Orthopedics                    2.73          10.94             40.62         33.59            12.11
+Pediatrics                     9.92          66.03             20.23          0.38             3.44
+Urology                        1.72          55.75             31.03          6.90             4.60
+
+======================================================================
+TASK 14: Estimated consultation fees (attended only)
+======================================================================
+Estimated total fees (attended): Rs. 1609925
+                  Attended_Appointments  Avg_Fee  Estimated_Total_Fee  Fee_Share_Pct
+Department                                                                          
+Cardiology                          253  1215.10               307420          19.10
+Orthopedics                         256   943.05               241420          15.00
+Neurology                           159  1467.04               233260          14.49
+Gastroenterology                    188  1058.86               199065          12.36
+General Medicine                    365   505.74               184595          11.47
+Pediatrics                          262   604.90               158485           9.84
+Urology                             174   877.18               152630           9.48
+Dermatology                         187   711.50               133050           8.26
+
+Fee value of No-Show appointments: Rs. 394570
+Fee value of Cancelled appointments: Rs. 89105
+
+======================================================================
+EXTRA: Department bottleneck summary
+======================================================================
+(lower score = bigger bottleneck)
+                  Total_Appointments  Appts_Per_Doctor  Avg_Wait_Min  NoShow_Pct  Avg_Fee  Estimated_Total_Fee  Wait_Rank  NoShow_Rank  Load_Rank  Bottleneck_Score
+Department                                                                                                                                                         
+General Medicine                 475             118.8         42.65       18.74   502.20               184595        4.0          4.0        1.0               9.0
+Gastroenterology                 256              64.0         40.22       22.66  1059.53               199065        5.0          1.0        5.0              11.0
+Orthopedics                      333              83.2         46.93       18.32   944.52               241420        3.0          6.0        3.0              12.0
+Cardiology                       316              79.0         50.81       14.56  1220.19               307420        2.0          8.0        4.0              14.0
+Pediatrics                       341              85.2         28.42       18.48   611.26               158485        7.0          5.0        2.0              14.0
+Urology                          234              58.5         34.78       22.22   882.61               152630        6.0          2.0        7.0              15.0
+Neurology                        201              50.2         56.75       16.92  1457.11               233260        1.0          7.0        8.0              16.0
+Dermatology                      244              61.0         24.71       22.13   720.74               133050        8.0          3.0        6.0              17.0
+
+======================================================================
+TASK 15: Operational recommendations
+======================================================================
+1. Send SMS reminders for every appointment. No-show rate is 25.35% without a reminder versus 14.07% with one, a gap of 11.28 percentage points. Reminders cost little and protect doctor time.
+2. Target Gastroenterology (highest no-show rate, 22.66%) with a second reminder 24 hours before the visit and a simple confirm/cancel reply, so freed slots can be offered to waiting patients.
+3. Reduce waiting at Neurology (average 56.75 minutes). Review how slots are spaced and stagger arrival times; consider extra front-desk or triage support during its peak hours.
+4. Add capacity on Tuesday (average 45.0 appointments per day, the highest of the week) and rebalance load for General Medicine, which has 118.8 appointments per doctor. Move some bookings to quieter days.
+5. Give new-patient appointments longer slots, since new patients wait about 10.7 minutes more than follow-ups. Also review the 83 unusually long waits (above 81.0 minutes) to find the doctors and days where delays pile up. Together, 31.0% of attended visits wait over 45 minutes.
+
+Note: This is an operational analysis only. No clinical or medical conclusions are made. Results are based on a synthetic dataset.

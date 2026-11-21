@@ -1,0 +1,9 @@
+Department,Attended_Count,Avg_Wait_Min,Median_Wait_Min,Max_Wait_Min
+Neurology,159,56.75,52.0,174.0
+Cardiology,253,50.81,47.0,184.0
+Orthopedics,256,46.93,45.0,162.0
+General Medicine,365,42.65,40.0,169.0
+Gastroenterology,188,40.22,37.0,161.0
+Urology,174,34.78,30.0,154.0
+Pediatrics,262,28.42,25.0,164.0
+Dermatology,187,24.71,20.0,138.0
